@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 1.000000
-Scroll Position: 211
-Active Line: 220
-Video Position: 17862
+Scroll Position: 333
+Active Line: 340
+Video Position: 26847
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -243,29 +243,29 @@ Dialogue: 0,0:12:11.63,0:12:14.15,Default,,0,0,0,,It was useless for a community
 Dialogue: 0,0:12:14.25,0:12:17.75,Default,,0,0,0,,So we had to write a replacement for it.
 Dialogue: 0,0:12:19.35,0:12:20.55,Default,,0,0,0,,Throughout the 1980s,
 Dialogue: 0,0:12:20.65,0:12:23.15,Default,,0,0,0,,as Richard Stallman was building the GNU project,
-Dialogue: 0,0:12:23.35,0:12:26.75,Default,,0,0,0,,computer scientists from\Nthe University of California at Berkeley
-Dialogue: 0,0:12:26.85,0:12:29.15,Default,,0,0,0,,were developing their own free\Noperating system.
+Dialogue: 0,0:12:23.35,0:12:26.75,Default,,0,0,0,,computer scientists from the University of California at Berkeley
+Dialogue: 0,0:12:26.85,0:12:29.15,Default,,0,0,0,,were developing their own free operating system.
 Dialogue: 0,0:12:29.45,0:12:31.95,Default,,0,0,0,,Known as Berkeley Unix, or BSD,
-Dialogue: 0,0:12:32.05,0:12:35.95,Default,,0,0,0,,it was based upon the Unix kernel\Nwhich had been licensed from AT&T.
-Dialogue: 0,0:12:36.05,0:12:40.75,Default,,0,0,0,,However, due to legal problems with AT&T\Nand fragmentation of the source code,
-Dialogue: 0,0:12:40.95,0:12:44.55,Default,,0,0,0,,hackers and other non-institutional users\Nwere slow to adopt it
-Dialogue: 0,0:12:44.75,0:12:48.75,Default,,0,0,0,,Well, Unix consisted of a large number of\Nseparate programs
-Dialogue: 0,0:12:49.15,0:12:50.85,Default,,0,0,0,,that communicated with each other.
-Dialogue: 0,0:12:50.95,0:12:53.85,Default,,0,0,0,,So we just had to replace these programs\None by one.
-Dialogue: 0,0:12:53.95,0:12:57.65,Default,,0,0,0,,So what I started doing was\Nwriting a replacement for one program,
+Dialogue: 0,0:12:32.05,0:12:35.95,Default,,0,0,0,,it was based upon the Unix kernel which had been licensed from AT&T.
+Dialogue: 0,0:12:36.05,0:12:40.75,Default,,0,0,0,,However, due to legal problems with AT&T and fragmentation of the source code,
+Dialogue: 0,0:12:40.95,0:12:44.55,Default,,0,0,0,,hackers and other non-institutional users were slow to adopt it
+Dialogue: 0,0:12:44.75,0:12:48.75,Default,,0,0,0,,Well, Unix consisted of a large number of separate programs
+Dialogue: 0,0:12:48.75,0:12:50.85,Default,,0,0,0,,that communicated with each other.
+Dialogue: 0,0:12:50.95,0:12:53.85,Default,,0,0,0,,So we just had to replace these programs one by one.
+Dialogue: 0,0:12:53.95,0:12:57.65,Default,,0,0,0,,So what I started doing was writing a replacement for one program,
 Dialogue: 0,0:12:57.75,0:12:59.55,Default,,0,0,0,,and then another, and then another,
-Dialogue: 0,0:12:59.65,0:13:01.35,Default,,0,0,0,,and then people started joining me,
-Dialogue: 0,0:13:01.45,0:13:05.05,Default,,0,0,0,,because I published an announcement\Ninviting other people to join me
+Dialogue: 0,0:12:59.55,0:13:01.35,Default,,0,0,0,,and then people started joining me,
+Dialogue: 0,0:13:01.45,0:13:05.05,Default,,0,0,0,,because I published an announcement inviting other people to join me
 Dialogue: 0,0:13:05.15,0:13:06.75,Default,,0,0,0,,to help write these programs.
-Dialogue: 0,0:13:07.05,0:13:14.45,Default,,0,0,0,,And uh... and by around 1991,\Nwe had replaced practically all of them.
+Dialogue: 0,0:13:07.05,0:13:14.45,Default,,0,0,0,,And uh... and by around 1991, we had replaced practically all of them.
 Dialogue: 0,0:13:14.95,0:13:16.25,Default,,0,0,0,,[ What were some of the programs that you ... ]
 Dialogue: 0,0:13:16.35,0:13:19.45,Default,,0,0,0,,Well... we had to... to have a complete system,
 Dialogue: 0,0:13:19.55,0:13:23.15,Default,,0,0,0,,you need to have a kernel, which is the program that
 Dialogue: 0,0:13:23.25,0:13:26.05,Default,,0,0,0,,allocates resources to all the other programs,
-Dialogue: 0,0:13:26.25,0:13:29.55,Default,,0,0,0,,you need a compiler, which translates a program
-Dialogue: 0,0:13:29.65,0:13:34.95,Default,,0,0,0,,from readable source code\Nthat programmers can understand into numbers,
-Dialogue: 0,0:13:35.05,0:13:39.35,Default,,0,0,0,,mysterious numbers\Nthat the computer can actually run.
-Dialogue: 0,0:13:39.45,0:13:41.95,Default,,0,0,0,,you need other programs\Nthat go with the compiler to help do this job.
+Dialogue: 0,0:13:26.25,0:13:30.53,Default,,0,0,0,,you need a compiler, which translates a program from
+Dialogue: 0,0:13:30.53,0:13:34.95,Default,,0,0,0,,readable source code that programmers can understand into numbers,
+Dialogue: 0,0:13:35.05,0:13:39.35,Default,,0,0,0,,mysterious numbers that the computer can actually run.
+Dialogue: 0,0:13:39.45,0:13:41.95,Default,,0,0,0,,you need other programs that go with the compiler to help do this job.
 Dialogue: 0,0:13:41.95,0:13:43.05,Default,,0,0,0,,you need a debugger.
 Dialogue: 0,0:13:43.15,0:13:44.75,Default,,0,0,0,,you need a text editor.
 Dialogue: 0,0:13:44.85,0:13:45.95,Default,,0,0,0,,you need text formatters.
@@ -274,62 +274,56 @@ Dialogue: 0,0:13:47.95,0:13:49.25,Default,,0,0,0,,you need lots and lots of thin
 Dialogue: 0,0:13:49.35,0:13:52.95,Default,,0,0,0,,There are hundreds of programs\Nin a Unix-like operating system.
 Dialogue: 0,0:13:53.35,0:13:54.95,Default,,0,0,0,,I saw Stallman's announcement.
 Dialogue: 0,0:13:55.05,0:13:58.35,Default,,0,0,0,,Actually I met him in February of 1987.
-Dialogue: 0,0:13:58.45,0:14:02.95,Default,,0,0,0,,He came to give a five-day tutorial\Non Emacs at our company.
-Dialogue: 0,0:14:03.05,0:14:05.65,Default,,0,0,0,,And during the day he would explain
-Dialogue: 0,0:14:05.75,0:14:07.85,Default,,0,0,0,,new ways to think about Emacs
-Dialogue: 0,0:14:07.95,0:14:10.95,Default,,0,0,0,,and ways to extend it, enhance it,\Nand to use the Emacs source code
+Dialogue: 0,0:13:58.45,0:14:02.95,Default,,0,0,0,,He came to give a five-day tutorial on Emacs at our company.
+Dialogue: 0,0:14:03.05,0:14:07.85,Default,,0,0,0,,And during the day he would explain new ways to think about Emacs
+Dialogue: 0,0:14:07.85,0:14:10.95,Default,,0,0,0,,and ways to extend it, enhance it, and to use the Emacs source code
 Dialogue: 0,0:14:11.55,0:14:12.85,Default,,0,0,0,,uh, for better or worse.
-Dialogue: 0,0:14:12.95,0:14:16.15,Default,,0,0,0,,But in the evening,\Nhe was busily working on this compiler,
+Dialogue: 0,0:14:12.95,0:14:16.15,Default,,0,0,0,,But in the evening, he was busily working on this compiler,
 Dialogue: 0,0:14:16.25,0:14:18.55,Default,,0,0,0,,and he had not yet released it to the public,
-Dialogue: 0,0:14:18.65,0:14:22.25,Default,,0,0,0,,so he was uh, being a little bit uh,\Ncareful about
+Dialogue: 0,0:14:18.65,0:14:22.25,Default,,0,0,0,,so he was uh, being a little bit uh, careful about
 Dialogue: 0,0:14:22.35,0:14:24.75,Default,,0,0,0,,who, who got to see the source code.
-Dialogue: 0,0:14:24.85,0:14:28.25,Default,,0,0,0,,But I was very eager,\Nand when he first announced it in June,
+Dialogue: 0,0:14:24.85,0:14:28.25,Default,,0,0,0,,But I was very eager, and when he first announced it in June,
 Dialogue: 0,0:14:28.35,0:14:29.95,Default,,0,0,0,,I downloaded it immediately.
 Dialogue: 0,0:14:30.15,0:14:31.55,Default,,0,0,0,,I, I played with it.
 Dialogue: 0,0:14:31.65,0:14:33.85,Default,,0,0,0,,I got some, some pointers from him.
-Dialogue: 0,0:14:34.05,0:14:35.65,Default,,0,0,0,,And when I sent the source code back to him,
-Dialogue: 0,0:14:35.75,0:14:36.95,Default,,0,0,0,,he was very,
-Dialogue: 0,0:14:37.05,0:14:41.75,Default,,0,0,0,,uh, actually amazed that how quickly\NI was able to ramp up on his technology.
-Dialogue: 0,0:14:41.95,0:14:42.75,Default,,0,0,0,,Whenever we worked on something\Nat Stanford or in the university,
-Dialogue: 0,0:14:42.75,0:14:46.75,Default,,0,0,0,,Whenever we worked on something\Nat Stanford or in the university,
+Dialogue: 0,0:14:33.85,0:14:35.65,Default,,0,0,0,,And when I sent the source code back to him,
+Dialogue: 0,0:14:35.75,0:14:38.27,Default,,0,0,0,,he was very, uh, actually amazed that
+Dialogue: 0,0:14:38.27,0:14:41.75,Default,,0,0,0,,how quickly I was able to ramp up on his technology.
+Dialogue: 0,0:14:41.95,0:14:46.75,Default,,0,0,0,,Whenever we worked on something at Stanford or in the university,
 Dialogue: 0,0:14:46.85,0:14:48.65,Default,,0,0,0,,we would get, mostly at the time
-Dialogue: 0,0:14:48.75,0:14:52.65,Default,,0,0,0,,we were working off machines\Nfrom Digital Equipment or Sun, mostly Sun.
+Dialogue: 0,0:14:48.75,0:14:52.65,Default,,0,0,0,,we were working off machines from Digital Equipment or Sun, mostly Sun.
 Dialogue: 0,0:14:52.85,0:14:54.35,Default,,0,0,0,,Whenever we would get a Sun machine,
-Dialogue: 0,0:14:54.55,0:14:58.95,Default,,0,0,0,,the first thing we would do is\Nwe would spend literally days
+Dialogue: 0,0:14:54.55,0:14:58.95,Default,,0,0,0,,the first thing we would do is we would spend literally days
 Dialogue: 0,0:14:59.05,0:15:03.05,Default,,0,0,0,,downloading GNU free software from the Internet,
 Dialogue: 0,0:15:03.15,0:15:05.55,Default,,0,0,0,,building it and installing it on that Sun machine.
-Dialogue: 0,0:15:05.75,0:15:09.25,Default,,0,0,0,,The crucial thing about GNU is that\Nit's free software.
-Dialogue: 0,0:15:09.65,0:15:13.15,Default,,0,0,0,,And Free Software refers not to price,\Nbut to freedom.
+Dialogue: 0,0:15:05.75,0:15:09.25,Default,,0,0,0,,The crucial thing about GNU is that it's free software.
+Dialogue: 0,0:15:09.65,0:15:13.15,Default,,0,0,0,,And Free Software refers not to price, but to freedom.
 Dialogue: 0,0:15:13.35,0:15:15.65,Default,,0,0,0,,So think of free speech, not free beer.
 Dialogue: 0,0:15:16.65,0:15:18.95,Default,,0,0,0,,The freedoms that I am talking about
 Dialogue: 0,0:15:18.95,0:15:21.95,Default,,0,0,0,,are the freedoms to make changes if you want to,
 Dialogue: 0,0:15:22.05,0:15:24.75,Default,,0,0,0,,or hire somebody else to make changes for you
 Dialogue: 0,0:15:24.85,0:15:26.95,Default,,0,0,0,,if you're using a software for your business,
-Dialogue: 0,0:15:27.05,0:15:30.75,Default,,0,0,0,,to redistribute copies,\Nto share with other people,
+Dialogue: 0,0:15:27.05,0:15:30.75,Default,,0,0,0,,to redistribute copies, to share with other people,
 Dialogue: 0,0:15:30.85,0:15:33.95,Default,,0,0,0,,and to make improvements and publish them
-Dialogue: 0,0:15:34.05,0:15:36.95,Default,,0,0,0,,so that other people can\Nget the benefit of them, too.
-Dialogue: 0,0:15:37.05,0:15:40.85,Default,,0,0,0,,And those are the freedoms that distinguish\Nfree software from non-free software.
-Dialogue: 0,0:15:41.15,0:15:44.95,Default,,0,0,0,,These are the freedoms that\Nenable people to form a community.
+Dialogue: 0,0:15:34.05,0:15:36.95,Default,,0,0,0,,so that other people can get the benefit of them, too.
+Dialogue: 0,0:15:37.05,0:15:40.85,Default,,0,0,0,,And those are the freedoms that distinguish free software from non-free software.
+Dialogue: 0,0:15:41.15,0:15:44.95,Default,,0,0,0,,These are the freedoms that enable people to form a community.
 Dialogue: 0,0:15:45.05,0:15:46.55,Default,,0,0,0,,If you don't have all these freedoms,
-Dialogue: 0,0:15:46.55,0:15:49.35,Default,,0,0,0,,you're being divided and\Ndominated by somebody.
-Dialogue: 0,0:15:50.35,0:15:53.45,Default,,0,0,0,,My first experience contributing to free software
-Dialogue: 0,0:15:53.45,0:15:57.45,Default,,0,0,0,,came in late 1989, early 1990.
-Dialogue: 0,0:15:57.65,0:16:00.65,Default,,0,0,0,,I was working as a graduate student\Nat Stanford University
-Dialogue: 0,0:16:00.85,0:16:03.05,Default,,0,0,0,,on Computer Aided Design tools.
-Dialogue: 0,0:16:03.15,0:16:05.25,Default,,0,0,0,,One of the pieces I needed was a tool
-Dialogue: 0,0:16:05.35,0:16:06.95,Default,,0,0,0,,called a parser generator.
+Dialogue: 0,0:15:46.55,0:15:49.35,Default,,0,0,0,,you're being divided and dominated by somebody.
+Dialogue: 0,0:15:50.35,0:15:57.45,Default,,0,0,0,,My first experience contributing to free software came in late 1989, early 1990.
+Dialogue: 0,0:15:57.65,0:16:03.05,Default,,0,0,0,,I was working as a graduate student at Stanford University on Computer Aided Design tools.
+Dialogue: 0,0:16:03.15,0:16:06.95,Default,,0,0,0,,One of the pieces I needed was a tool called a parser generator.
 Dialogue: 0,0:16:07.25,0:16:09.25,Default,,0,0,0,,Well, the Free Software Foundation
-Dialogue: 0,0:16:09.35,0:16:12.75,Default,,0,0,0,,under Richard Stallman\Ncreated a great tool called "bison".
-Dialogue: 0,0:16:12.95,0:16:16.85,Default,,0,0,0,,I needed a tool that worked with C++.\NBison worked with C.
-Dialogue: 0,0:16:17.35,0:16:20.55,Default,,0,0,0,,I modified bison to create something\Ncalled "bison++".
+Dialogue: 0,0:16:09.35,0:16:12.75,Default,,0,0,0,,under Richard Stallman created a great tool called "bison".
+Dialogue: 0,0:16:12.95,0:16:16.85,Default,,0,0,0,,I needed a tool that worked with C++. Bison worked with C.
+Dialogue: 0,0:16:17.35,0:16:20.55,Default,,0,0,0,,I modified bison to create something called "bison++".
 Dialogue: 0,0:16:20.65,0:16:23.15,Default,,0,0,0,,And it's a tremendous feeling of empowerment
 Dialogue: 0,0:16:23.25,0:16:26.35,Default,,0,0,0,,be able to take a piece of software that was available
-Dialogue: 0,0:16:26.45,0:16:30.95,Default,,0,0,0,,and create what you needed\Nin a very short piece of time by modifying it.
+Dialogue: 0,0:16:26.45,0:16:30.95,Default,,0,0,0,,and create what you needed in a very short piece of time by modifying it.
 Dialogue: 0,0:16:31.15,0:16:33.55,Default,,0,0,0,,I put it back on the Internet
-Dialogue: 0,0:16:33.65,0:16:35.35,Default,,0,0,0,,and I was amazed at the number of people
-Dialogue: 0,0:16:35.45,0:16:37.35,Default,,0,0,0,,that picked it up and started using it.
+Dialogue: 0,0:16:33.65,0:16:37.35,Default,,0,0,0,,and I was amazed at the number of people that picked it up and started using it.
 Dialogue: 0,0:16:37.45,0:16:41.45,Default,,0,0,0,,In fact, I remember going to, uh job interviews,
-Dialogue: 0,0:16:41.75,0:16:44.55,Default,,0,0,0,,I, at various times, considered\Njust going out getting a job.
+Dialogue: 0,0:16:41.75,0:16:44.55,Default,,0,0,0,,I, at various times, considered just going out getting a job.
 Dialogue: 0,0:16:44.75,0:16:46.55,Default,,0,0,0,,And I'd gone to a job interview.
 Dialogue: 0,0:16:46.65,0:16:48.05,Default,,0,0,0,,And I was talking to one of the people,
 Dialogue: 0,0:16:48.15,0:16:50.95,Default,,0,0,0,,and I started asking them about what tools they used,
@@ -340,32 +334,32 @@ Dialogue: 0,0:17:00.65,0:17:03.25,Default,,0,0,0,,It does have an owner.
 Dialogue: 0,0:17:03.35,0:17:04.45,Default,,0,0,0,,And it has a license.
 Dialogue: 0,0:17:04.55,0:17:06.35,Default,,0,0,0,,It is not public domain.
 Dialogue: 0,0:17:06.45,0:17:09.05,Default,,0,0,0,,If we put the software in the public domain,
-Dialogue: 0,0:17:09.15,0:17:12.35,Default,,0,0,0,,somebody else would be able to make\Na little bit of changes
+Dialogue: 0,0:17:09.15,0:17:12.35,Default,,0,0,0,,somebody else would be able to make a little bit of changes
 Dialogue: 0,0:17:12.45,0:17:15.35,Default,,0,0,0,,and turn that into a proprietary software package,
-Dialogue: 0,0:17:15.45,0:17:18.25,Default,,0,0,0,,which means that\Nthe users would be running our software,
+Dialogue: 0,0:17:15.45,0:17:18.25,Default,,0,0,0,,which means that the users would be running our software,
 Dialogue: 0,0:17:18.35,0:17:21.25,Default,,0,0,0,,but they wouldn't have freedom to cooperate and share.
 Dialogue: 0,0:17:21.95,0:17:25.65,Default,,0,0,0,,To prevent that, we use a technique called "Copyleft".
-Dialogue: 0,0:17:25.95,0:17:29.15,Default,,0,0,0,,The idea of Copyleft is that\Nit's "Copyright" flipped over.
+Dialogue: 0,0:17:25.95,0:17:29.15,Default,,0,0,0,,The idea of Copyleft is that it's "Copyright" flipped over.
 Dialogue: 0,0:17:29.95,0:17:31.65,Default,,0,0,0,,And what we do is, we say,
 Dialogue: 0,0:17:31.75,0:17:33.65,Default,,0,0,0,,this software is copyrighted
-Dialogue: 0,0:17:33.75,0:17:38.05,Default,,0,0,0,,and we, the authors give you permission\Nto redistribute copies,
+Dialogue: 0,0:17:33.75,0:17:38.05,Default,,0,0,0,,and we, the authors give you permission to redistribute copies,
 Dialogue: 0,0:17:38.15,0:17:39.65,Default,,0,0,0,,we give you permission to change,
 Dialogue: 0,0:17:39.75,0:17:41.35,Default,,0,0,0,,we give you permission to add to it.
 Dialogue: 0,0:17:41.45,0:17:43.15,Default,,0,0,0,,But when you redistribute it,
-Dialogue: 0,0:17:43.25,0:17:46.95,Default,,0,0,0,,it has to be under these terms,\Nno more and no less.
+Dialogue: 0,0:17:43.25,0:17:46.95,Default,,0,0,0,,it has to be under these terms, no more and no less.
 Dialogue: 0,0:17:47.05,0:17:49.25,Default,,0,0,0,,So that whoever gets it from you
-Dialogue: 0,0:17:49.35,0:17:54.65,Default,,0,0,0,,also gets the freedom to cooperate\Nwith other people, if he wants to.
+Dialogue: 0,0:17:49.35,0:17:54.65,Default,,0,0,0,,also gets the freedom to cooperate with other people, if he wants to.
 Dialogue: 0,0:17:54.75,0:17:58.25,Default,,0,0,0,,And then, in this way everywhere the software goes,
 Dialogue: 0,0:17:58.35,0:17:59.95,Default,,0,0,0,,the freedom goes, too.
 Dialogue: 0,0:18:00.05,0:18:02.35,Default,,0,0,0,,And it becomes an inalienable right
 Dialogue: 0,0:18:03.45,0:18:06.05,Default,,0,0,0,,to cooperate with other people and form a community.
-Dialogue: 0,0:18:06.25,0:18:09.55,Default,,0,0,0,,[ And so, what is that? the license?\Nwhat was that... ]
+Dialogue: 0,0:18:06.25,0:18:09.55,Default,,0,0,0,,[ And so, what is that? the license? what was that... ]
 Dialogue: 0,0:18:09.65,0:18:11.65,Default,,0,0,0,,Well, Copyleft being a general idea,
 Dialogue: 0,0:18:11.75,0:18:14.75,Default,,0,0,0,,in order to use it, you have to have specific example.
-Dialogue: 0,0:18:14.85,0:18:18.55,Default,,0,0,0,,The specific example we use for\Nmost GNU software packages
+Dialogue: 0,0:18:14.85,0:18:18.55,Default,,0,0,0,,The specific example we use for most GNU software packages
 Dialogue: 0,0:18:18.65,0:18:21.55,Default,,0,0,0,,is the GNU General Public License,
-Dialogue: 0,0:18:21.65,0:18:25.65,Default,,0,0,0,,a particular document in legalese\Nwhich accomplishes this job.
-Dialogue: 0,0:18:25.95,0:18:28.65,Default,,0,0,0,,A lot of other people use that same license,\Nfor example,
+Dialogue: 0,0:18:21.65,0:18:25.65,Default,,0,0,0,,a particular document in legalese which accomplishes this job.
+Dialogue: 0,0:18:25.95,0:18:28.65,Default,,0,0,0,,A lot of other people use that same license, for example,
 Dialogue: 0,0:18:28.75,0:18:32.15,Default,,0,0,0,,Linus Torvalds uses that license for Linux as well.
 Dialogue: 0,0:18:33.15,0:18:36.65,Default,,0,0,0,,Well, the license I use is the\NGNU General Public License.
 Dialogue: 0,0:18:36.75,0:18:38.65,Default,,0,0,0,,That's the one Richard Stallman wrote.
