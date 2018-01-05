@@ -200,7 +200,7 @@ Dialogue: 0,0:09:42.15,0:09:46.85,Default,,0,0,0,,and he couldn't get the compan
 Dialogue: 0,0:09:46.85,0:09:48.95,Default,,0,0,0,,even though it would have been to their advantage to do so.
 Dialogue: 0,0:09:48.95,0:09:51.85,Default,,0,0,0,,And that put me into a moral dilemma, you see?
 Dialogue: 0,0:09:51.95,0:09:57.55,Default,,0,0,0,,Because to get one of the modern computers of the day, which was the early 80's,
-Dialogue: 0,0:09:58.05,0:10:00.85,Default,,0,0,0,,you would have to get a proprietory operating system.
+Dialogue: 0,0:09:58.05,0:10:00.85,Default,,0,0,0,,you would have to get a proprietary operating system.
 Dialogue: 0,0:10:00.95,0:10:03.85,Default,,0,0,0,,The developers of those systems didn't share with other people,
 Dialogue: 0,0:10:03.95,0:10:07.85,Default,,0,0,0,,Instead they tried to control the users, dominate the users, restrict them.
 Dialogue: 0,0:10:08.35,0:10:10.45,Default,,0,0,0,,Say, if to get the system,
@@ -237,7 +237,7 @@ Dialogue: 0,0:11:55.85,0:12:00.35,Default,,0,0,0,,I was developing a system that
 Dialogue: 0,0:12:00.35,0:12:02.75,Default,,0,0,0,,but was not the Unix operating system.
 Dialogue: 0,0:12:02.75,0:12:04.25,Default,,0,0,0,,This was a different system.
 Dialogue: 0,0:12:04.25,0:12:06.65,Default,,0,0,0,,We would have to write it completely\Nfrom scratch
-Dialogue: 0,0:12:06.65,0:12:08.55,Default,,0,0,0,,because Unix was proprietory.
+Dialogue: 0,0:12:06.65,0:12:08.55,Default,,0,0,0,,because Unix was proprietary.
 Dialogue: 0,0:12:08.65,0:12:11.63,Default,,0,0,0,,We were forbidden to share Unix, We couldn't use Unix.
 Dialogue: 0,0:12:11.63,0:12:14.15,Default,,0,0,0,,It was useless for a community.
 Dialogue: 0,0:12:14.25,0:12:17.75,Default,,0,0,0,,So we had to write a replacement for it.
@@ -341,7 +341,7 @@ Dialogue: 0,0:17:03.35,0:17:04.45,Default,,0,0,0,,And it has a license.
 Dialogue: 0,0:17:04.55,0:17:06.35,Default,,0,0,0,,It is not public domain.
 Dialogue: 0,0:17:06.45,0:17:09.05,Default,,0,0,0,,If we put the software in the public domain,
 Dialogue: 0,0:17:09.15,0:17:12.35,Default,,0,0,0,,somebody else would be able to make\Na little bit of changes
-Dialogue: 0,0:17:12.45,0:17:15.35,Default,,0,0,0,,and turn that into a proprietory software package,
+Dialogue: 0,0:17:12.45,0:17:15.35,Default,,0,0,0,,and turn that into a proprietary software package,
 Dialogue: 0,0:17:15.45,0:17:18.25,Default,,0,0,0,,which means that\Nthe users would be running our software,
 Dialogue: 0,0:17:18.35,0:17:21.25,Default,,0,0,0,,but they wouldn't have freedom to cooperate and share.
 Dialogue: 0,0:17:21.95,0:17:25.65,Default,,0,0,0,,To prevent that, we use a technique called "Copyleft".
@@ -412,7 +412,7 @@ Dialogue: 0,0:20:46.45,0:20:48.45,Default,,0,0,0,,you have a choice of businesse
 Dialogue: 0,0:20:48.45,0:20:51.45,Default,,0,0,0,,are in the business of\Nproviding you with support.
 Dialogue: 0,0:20:51.45,0:20:53.45,Default,,0,0,0,,So they are going to have to in general give you
 Dialogue: 0,0:20:53.45,0:20:56.45,Default,,0,0,0,,good support or you go to somebody else.
-Dialogue: 0,0:20:56.45,0:20:58.45,Default,,0,0,0,,With proprietory software,
+Dialogue: 0,0:20:56.45,0:20:58.45,Default,,0,0,0,,With proprietary software,
 Dialogue: 0,0:20:58.75,0:21:01.45,Default,,0,0,0,,support is a monopoly, there is one company,
 Dialogue: 0,0:21:01.45,0:21:04.05,Default,,0,0,0,,typically, that has the source code
 Dialogue: 0,0:21:04.05,0:21:05.95,Default,,0,0,0,,and only they can give you support
