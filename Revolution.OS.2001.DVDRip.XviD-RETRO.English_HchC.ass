@@ -10,9 +10,9 @@ YCbCr Matrix: None
 [Aegisub Project Garbage]
 Last Style Storage: Default
 Video Zoom Percent: 1.000000
-Scroll Position: 161
-Active Line: 169
-Video Position: 13539
+Scroll Position: 211
+Active Line: 220
+Video Position: 17862
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,9 +26,9 @@ Dialogue: 0,0:00:06.05,0:00:08.85,Default,,0,0,0,,and uh, one of the people who 
 Dialogue: 0,0:00:08.85,0:00:11.95,Default,,0,0,0,,who is some kind of high mucky muck at Microsoft,
 Dialogue: 0,0:00:12.45,0:00:15.95,Default,,0,0,0,,I think uh, vice-president of consumer products or something like that.
 Dialogue: 0,0:00:15.95,0:00:18.75,Default,,0,0,0,,And uh, I hadn't actually met him
-Dialogue: 0,0:00:18.95,0:00:22.65,Default,,0,0,0,,I, I, I, uh, bumped in to him in an,\Nin an elevator... in an elevator
-Dialogue: 0,0:00:22.75,0:00:26.75,Default,,0,0,0,,And uh, I looked at his badge and said,\N"Oh, I see you work for Microsoft."
-Dialogue: 0,0:00:27.25,0:00:30.75,Default,,0,0,0,,And he looked back to me and said,\N"Oh, yeah and what do you do?"
+Dialogue: 0,0:00:18.95,0:00:22.65,Default,,0,0,0,,I, I, I, uh, bumped in to him in an, in an elevator... in an elevator
+Dialogue: 0,0:00:22.75,0:00:26.75,Default,,0,0,0,,And uh, I looked at his badge and said, "Oh, I see you work for Microsoft."
+Dialogue: 0,0:00:27.25,0:00:30.75,Default,,0,0,0,,And he looked back to me and said, "Oh, yeah and what do you do?"
 Dialogue: 0,0:00:30.85,0:00:33.75,Default,,0,0,0,,And I thought he seemed just a sort of a tad dismissive
 Dialogue: 0,0:00:33.85,0:00:36.95,Default,,0,0,0,,I mean,  here's the archetypal, you know, guy in a suit
 Dialogue: 0,0:00:37.45,0:00:38.95,Default,,0,0,0,,looking at a scruffy hacker
@@ -148,8 +148,8 @@ Dialogue: 0,0:07:00.45,0:07:03.75,Default,,0,0,0,,You can't change the software 
 Dialogue: 0,0:07:03.85,0:07:06.75,Default,,0,0,0,,for you to fix it, for your own application"
 Dialogue: 0,0:07:07.45,0:07:11.45,Default,,0,0,0,,And... um, you can actually blame some of that on Microsoft,
 Dialogue: 0,0:07:11.65,0:07:15.65,Default,,0,0,0,,They are one of the real pioneers of the proprietary software model.
-Dialogue: 0,0:07:16.05,0:07:18.25,Default,,0,0,0,,In the mid 1970's, a group of hackers
-Dialogue: 0,0:07:18.35,0:07:22.95,Default,,0,0,0,,and computer hobbyist in Silicon Valley formed the "Homebrew Computer Club".
+Dialogue: 0,0:07:16.05,0:07:19.75,Default,,0,0,0,,In the mid 1970's, a group of hackers and computer hobbyist
+Dialogue: 0,0:07:19.75,0:07:22.95,Default,,0,0,0,,in Silicon Valley formed the "Homebrew Computer Club".
 Dialogue: 0,0:07:23.45,0:07:26.95,Default,,0,0,0,,In the club January 31, 1976 newsletter,
 Dialogue: 0,0:07:26.95,0:07:29.65,Default,,0,0,0,,Bill Gates of the recently formed Microsoft,
 Dialogue: 0,0:07:29.95,0:07:31.45,Default,,0,0,0,,wrote an open letter to the community
@@ -190,61 +190,56 @@ Dialogue: 0,0:09:07.35,0:09:10.75,Default,,0,0,0,,and should be kicked out of an
 Dialogue: 0,0:09:10.75,0:09:13.65,Default,,0,0,0,,I would appreciate letters from anyone who wants to pay up,
 Dialogue: 0,0:09:13.65,0:09:15.45,Default,,0,0,0,,or has a suggestion or comment.
 Dialogue: 0,0:09:15.45,0:09:19.45,Default,,0,0,0,,Signed Bill Gates, General partner, Micro-Soft.
-Dialogue: 0,0:09:19.85,0:09:23.55,Default,,0,0,0,,In the late 70's and early 1980's,\NRichard Stallman was
-Dialogue: 0,0:09:23.55,0:09:26.85,Default,,0,0,0,,doing Artificial Intelligence research and coding
-Dialogue: 0,0:09:26.85,0:09:29.45,Default,,0,0,0,,at the MIT Artificial Intelligence Lab.
-Dialogue: 0,0:09:29.45,0:09:31.75,Default,,0,0,0,,Richard had a number of negative experiences
-Dialogue: 0,0:09:31.75,0:09:33.75,Default,,0,0,0,,during that period which soured him
-Dialogue: 0,0:09:33.75,0:09:35.85,Default,,0,0,0,,on the whole idea of commercial software.
+Dialogue: 0,0:09:19.85,0:09:24.60,Default,,0,0,0,,In the late 70's and early 1980's, Richard Stallman was doing
+Dialogue: 0,0:09:24.60,0:09:29.45,Default,,0,0,0,,Artificial Intelligence research and coding at the MIT Artificial Intelligence Lab.
+Dialogue: 0,0:09:29.45,0:09:32.64,Default,,0,0,0,,Richard had a number of negative experiences during that period
+Dialogue: 0,0:09:32.64,0:09:35.85,Default,,0,0,0,,which soured him on the whole idea of commercial software.
 Dialogue: 0,0:09:35.85,0:09:37.45,Default,,0,0,0,,[ such as? ]
-Dialogue: 0,0:09:37.45,0:09:41.45,Default,,0,0,0,,uh... some company wanted to work on and\Nwanted to fix was locked up.
-Dialogue: 0,0:09:42.15,0:09:46.15,Default,,0,0,0,,and he couldn't get the company that owned\Non the code to let him fix it
+Dialogue: 0,0:09:37.45,0:09:42.15,Default,,0,0,0,,uh... some company wanted to work on and wanted to fix was locked up.
+Dialogue: 0,0:09:42.15,0:09:46.85,Default,,0,0,0,,and he couldn't get the company that owned on the code to let him fix it
 Dialogue: 0,0:09:46.85,0:09:48.95,Default,,0,0,0,,even though it would have been to their advantage to do so.
 Dialogue: 0,0:09:48.95,0:09:51.85,Default,,0,0,0,,And that put me into a moral dilemma, you see?
-Dialogue: 0,0:09:51.95,0:09:57.55,Default,,0,0,0,,Because to get one of the modern computers\Nof the day, which was the early 80's,
-Dialogue: 0,0:09:58.05,0:10:00.85,Default,,0,0,0,,you would have to get a proprietory\Noperating system.
-Dialogue: 0,0:10:00.95,0:10:03.85,Default,,0,0,0,,The developers of those systems\Ndidn't share with other people,
-Dialogue: 0,0:10:03.95,0:10:05.95,Default,,0,0,0,,Instead they tried to control the users,
-Dialogue: 0,0:10:06.05,0:10:07.85,Default,,0,0,0,,dominate the users, restrict them.
+Dialogue: 0,0:09:51.95,0:09:57.55,Default,,0,0,0,,Because to get one of the modern computers of the day, which was the early 80's,
+Dialogue: 0,0:09:58.05,0:10:00.85,Default,,0,0,0,,you would have to get a proprietory operating system.
+Dialogue: 0,0:10:00.95,0:10:03.85,Default,,0,0,0,,The developers of those systems didn't share with other people,
+Dialogue: 0,0:10:03.95,0:10:07.85,Default,,0,0,0,,Instead they tried to control the users, dominate the users, restrict them.
 Dialogue: 0,0:10:08.35,0:10:10.45,Default,,0,0,0,,Say, if to get the system,
-Dialogue: 0,0:10:10.55,0:10:13.95,Default,,0,0,0,,you have to sign a  promise you won't\Nshare with anybody else.
-Dialogue: 0,0:10:14.05,0:10:17.85,Default,,0,0,0,,And to me that was essentially a promise\Nto be a bad person,
+Dialogue: 0,0:10:10.55,0:10:13.95,Default,,0,0,0,,you have to sign a promise you won't share with anybody else.
+Dialogue: 0,0:10:14.05,0:10:17.85,Default,,0,0,0,,And to me that was essentially a promise to be a bad person,
 Dialogue: 0,0:10:17.85,0:10:19.55,Default,,0,0,0,,to betray the rest of the world,
-Dialogue: 0,0:10:19.65,0:10:23.55,Default,,0,0,0,,cut myself off from society\Nfrom a cooperating community.
-Dialogue: 0,0:10:24.75,0:10:28.75,Default,,0,0,0,,And I had already experienced what happened\Nwhen other people did that to us,
-Dialogue: 0,0:10:28.75,0:10:30.25,Default,,0,0,0,,when they refused to share with us.
-Dialogue: 0,0:10:30.35,0:10:32.95,Default,,0,0,0,,because they had signed these contracts.
-Dialogue: 0,0:10:33.05,0:10:34.85,Default,,0,0,0,,And it hurt the whole lab,
-Dialogue: 0,0:10:34.95,0:10:37.65,Default,,0,0,0,,it kept us from doing useful things before.
+Dialogue: 0,0:10:19.65,0:10:23.55,Default,,0,0,0,,cut myself off from society from a cooperating community.
+Dialogue: 0,0:10:25.05,0:10:28.75,Default,,0,0,0,,And I had already experienced what happened when other people did that to us,
+Dialogue: 0,0:10:28.75,0:10:32.95,Default,,0,0,0,,when they refused to share with us, because they had signed these contracts.
+Dialogue: 0,0:10:33.05,0:10:34.85,Default,,0,0,0,,And it hurt the whole lab.
+Dialogue: 0,0:10:34.95,0:10:37.65,Default,,0,0,0,,It kept us from doing useful things before.
 Dialogue: 0,0:10:37.75,0:10:40.05,Default,,0,0,0,,So I just wasn't going to do that.
-Dialogue: 0,0:10:40.15,0:10:44.15,Default,,0,0,0,,I thought, This is wrong!\NI am not going to live this way"
-Dialogue: 0,0:10:44.35,0:10:48.35,Default,,0,0,0,,And from experiences like this\Nhe developed a profound hostility
-Dialogue: 0,0:10:48.45,0:10:51.05,Default,,0,0,0,,to the idea of\Nintellectual property and software.
-Dialogue: 0,0:10:51.15,0:10:54.75,Default,,0,0,0,,He eventually acted this out\Nby founding the Free Software Foundation.
-Dialogue: 0,0:10:54.85,0:10:59.35,Default,,0,0,0,,So, I looked for another alternative\Nand I realized:
+Dialogue: 0,0:10:40.15,0:10:44.15,Default,,0,0,0,,I thought, This is wrong! I am not going to live this way"
+Dialogue: 0,0:10:44.35,0:10:48.35,Default,,0,0,0,,And from experiences like this, he developed a profound hostility
+Dialogue: 0,0:10:48.45,0:10:51.05,Default,,0,0,0,,to the idea of intellectual property and software.
+Dialogue: 0,0:10:51.15,0:10:54.75,Default,,0,0,0,,He eventually acted this out by founding the Free Software Foundation.
+Dialogue: 0,0:10:54.85,0:10:59.35,Default,,0,0,0,,So, I looked for another alternative and I realized:
 Dialogue: 0,0:10:59.45,0:11:00.95,Default,,0,0,0,,I was an operating system developer.
 Dialogue: 0,0:11:01.05,0:11:04.75,Default,,0,0,0,,If I were to develop another operating system.
-Dialogue: 0,0:11:04.95,0:11:08.55,Default,,0,0,0,,And then as the author,\Nencourage everyone to share it.
-Dialogue: 0,0:11:08.65,0:11:12.35,Default,,0,0,0,,Say, everyone, " You come and get it,\Nuse this, form a new community"
-Dialogue: 0,0:11:13.35,0:11:17.65,Default,,0,0,0,,Not only could I gave myself a way\Nto keep using computers without
-Dialogue: 0,0:11:17.75,0:11:20.95,Default,,0,0,0,,betraying other people,\Nbut I'd give it to everybody else, too.
-Dialogue: 0,0:11:21.05,0:11:23.95,Default,,0,0,0,,Everybody would have a\Nway out of that moral dilemma
-Dialogue: 0,0:11:25.45,0:11:28.75,Default,,0,0,0,,And so I realized this was\Nwhat I had to do with my life.
+Dialogue: 0,0:11:04.95,0:11:08.55,Default,,0,0,0,,And then as the author, encourage everyone to share it.
+Dialogue: 0,0:11:08.65,0:11:12.35,Default,,0,0,0,,Say, everyone, " You come and get it, use this, form a new community"
+Dialogue: 0,0:11:13.35,0:11:18.91,Default,,0,0,0,,Not only could I gave myself a way to keep using computers without betraying other people,
+Dialogue: 0,0:11:18.91,0:11:20.95,Default,,0,0,0,,but I'd give it to everybody else, too.
+Dialogue: 0,0:11:21.05,0:11:23.95,Default,,0,0,0,,Everybody would have a way out of that moral dilemma
+Dialogue: 0,0:11:25.45,0:11:28.75,Default,,0,0,0,,And so I realized this was what I had to do with my life.
 Dialogue: 0,0:11:29.15,0:11:33.15,Default,,0,0,0,,I actually began the project in January of 1984.
-Dialogue: 0,0:11:33.25,0:11:35.95,Default,,0,0,0,,That's when I resigned for my job at MIT
-Dialogue: 0,0:11:36.05,0:11:39.85,Default,,0,0,0,,to start developing the GNU operating system.
+Dialogue: 0,0:11:33.25,0:11:39.85,Default,,0,0,0,,That's when I resigned for my job at MIT to start developing the GNU operating system.
 Dialogue: 0,0:11:40.85,0:11:44.15,Default,,0,0,0,,Now I should explain the name GNU is a hack.
 Dialogue: 0,0:11:44.35,0:11:47.15,Default,,0,0,0,,Because it's a recursive acronym.
 Dialogue: 0,0:11:47.55,0:11:50.55,Default,,0,0,0,,It stands for "GNU's Not Unix".
 Dialogue: 0,0:11:50.65,0:11:53.75,Default,,0,0,0,,You see so the "G" in "GNU" stands for "GNU".
 Dialogue: 0,0:11:53.75,0:11:55.85,Default,,0,0,0,,And what the name means is
-Dialogue: 0,0:11:55.85,0:12:00.35,Default,,0,0,0,,I was developing a system that was like\Nthe Unix operating system,
+Dialogue: 0,0:11:55.85,0:12:00.35,Default,,0,0,0,,I was developing a system that was like the Unix operating system,
 Dialogue: 0,0:12:00.35,0:12:02.75,Default,,0,0,0,,but was not the Unix operating system.
 Dialogue: 0,0:12:02.75,0:12:04.25,Default,,0,0,0,,This was a different system.
 Dialogue: 0,0:12:04.25,0:12:06.65,Default,,0,0,0,,We would have to write it completely\Nfrom scratch
 Dialogue: 0,0:12:06.65,0:12:08.55,Default,,0,0,0,,because Unix was proprietory.
-Dialogue: 0,0:12:08.65,0:12:10.45,Default,,0,0,0,,We were forbidden to share Unix,
-Dialogue: 0,0:12:10.55,0:12:14.15,Default,,0,0,0,,We couldn't use Unix.\NIt was useless for a community.
+Dialogue: 0,0:12:08.65,0:12:11.63,Default,,0,0,0,,We were forbidden to share Unix, We couldn't use Unix.
+Dialogue: 0,0:12:11.63,0:12:14.15,Default,,0,0,0,,It was useless for a community.
 Dialogue: 0,0:12:14.25,0:12:17.75,Default,,0,0,0,,So we had to write a replacement for it.
 Dialogue: 0,0:12:19.35,0:12:20.55,Default,,0,0,0,,Throughout the 1980s,
 Dialogue: 0,0:12:20.65,0:12:23.15,Default,,0,0,0,,as Richard Stallman was building the GNU project,
