@@ -8,201 +8,186 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 60
-Video Position: 4042
+Last Style Storage: Default
+Video Zoom Percent: 1.000000
+Scroll Position: 161
+Active Line: 169
+Video Position: 13539
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.95,0:00:03.45,Default,,0,0,0,,Any comments, suggestions and bug reports\NE-mail to: geek@geekbone.org
 Dialogue: 0,0:00:03.95,0:00:05.45,Default,,0,0,0,,I was at Agenda 2000
-Dialogue: 0,0:00:06.05,0:00:08.85,Default,,0,0,0,,and uh, one of the people who was there\Nwas Craig Mundie,
-Dialogue: 0,0:00:08.85,0:00:11.95,Default,,0,0,0,,who is some kind of\Nhigh mucky muck at Microsoft,
-Dialogue: 0,0:00:12.45,0:00:15.95,Default,,0,0,0,,I think uh, vice-president of consumer products\Nor something like that.
+Dialogue: 0,0:00:06.05,0:00:08.85,Default,,0,0,0,,and uh, one of the people who was there was Craig Mundie,
+Dialogue: 0,0:00:08.85,0:00:11.95,Default,,0,0,0,,who is some kind of high mucky muck at Microsoft,
+Dialogue: 0,0:00:12.45,0:00:15.95,Default,,0,0,0,,I think uh, vice-president of consumer products or something like that.
 Dialogue: 0,0:00:15.95,0:00:18.75,Default,,0,0,0,,And uh, I hadn't actually met him
 Dialogue: 0,0:00:18.95,0:00:22.65,Default,,0,0,0,,I, I, I, uh, bumped in to him in an,\Nin an elevator... in an elevator
 Dialogue: 0,0:00:22.75,0:00:26.75,Default,,0,0,0,,And uh, I looked at his badge and said,\N"Oh, I see you work for Microsoft."
 Dialogue: 0,0:00:27.25,0:00:30.75,Default,,0,0,0,,And he looked back to me and said,\N"Oh, yeah and what do you do?"
 Dialogue: 0,0:00:30.85,0:00:33.75,Default,,0,0,0,,And I thought he seemed just a sort of a tad dismissive
-Dialogue: 0,0:00:33.85,0:00:36.95,Default,,0,0,0,,I mean,  here's the archetypal, you know,\Nguy in a suit
+Dialogue: 0,0:00:33.85,0:00:36.95,Default,,0,0,0,,I mean,  here's the archetypal, you know, guy in a suit
 Dialogue: 0,0:00:37.45,0:00:38.95,Default,,0,0,0,,looking at a scruffy hacker
-Dialogue: 0,0:00:39.55,0:00:42.15,Default,,0,0,0,,And so I gave him the thousand\Nyard stare and said,
+Dialogue: 0,0:00:39.55,0:00:42.15,Default,,0,0,0,,And so I gave him the thousand yard stare and said
 Dialogue: 0,0:00:42.15,0:00:44.05,Default,,0,0,0,,"I'm your worst nightmare."
 Dialogue: 0,0:00:44.25,0:00:47.85,Default,,0,0,0,,Wonderview Productions\NPRESENTS
 Dialogue: 0,0:00:47.85,0:00:51.85,Default,,0,0,0,,A\NJ.T.S. Moore\NFILM
 Dialogue: 0,0:00:53.25,0:00:58.15,Default,,0,0,0,,REVOLUTION OS
 Dialogue: 0,0:00:59.85,0:01:02.05,Default,,0,0,0,,For most its short, but colorful history,
-Dialogue: 0,0:01:02.05,0:01:04.05,Default,,0,0,0,,the computer industry has been dominated
-Dialogue: 0,0:01:04.05,0:01:05.95,Default,,0,0,0,,by the Windows operating system.
-Dialogue: 0,0:01:05.95,0:01:07.95,Default,,0,0,0,,But that could soon change,
-Dialogue: 0,0:01:07.95,0:01:10.85,Default,,0,0,0,,as Windows faces a strong challenge from Linux
-Dialogue: 0,0:01:12.25,0:01:13.95,Default,,0,0,0,,Silicon Valley has long been the place
-Dialogue: 0,0:01:13.95,0:01:15.95,Default,,0,0,0,,to develop new technology,
+Dialogue: 0,0:01:02.05,0:01:05.95,Default,,0,0,0,,the computer industry has been dominated by the Windows operating system.
+Dialogue: 0,0:01:05.95,0:01:07.80,Default,,0,0,0,,But that could soon change,
+Dialogue: 0,0:01:07.80,0:01:10.85,Default,,0,0,0,,as Windows faces a strong challenge from Linux
+Dialogue: 0,0:01:12.25,0:01:15.95,Default,,0,0,0,,Silicon Valley has long been the place to develop new technology,
 Dialogue: 0,0:01:16.25,0:01:19.75,Default,,0,0,0,,start new companies and get really rich.
-Dialogue: 0,0:01:19.85,0:01:22.25,Default,,0,0,0,,Now The Valley is the front line in a revolution
-Dialogue: 0,0:01:22.45,0:01:25.15,Default,,0,0,0,,fighting for that most\Npolitically incorrect of ideas:
-Dialogue: 0,0:01:25.65,0:01:26.95,Default,,0,0,0,,individual freedom
-Dialogue: 0,0:01:27.65,0:01:29.25,Default,,0,0,0,,Day and night,\Na loose confederation of
-Dialogue: 0,0:01:29.45,0:01:31.45,Default,,0,0,0,,hackers and programmers zaps bits pieces of
-Dialogue: 0,0:01:31.55,0:01:34.25,Default,,0,0,0,,computer code around the world as it builds the tools
+Dialogue: 0,0:01:19.85,0:01:25.15,Default,,0,0,0,,Now The Valley is the front line in a revolution fighting for that most politically incorrect of ideas:
+Dialogue: 0,0:01:25.65,0:01:26.95,Default,,0,0,0,,Individual Freedom
+Dialogue: 0,0:01:27.65,0:01:30.56,Default,,0,0,0,,Day and night, a loose confederation of hackers and programmers
+Dialogue: 0,0:01:30.56,0:01:34.25,Default,,0,0,0,,zaps bits pieces of computer code around the world as it builds the tools
 Dialogue: 0,0:01:34.65,0:01:36.45,Default,,0,0,0,,to set computer users free
-Dialogue: 0,0:01:36.75,0:01:39.05,Default,,0,0,0,,using open information and\Nthe free exchange of technology
-Dialogue: 0,0:01:39.05,0:01:40.45,Default,,0,0,0,,to achieve its goals.
-Dialogue: 0,0:01:40.45,0:01:43.05,Default,,0,0,0,,This revolution began in the 1980's with
-Dialogue: 0,0:01:43.05,0:01:45.75,Default,,0,0,0,,the Free Software Movement and GNU project.
-Dialogue: 0,0:01:45.75,0:01:47.45,Default,,0,0,0,,And now is most commonly associated
-Dialogue: 0,0:01:47.75,0:01:51.05,Default,,0,0,0,,with Linux and the Open Source Movement.
+Dialogue: 0,0:01:36.75,0:01:40.45,Default,,0,0,0,,using open information and the free exchange of technology to achieve its goals.
+Dialogue: 0,0:01:40.45,0:01:45.75,Default,,0,0,0,,This revolution began in the 1980's with the Free Software Movement and GNU project.
+Dialogue: 0,0:01:45.75,0:01:51.05,Default,,0,0,0,,And now is most commonly associated with Linux and the Open Source Movement.
 Dialogue: 0,0:01:51.45,0:01:54.05,Default,,0,0,0,,What is Linux?
 Dialogue: 0,0:01:54.05,0:01:56.45,Default,,0,0,0,,We do have one sector that taking off today.
 Dialogue: 0,0:01:56.45,0:01:58.55,Default,,0,0,0,,It is the Linux-related sector.
-Dialogue: 0,0:01:58.55,0:02:00.65,Default,,0,0,0,,And I thought this might be\Na good opportunity to say,
+Dialogue: 0,0:01:58.55,0:02:00.65,Default,,0,0,0,,And I thought this might be a good opportunity to say,
 Dialogue: 0,0:02:00.95,0:02:02.65,Default,,0,0,0,,"What is Linux?"
 Dialogue: 0,0:02:02.85,0:02:03.85,Default,,0,0,0,,And I'll answer this question for you.
 Dialogue: 0,0:02:03.95,0:02:04.95,Default,,0,0,0,,Many of you probably already know,
-Dialogue: 0,0:02:04.95,0:02:06.45,Default,,0,0,0,,but\NThere are 12 million users out there
-Dialogue: 0,0:02:06.75,0:02:10.05,Default,,0,0,0,,A computer Operating System\Ndeveloped by hundreds of
+Dialogue: 0,0:02:04.95,0:02:06.45,Default,,0,0,0,,but there are 12 million users out there
+Dialogue: 0,0:02:06.75,0:02:10.05,Default,,0,0,0,,A computer Operating System developed by hundreds of
 Dialogue: 0,0:02:10.05,0:02:11.95,Default,,0,0,0,,programmers collaborating on the Internet
 Dialogue: 0,0:02:11.95,0:02:13.85,Default,,0,0,0,,A challenge to Microsoft Windows NT
-Dialogue: 0,0:02:13.95,0:02:15.45,Default,,0,0,0,,Very popular for its speed
-Dialogue: 0,0:02:16.45,0:02:17.75,Default,,0,0,0,,and so this's what the craze is about
-Dialogue: 0,0:02:19.45,0:02:21.65,Default,,0,0,0,,To kind of explain what Linux is you have to
-Dialogue: 0,0:02:21.65,0:02:23.65,Default,,0,0,0,,explain what an Operating System is
+Dialogue: 0,0:02:13.95,0:02:17.75,Default,,0,0,0,,Very popular for its speed and so this is what the craze is about
+Dialogue: 0,0:02:19.45,0:02:23.65,Default,,0,0,0,,To kind of explain what Linux is you have to explain what an Operating System is
 Dialogue: 0,0:02:23.65,0:02:26.15,Default,,0,0,0,,And... the thing about Operating System is\Nyou, I mean...
 Dialogue: 0,0:02:26.15,0:02:28.85,Default,,0,0,0,,you're never ever supposed to see it.
 Dialogue: 0,0:02:28.85,0:02:30.55,Default,,0,0,0,,Because...
 Dialogue: 0,0:02:30.55,0:02:32.75,Default,,0,0,0,,nobody really uses an Operating System,
 Dialogue: 0,0:02:33.15,0:02:35.95,Default,,0,0,0,,people use... programs... on their computer
-Dialogue: 0,0:02:35.95,0:02:37.95,Default,,0,0,0,,And the only mission in life
-Dialogue: 0,0:02:38.35,0:02:41.95,Default,,0,0,0,,of an operating system is to help\Nthose programs run.
-Dialogue: 0,0:02:42.25,0:02:45.55,Default,,0,0,0,,So an operating system never does\Nanything on its own
-Dialogue: 0,0:02:45.75,0:02:48.15,Default,,0,0,0,,It's only waiting for the programs to
-Dialogue: 0,0:02:48.15,0:02:50.45,Default,,0,0,0,,ask for certain resources or,
+Dialogue: 0,0:02:35.95,0:02:41.95,Default,,0,0,0,,And the only mission in life of an operating system is to help those programs run.
+Dialogue: 0,0:02:42.25,0:02:45.55,Default,,0,0,0,,So an operating system never does anything on its own
+Dialogue: 0,0:02:45.75,0:02:50.45,Default,,0,0,0,,It's only waiting for the programs to ask for certain resources or,
 Dialogue: 0,0:02:50.75,0:02:54.05,Default,,0,0,0,,or, ask for a certain file on the disk
-Dialogue: 0,0:02:54.25,0:02:55.95,Default,,0,0,0,,or ask for the programs to
-Dialogue: 0,0:02:55.95,0:02:57.75,Default,,0,0,0,,connect them to the outside world.
-Dialogue: 0,0:02:57.95,0:03:00.55,Default,,0,0,0,,And then the operating system\Ncomes, steps in and then
-Dialogue: 0,0:03:00.55,0:03:04.15,Default,,0,0,0,,tries to make it easy for people\Nto write programs
+Dialogue: 0,0:02:54.25,0:02:57.75,Default,,0,0,0,,or ask for the programs to connect them to the outside world.
+Dialogue: 0,0:02:57.95,0:03:00.55,Default,,0,0,0,,And then the operating system comes, steps in and then
+Dialogue: 0,0:03:00.55,0:03:04.15,Default,,0,0,0,,tries to make it easy for people to write programs
 Dialogue: 0,0:03:04.15,0:03:07.45,Default,,0,0,0,,And, What is Open Source?
 Dialogue: 0,0:03:07.45,0:03:10.45,Default,,0,0,0,,Open Source is a way for people to collaborate
-Dialogue: 0,0:03:10.75,0:03:16.15,Default,,0,0,0,,on software without being encumbered\Nby all of the problems of intellectual property,
-Dialogue: 0,0:03:16.15,0:03:20.65,Default,,0,0,0,,having to negotiate contracts every time\Nyou buy a piece of software,
+Dialogue: 0,0:03:10.75,0:03:16.15,Default,,0,0,0,,on software without being encumbered by all of the problems of intellectual property,
+Dialogue: 0,0:03:16.15,0:03:20.65,Default,,0,0,0,,having to negotiate contracts every time you buy a piece of software,
 Dialogue: 0,0:03:20.95,0:03:23.25,Default,,0,0,0,,have a lot of lawyers involved.
 Dialogue: 0,0:03:23.25,0:03:26.45,Default,,0,0,0,,In general, we just wanna get the software to work
-Dialogue: 0,0:03:26.85,0:03:28.25,Default,,0,0,0,,and we want be able to have
-Dialogue: 0,0:03:28.25,0:03:31.35,Default,,0,0,0,,people contribute fixes to that, etc..
-Dialogue: 0,0:03:32.25,0:03:34.45,Default,,0,0,0,,So we sort of sacrifice some of
-Dialogue: 0,0:03:34.45,0:03:36.35,Default,,0,0,0,,the intellectual property rights
-Dialogue: 0,0:03:36.45,0:03:38.95,Default,,0,0,0,,and just let the whole world\Nuse the software
+Dialogue: 0,0:03:26.85,0:03:31.35,Default,,0,0,0,,and we want be able to have people contribute fixes to that, etc..
+Dialogue: 0,0:03:32.25,0:03:36.35,Default,,0,0,0,,So we sort of sacrifice some of the intellectual property rights
+Dialogue: 0,0:03:36.45,0:03:38.95,Default,,0,0,0,,and just let the whole world use the software
 Dialogue: 0,0:03:40.95,0:03:42.25,Default,,0,0,0,,Before there could be Linux
-Dialogue: 0,0:03:42.35,0:03:45.65,Default,,0,0,0,,There was Richard Stallman\Nand the Free Software Movement.
+Dialogue: 0,0:03:42.35,0:03:45.65,Default,,0,0,0,,There was Richard Stallman and the Free Software Movement.
 Dialogue: 0,0:03:45.95,0:03:48.65,Default,,0,0,0,,They think of Richard Stallman as the...
 Dialogue: 0,0:03:49.75,0:03:52.45,Default,,0,0,0,,great philosopher, right.
 Dialogue: 0,0:03:52.45,0:03:54.25,Default,,0,0,0,,And think of me as the engineer
-Dialogue: 0,0:03:55.45,0:03:58.85,Default,,0,0,0,,Richard Stallman is the founding father of\Nthe Free Software Movement.
-Dialogue: 0,0:03:59.25,0:04:02.45,Default,,0,0,0,,Through his efforts to build the\NGNU Operating System.
-Dialogue: 0,0:04:02.55,0:04:06.35,Default,,0,0,0,,He created the legal, philosophical and\Ntechnological foundation
-Dialogue: 0,0:04:06.35,0:04:08.25,Default,,0,0,0,,for the Free Software Movement.
+Dialogue: 0,0:03:55.45,0:03:58.85,Default,,0,0,0,,Richard Stallman is the founding father of the Free Software Movement.
+Dialogue: 0,0:03:59.25,0:04:02.45,Default,,0,0,0,,Through his efforts to build the GNU Operating System.
+Dialogue: 0,0:04:02.55,0:04:08.25,Default,,0,0,0,,He created the legal, philosophical and technological foundation for the Free Software Movement.
 Dialogue: 0,0:04:08.25,0:04:09.85,Default,,0,0,0,,Without these contributions,
 Dialogue: 0,0:04:09.85,0:04:12.35,Default,,0,0,0,,it's unlikely that Linux and Open Source
 Dialogue: 0,0:04:12.35,0:04:14.45,Default,,0,0,0,,would have evolved in to their current forms today
-Dialogue: 0,0:04:15.15,0:04:19.15,Default,,0,0,0,,I joined the\NMIT Artificial Intelligence Lab in 1971,
+Dialogue: 0,0:04:15.15,0:04:19.15,Default,,0,0,0,,I joined the MIT Artificial Intelligence Lab in 1971,
 Dialogue: 0,0:04:19.45,0:04:23.45,Default,,0,0,0,,I joined... a thriving community of hackers,
-Dialogue: 0,0:04:24.15,0:04:25.45,Default,,0,0,0,,people who loved programming,
-Dialogue: 0,0:04:25.45,0:04:28.75,Default,,0,0,0,,loved exploring the what they could do\Nwith computers.
-Dialogue: 0,0:04:28.95,0:04:32.15,Default,,0,0,0,,And they had developed\Na complete Operating System,
+Dialogue: 0,0:04:24.15,0:04:28.75,Default,,0,0,0,,people who loved programming, loved exploring the what they could do\Nwith computers.
+Dialogue: 0,0:04:28.95,0:04:32.15,Default,,0,0,0,,And they had developed a complete Operating System,
 Dialogue: 0,0:04:32.15,0:04:34.65,Default,,0,0,0,,entirely written there.
 Dialogue: 0,0:04:34.75,0:04:37.25,Default,,0,0,0,,And I became one of the team, that
-Dialogue: 0,0:04:37.45,0:04:40.85,Default,,0,0,0,,continued to improve the Operating System,\Nadding new capabilities
-Dialogue: 0,0:04:40.85,0:04:44.85,Default,,0,0,0,,That was my job, and I loved it, we all loved it.\NThat's why we were doing it.
+Dialogue: 0,0:04:37.45,0:04:40.85,Default,,0,0,0,,continued to improve the Operating System, adding new capabilities
+Dialogue: 0,0:04:40.85,0:04:43.50,Default,,0,0,0,,That was my job, and I loved it, we all loved it.
+Dialogue: 0,0:04:43.50,0:04:44.85,Default,,0,0,0,,That's why we were doing it.
 Dialogue: 0,0:04:45.45,0:04:48.55,Default,,0,0,0,,And [clears throat] we called our system
 Dialogue: 0,0:04:48.55,0:04:51.05,Default,,0,0,0,,"the Incompatible Time Sharing System"
 Dialogue: 0,0:04:51.65,0:04:53.05,Default,,0,0,0,,which is an example of the
 Dialogue: 0,0:04:53.05,0:04:54.05,Default,,0,0,0,,playful spirit
 Dialogue: 0,0:04:54.45,0:04:56.35,Default,,0,0,0,,which defines a hacker.
-Dialogue: 0,0:04:56.55,0:04:59.65,Default,,0,0,0,,Hackers are people who enjoy\Nplayful cleverness.
-Dialogue: 0,0:05:00.45,0:05:02.95,Default,,0,0,0,,Well, it first started going wrong
-Dialogue: 0,0:05:02.95,0:05:06.45,Default,,0,0,0,,as the outside world started pressuring us\Nto have passwords.
-Dialogue: 0,0:05:06.55,0:05:09.75,Default,,0,0,0,,We didn't have any passwords\Non our computer.
-Dialogue: 0,0:05:09.95,0:05:11.95,Default,,0,0,0,,And the reason was that the hackers
-Dialogue: 0,0:05:11.95,0:05:14.25,Default,,0,0,0,,who'd originally designed the system
-Dialogue: 0,0:05:14.25,0:05:20.15,Default,,0,0,0,,realized that passwords were a way\Nthe administrators could control all the users.
+Dialogue: 0,0:04:56.55,0:04:59.65,Default,,0,0,0,,Hackers are people who enjoy playful cleverness.
+Dialogue: 0,0:05:00.45,0:05:06.45,Default,,0,0,0,,Well, it first started going wrong as the outside world started pressuring us to have passwords.
+Dialogue: 0,0:05:06.55,0:05:09.75,Default,,0,0,0,,We didn't have any passwords on our computer.
+Dialogue: 0,0:05:09.95,0:05:14.25,Default,,0,0,0,,And the reason was that the hackers who'd originally designed the system
+Dialogue: 0,0:05:14.25,0:05:20.15,Default,,0,0,0,,realized that passwords were a way the administrators could control all the users.
 Dialogue: 0,0:05:20.25,0:05:22.65,Default,,0,0,0,,And they didn't want to build tools
-Dialogue: 0,0:05:22.95,0:05:26.35,Default,,0,0,0,,you know, locks and keys for\Nthe administrators to control them,
-Dialogue: 0,0:05:26.65,0:05:28.75,Default,,0,0,0,,so they just didn't do it.\NThey left that out
-Dialogue: 0,0:05:29.75,0:05:32.95,Default,,0,0,0,,And we had the philosophy\Nthat whoever sitting at the computer
+Dialogue: 0,0:05:22.95,0:05:26.35,Default,,0,0,0,,you know, locks and keys for the administrators to control them,
+Dialogue: 0,0:05:26.65,0:05:28.75,Default,,0,0,0,,so they just didn't do it. They left that out
+Dialogue: 0,0:05:29.75,0:05:32.95,Default,,0,0,0,,And we had the philosophy that whoever sitting at the computer
 Dialogue: 0,0:05:33.05,0:05:35.45,Default,,0,0,0,,should be able to do whatever he wants
-Dialogue: 0,0:05:35.95,0:05:40.95,Default,,0,0,0,,and somebody else who was there yesterday\Nshouldn't be controlling what you do today
-Dialogue: 0,0:05:40.95,0:05:44.75,Default,,0,0,0,,When they put passwords onto one of\Nthe machines at MIT
+Dialogue: 0,0:05:35.95,0:05:40.95,Default,,0,0,0,,and somebody else who was there yesterday shouldn't be controlling what you do today
+Dialogue: 0,0:05:40.95,0:05:44.75,Default,,0,0,0,,When they put passwords onto one of the machines at MIT
 Dialogue: 0,0:05:45.95,0:05:47.95,Default,,0,0,0,,I and bunch of other hackers didn't like it,
 Dialogue: 0,0:05:47.95,0:05:51.95,Default,,0,0,0,,I decided to try a subversive sort of hack.\N[clears throat]
 Dialogue: 0,0:05:52.75,0:05:54.85,Default,,0,0,0,,I figured out how to decode the passwords,
 Dialogue: 0,0:05:54.85,0:05:58.25,Default,,0,0,0,,so by looking at the database of encoded passwords
-Dialogue: 0,0:05:58.25,0:06:01.75,Default,,0,0,0,,I could figure out what each person\Nwould actually type to login
+Dialogue: 0,0:05:58.25,0:06:01.75,Default,,0,0,0,,I could figure out what each person would actually type to login
 Dialogue: 0,0:06:02.25,0:06:04.65,Default,,0,0,0,,And so I sent messages to people, saying,
-Dialogue: 0,0:06:04.95,0:06:08.05,Default,,0,0,0,,"Hello? I see that you've\Nchosen the password mumble,
-Dialogue: 0,0:06:08.25,0:06:10.45,Default,,0,0,0,,whatever it was.\NHow about if you do as I do
+Dialogue: 0,0:06:04.95,0:06:08.94,Default,,0,0,0,,"Hello? I see that you've chosen the password "mumble", whatever it was.
+Dialogue: 0,0:06:08.94,0:06:10.45,Default,,0,0,0,,How about if you do as I do
 Dialogue: 0,0:06:10.95,0:06:12.95,Default,,0,0,0,,just type Enter for your password
 Dialogue: 0,0:06:12.95,0:06:15.95,Default,,0,0,0,,it's much shorter, much easier to type".
 Dialogue: 0,0:06:16.45,0:06:19.95,Default,,0,0,0,,And... of course with this message I was
-Dialogue: 0,0:06:19.95,0:06:23.45,Default,,0,0,0,,implicitly telling them\Nthe security was really just a joke.
-Dialogue: 0,0:06:23.75,0:06:27.75,Default,,0,0,0,,Anyway, but in addition\NI was letting them in on this hack.
-Dialogue: 0,0:06:28.25,0:06:31.95,Default,,0,0,0,,And eventually, A fifth of all the\Nusers on that computer joined me
+Dialogue: 0,0:06:19.95,0:06:23.45,Default,,0,0,0,,implicitly telling them the security was really just a joke.
+Dialogue: 0,0:06:23.75,0:06:27.75,Default,,0,0,0,,Anyway, but in addition I was letting them in on this hack.
+Dialogue: 0,0:06:28.25,0:06:31.95,Default,,0,0,0,,And eventually, A fifth of all the users on that computer joined me
 Dialogue: 0,0:06:32.05,0:06:35.45,Default,,0,0,0,,in using just Enter as their passwords.
-Dialogue: 0,0:06:35.45,0:06:38.55,Default,,0,0,0,,[ Where did the ideas that lead to what is now\Ncalled Open Source world?
+Dialogue: 0,0:06:35.45,0:06:38.55,Default,,0,0,0,,[ Where did the ideas that lead to what is now called Open Source world?
 Dialogue: 0,0:06:38.65,0:06:40.65,Default,,0,0,0,,How did that begin? Who began that? ]
-Dialogue: 0,0:06:40.75,0:06:44.75,Default,,0,0,0,,It actually began with the start\Nof computers because at that time
+Dialogue: 0,0:06:40.75,0:06:44.75,Default,,0,0,0,,It actually began with the start of computers because at that time
 Dialogue: 0,0:06:44.95,0:06:47.85,Default,,0,0,0,,software was just passed around between people
-Dialogue: 0,0:06:47.95,0:06:52.85,Default,,0,0,0,,And I think it was only like in the\Nlates 70's or early 80's
-Dialogue: 0,0:06:53.45,0:06:56.95,Default,,0,0,0,,That people started really closing up\Ntheir software,
-Dialogue: 0,0:06:56.95,0:07:00.15,Default,,0,0,0,,And saying, "No, you can never\Nget a look at the source code.
-Dialogue: 0,0:07:00.45,0:07:03.75,Default,,0,0,0,,You can't change the software\Neven if it's necessary
+Dialogue: 0,0:06:47.95,0:06:52.85,Default,,0,0,0,,And I think it was only like in the lates 70's or early 80's
+Dialogue: 0,0:06:53.45,0:06:56.95,Default,,0,0,0,,That people started really closing up their software,
+Dialogue: 0,0:06:56.95,0:07:00.15,Default,,0,0,0,,And saying, "No, you can never get a look at the source code.
+Dialogue: 0,0:07:00.45,0:07:03.75,Default,,0,0,0,,You can't change the software even if it's necessary
 Dialogue: 0,0:07:03.85,0:07:06.75,Default,,0,0,0,,for you to fix it, for your own application"
-Dialogue: 0,0:07:07.45,0:07:11.45,Default,,0,0,0,,And... um, you can actually blame\Nsome of that on Microsoft,
-Dialogue: 0,0:07:11.65,0:07:15.65,Default,,0,0,0,,They are one of the real pioneers\Nof the proprietary software model.
+Dialogue: 0,0:07:07.45,0:07:11.45,Default,,0,0,0,,And... um, you can actually blame some of that on Microsoft,
+Dialogue: 0,0:07:11.65,0:07:15.65,Default,,0,0,0,,They are one of the real pioneers of the proprietary software model.
 Dialogue: 0,0:07:16.05,0:07:18.25,Default,,0,0,0,,In the mid 1970's, a group of hackers
-Dialogue: 0,0:07:18.35,0:07:22.95,Default,,0,0,0,,and computer hobbyist in Silicon Valley\Nformed the "Homebrew Computer Club".
+Dialogue: 0,0:07:18.35,0:07:22.95,Default,,0,0,0,,and computer hobbyist in Silicon Valley formed the "Homebrew Computer Club".
 Dialogue: 0,0:07:23.45,0:07:26.95,Default,,0,0,0,,In the club January 31, 1976 newsletter,
 Dialogue: 0,0:07:26.95,0:07:29.65,Default,,0,0,0,,Bill Gates of the recently formed Microsoft,
 Dialogue: 0,0:07:29.95,0:07:31.45,Default,,0,0,0,,wrote an open letter to the community
-Dialogue: 0,0:07:31.95,0:07:38.05,Default,,0,0,0,,where he made a point by point argument for\Nthe relatively new concept of proprietary software
-Dialogue: 0,0:07:38.25,0:07:42.65,Default,,0,0,0,,up to that point, the practice of computer users\Nhad been to freely pass around software
-Dialogue: 0,0:07:42.95,0:07:45.45,Default,,0,0,0,,with not much thought given to\Nits ownership
-Dialogue: 0,0:07:45.95,0:07:48.55,Default,,0,0,0,,Known as An Open Letter to Hobbyists,\NBill Gates writes,
-Dialogue: 0,0:07:48.95,0:07:51.25,Default,,0,0,0,,"To me the most critical thing\Nin the hobby market right now
-Dialogue: 0,0:07:51.35,0:07:54.35,Default,,0,0,0,,is the lack of good software courses,\Nbooks and software itself.
-Dialogue: 0,0:07:54.45,0:07:57.55,Default,,0,0,0,,Without good software and an owner\Nwho understands programming,
+Dialogue: 0,0:07:31.95,0:07:38.05,Default,,0,0,0,,where he made a point by point argument for the relatively new concept of proprietary software
+Dialogue: 0,0:07:38.25,0:07:42.65,Default,,0,0,0,,up to that point, the practice of computer users had been to freely pass around software
+Dialogue: 0,0:07:42.95,0:07:45.45,Default,,0,0,0,,with not much thought given to its ownership
+Dialogue: 0,0:07:45.95,0:07:48.55,Default,,0,0,0,,Known as An Open Letter to Hobbyists, Bill Gates writes,
+Dialogue: 0,0:07:48.95,0:07:51.25,Default,,0,0,0,,"To me the most critical thing in the hobby market right now
+Dialogue: 0,0:07:51.35,0:07:54.35,Default,,0,0,0,,is the lack of good software courses, books and software itself.
+Dialogue: 0,0:07:54.45,0:07:57.55,Default,,0,0,0,,Without good software and an owner who understands programming,
 Dialogue: 0,0:07:57.75,0:07:59.75,Default,,0,0,0,,A hobby computer is wasted.
-Dialogue: 0,0:07:59.75,0:08:02.45,Default,,0,0,0,,Will quality software be written\Nfor the hobby market?
-Dialogue: 0,0:08:02.85,0:08:05.35,Default,,0,0,0,,Gates goes on to write,\N"The feedback we have gotten from
-Dialogue: 0,0:08:05.35,0:08:08.75,Default,,0,0,0,,the hundreds of people who say they are\Nusing BASIC has all been positive.
+Dialogue: 0,0:07:59.75,0:08:02.45,Default,,0,0,0,,Will quality software be written for the hobby market?
+Dialogue: 0,0:08:02.85,0:08:05.35,Default,,0,0,0,,Gates goes on to write, "The feedback we have gotten from
+Dialogue: 0,0:08:05.35,0:08:08.75,Default,,0,0,0,,the hundreds of people who say they are using BASIC has all been positive.
 Dialogue: 0,0:08:08.75,0:08:10.95,Default,,0,0,0,,Two surprising things are apparent, however.
-Dialogue: 0,0:08:10.95,0:08:13.95,Default,,0,0,0,,1) Most of these "users" never\Nbought BASIC, and
-Dialogue: 0,0:08:13.95,0:08:16.95,Default,,0,0,0,,2) The amount of royalties we have received\Nfrom sales to hobbyists
-Dialogue: 0,0:08:16.95,0:08:20.95,Default,,0,0,0,,makes the time spent on of Altair BASIC\Nworth less than 2 dollars an hour
+Dialogue: 0,0:08:10.95,0:08:13.95,Default,,0,0,0,,1) Most of these "users" never bought BASIC, and
+Dialogue: 0,0:08:13.95,0:08:16.95,Default,,0,0,0,,2) The amount of royalties we have received from sales to hobbyists
+Dialogue: 0,0:08:16.95,0:08:20.95,Default,,0,0,0,,makes the time spent on of Altair BASIC worth less than 2 dollars an hour
 Dialogue: 0,0:08:20.95,0:08:22.15,Default,,0,0,0,,Why is this?
 Dialogue: 0,0:08:22.15,0:08:24.65,Default,,0,0,0,,As the majority of hobbyists must be aware,
 Dialogue: 0,0:08:24.65,0:08:26.75,Default,,0,0,0,,most of you steal your software.
-Dialogue: 0,0:08:26.75,0:08:29.65,Default,,0,0,0,,Hardware must be paid for but software\Nis something to share.
-Dialogue: 0,0:08:29.65,0:08:31.95,Default,,0,0,0,,Who cares if the people who worked\Non it get paid?
+Dialogue: 0,0:08:26.75,0:08:29.65,Default,,0,0,0,,Hardware must be paid for but software is something to share.
+Dialogue: 0,0:08:29.65,0:08:31.95,Default,,0,0,0,,Who cares if the people who worked on it get paid?
 Dialogue: 0,0:08:31.95,0:08:33.35,Default,,0,0,0,,Is this fair?
 Dialogue: 0,0:08:33.35,0:08:35.45,Default,,0,0,0,,One thing you don't do by stealing software
-Dialogue: 0,0:08:35.45,0:08:37.95,Default,,0,0,0,,is get back at MITS for some problem\Nyou may have had
+Dialogue: 0,0:08:35.45,0:08:37.95,Default,,0,0,0,,is get back at MITS for some problem you may have had
 Dialogue: 0,0:08:37.95,0:08:40.05,Default,,0,0,0,,MITS doesn't make money selling software.
-Dialogue: 0,0:08:40.05,0:08:43.05,Default,,0,0,0,,One thing you do is prevent\Ngood software from being written.
+Dialogue: 0,0:08:40.05,0:08:43.05,Default,,0,0,0,,One thing you do is prevent good software from being written.
 Dialogue: 0,0:08:43.45,0:08:45.75,Default,,0,0,0,,Who can afford to do professional work for nothing?
 Dialogue: 0,0:08:46.05,0:08:48.75,Default,,0,0,0,,What hobbyist can put 3-man years into programming,
-Dialogue: 0,0:08:48.75,0:08:52.35,Default,,0,0,0,,finding all bugs, documenting his product\Nand distribute it for free?
-Dialogue: 0,0:08:52.35,0:08:53.25,Default,,0,0,0,,The fact is,
-Dialogue: 0,0:08:53.25,0:08:56.85,Default,,0,0,0,,no one besides us has invested a lot of money\Nin hobby software.
+Dialogue: 0,0:08:48.75,0:08:52.35,Default,,0,0,0,,finding all bugs, documenting his product and distribute it for free?
+Dialogue: 0,0:08:52.35,0:08:56.85,Default,,0,0,0,,The fact is, no one besides us has invested a lot of money in hobby software.
 Dialogue: 0,0:08:56.85,0:08:59.45,Default,,0,0,0,,What about the guys who resell Altair BASIC?
 Dialogue: 0,0:08:59.45,0:09:01.75,Default,,0,0,0,,Aren't they making money on hobby software?
-Dialogue: 0,0:09:01.75,0:09:05.25,Default,,0,0,0,,Yes, but those who have been\Nreported to us may lose in the end.
-Dialogue: 0,0:09:05.25,0:09:07.35,Default,,0,0,0,,They are the ones who give\Nhobbyists a bad name,
-Dialogue: 0,0:09:07.35,0:09:10.75,Default,,0,0,0,,and should be kicked out of any\Nclub meeting they show up at.
-Dialogue: 0,0:09:10.75,0:09:13.65,Default,,0,0,0,,I would appreciate letters from\Nanyone who wants to pay up,
+Dialogue: 0,0:09:01.75,0:09:05.25,Default,,0,0,0,,Yes, but those who have been reported to us may lose in the end.
+Dialogue: 0,0:09:05.25,0:09:07.35,Default,,0,0,0,,They are the ones who give hobbyists a bad name,
+Dialogue: 0,0:09:07.35,0:09:10.75,Default,,0,0,0,,and should be kicked out of any club meeting they show up at.
+Dialogue: 0,0:09:10.75,0:09:13.65,Default,,0,0,0,,I would appreciate letters from anyone who wants to pay up,
 Dialogue: 0,0:09:13.65,0:09:15.45,Default,,0,0,0,,or has a suggestion or comment.
 Dialogue: 0,0:09:15.45,0:09:19.45,Default,,0,0,0,,Signed Bill Gates, General partner, Micro-Soft.
 Dialogue: 0,0:09:19.85,0:09:23.55,Default,,0,0,0,,In the late 70's and early 1980's,\NRichard Stallman was
