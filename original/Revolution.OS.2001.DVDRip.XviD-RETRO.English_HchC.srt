@@ -1,0 +1,6558 @@
+1
+00:00:07,500 --> 00:00:09,000
+Any comments, suggestions and bug reports
+E-mail to: geek@geekbone.org
+
+2
+00:00:09,500 --> 00:00:11,000
+I was at Agenda 2000
+
+3
+00:00:11,600 --> 00:00:14,400
+and uh, one of the people who was there
+was Craig Mundie,
+
+4
+00:00:14,400 --> 00:00:17,500
+who is some kind of
+high mucky muck at Microsoft,
+
+5
+00:00:18,000 --> 00:00:21,500
+I think uh, vice-president of consumer products
+or something like that.
+
+6
+00:00:21,500 --> 00:00:24,300
+And uh, I hadn't actually met him
+
+7
+00:00:24,500 --> 00:00:28,200
+I, I, I, uh, bumped in to him in an,
+in an elevator... in an elevator
+
+8
+00:00:28,300 --> 00:00:32,300
+And uh, I looked at his badge and said,
+"Oh, I see you work for Microsoft."
+
+9
+00:00:32,800 --> 00:00:36,300
+And he looked back to me and said,
+"Oh, yeah and what do you do?"
+
+10
+00:00:36,400 --> 00:00:39,300
+And I thought he seemed just a sort of a tad dismissive
+
+11
+00:00:39,400 --> 00:00:42,500
+I mean,  here's the archetypal, you know,
+guy in a suit
+
+12
+00:00:43,000 --> 00:00:44,500
+looking at a scruffy hacker
+
+13
+00:00:45,100 --> 00:00:47,700
+And so I gave him the thousand
+yard stare and said,
+
+14
+00:00:47,700 --> 00:00:49,600
+"I'm your worst nightmare."
+
+15
+00:00:49,800 --> 00:00:53,400
+Wonderview Productions
+PRESENTS
+
+16
+00:00:53,400 --> 00:00:57,400
+A
+J.T.S. Moore
+FILM
+
+17
+00:00:58,800 --> 00:01:03,700
+REVOLUTION OS
+
+18
+00:01:05,400 --> 00:01:07,600
+For most its short, but colorful history,
+
+19
+00:01:07,600 --> 00:01:09,600
+the computer industry has been dominated
+
+20
+00:01:09,600 --> 00:01:11,500
+by the Windows operating system.
+
+21
+00:01:11,500 --> 00:01:13,500
+But that could soon change,
+
+22
+00:01:13,500 --> 00:01:16,400
+as Windows faces a strong challenge from Linux
+
+23
+00:01:17,800 --> 00:01:19,500
+Silicon Valley has long been the place
+
+24
+00:01:19,500 --> 00:01:21,500
+to develop new technology,
+
+25
+00:01:21,800 --> 00:01:25,300
+start new companies and get really rich.
+
+26
+00:01:25,400 --> 00:01:27,800
+Now The Valley is the front line in a revolution
+
+27
+00:01:28,000 --> 00:01:30,700
+fighting for that most
+politically incorrect of ideas:
+
+28
+00:01:31,200 --> 00:01:32,500
+individual freedom
+
+29
+00:01:33,200 --> 00:01:34,800
+Day and night,
+a loose confederation of
+
+30
+00:01:35,000 --> 00:01:37,000
+hackers and programmers zaps bits pieces of
+
+31
+00:01:37,100 --> 00:01:39,800
+computer code around the world as it builds the tools
+
+32
+00:01:40,200 --> 00:01:42,000
+to set computer users free
+
+33
+00:01:42,300 --> 00:01:44,600
+using open information and
+the free exchange of technology
+
+34
+00:01:44,600 --> 00:01:46,000
+to achieve its goals.
+
+35
+00:01:46,000 --> 00:01:48,600
+This revolution began in the 1980's with
+
+36
+00:01:48,600 --> 00:01:51,300
+the Free Software Movement and GNU project.
+
+37
+00:01:51,300 --> 00:01:53,000
+And now is most commonly associated
+
+38
+00:01:53,300 --> 00:01:56,600
+with Linux and the Open Source Movement.
+
+39
+00:01:57,000 --> 00:01:59,600
+What is Linux?
+
+40
+00:01:59,600 --> 00:02:02,000
+We do have one sector that taking off today.
+
+41
+00:02:02,000 --> 00:02:04,100
+It is the Linux-related sector.
+
+42
+00:02:04,100 --> 00:02:06,200
+And I thought this might be
+a good opportunity to say,
+
+43
+00:02:06,500 --> 00:02:08,200
+"What is Linux?"
+
+44
+00:02:08,400 --> 00:02:09,400
+And I'll answer this question for you.
+
+45
+00:02:09,500 --> 00:02:10,500
+Many of you probably already know,
+
+46
+00:02:10,500 --> 00:02:12,000
+but
+There are 12 million users out there
+
+47
+00:02:12,300 --> 00:02:15,600
+A computer Operating System
+developed by hundreds of
+
+48
+00:02:15,600 --> 00:02:17,500
+programmers collaborating on the Internet
+
+49
+00:02:17,500 --> 00:02:19,400
+A challenge to Microsoft Windows NT
+
+50
+00:02:19,500 --> 00:02:21,000
+Very popular for its speed
+
+51
+00:02:22,000 --> 00:02:23,300
+and so this's what the craze is about
+
+52
+00:02:25,000 --> 00:02:27,200
+To kind of explain what Linux is you have to
+
+53
+00:02:27,200 --> 00:02:29,200
+explain what an Operating System is
+
+54
+00:02:29,200 --> 00:02:31,700
+And... the thing about Operating System is
+you, I mean...
+
+55
+00:02:31,700 --> 00:02:34,400
+you're never ever supposed to see it.
+
+56
+00:02:34,400 --> 00:02:36,100
+Because...
+
+57
+00:02:36,100 --> 00:02:38,300
+nobody really uses an Operating System,
+
+58
+00:02:38,700 --> 00:02:41,500
+people use... programs... on their computer
+
+59
+00:02:41,500 --> 00:02:43,500
+And the only mission in life
+
+60
+00:02:43,900 --> 00:02:47,500
+of an operating system is to help
+those programs run.
+
+61
+00:02:47,800 --> 00:02:51,100
+So an operating system never does
+anything on its own
+
+62
+00:02:51,300 --> 00:02:53,700
+It's only waiting for the programs to
+
+63
+00:02:53,700 --> 00:02:56,000
+ask for certain resources or,
+
+64
+00:02:56,300 --> 00:02:59,600
+or, ask for a certain file on the disk
+
+65
+00:02:59,800 --> 00:03:01,500
+or ask for the programs to
+
+66
+00:03:01,500 --> 00:03:03,300
+connect them to the outside world.
+
+67
+00:03:03,500 --> 00:03:06,100
+And then the operating system
+comes, steps in and then
+
+68
+00:03:06,100 --> 00:03:09,700
+tries to make it easy for people
+to write programs
+
+69
+00:03:09,700 --> 00:03:13,000
+And, What is Open Source?
+
+70
+00:03:13,000 --> 00:03:16,000
+Open Source is a way for people to collaborate
+
+71
+00:03:16,300 --> 00:03:21,700
+on software without being encumbered
+by all of the problems of intellectual property,
+
+72
+00:03:21,700 --> 00:03:26,200
+having to negotiate contracts every time
+you buy a piece of software,
+
+73
+00:03:26,500 --> 00:03:28,800
+have a lot of lawyers involved.
+
+74
+00:03:28,800 --> 00:03:32,000
+In general, we just wanna get the software to work
+
+75
+00:03:32,400 --> 00:03:33,800
+and we want be able to have
+
+76
+00:03:33,800 --> 00:03:36,900
+people contribute fixes to that, etc..
+
+77
+00:03:37,800 --> 00:03:40,000
+So we sort of sacrifice some of
+
+78
+00:03:40,000 --> 00:03:41,900
+the intellectual property rights
+
+79
+00:03:42,000 --> 00:03:44,500
+and just let the whole world
+use the software
+
+80
+00:03:46,500 --> 00:03:47,800
+Before there could be Linux
+
+81
+00:03:47,900 --> 00:03:51,200
+There was Richard Stallman
+and the Free Software Movement.
+
+82
+00:03:51,500 --> 00:03:54,200
+They think of Richard Stallman as the...
+
+83
+00:03:55,300 --> 00:03:58,000
+great philosopher, right.
+
+84
+00:03:58,000 --> 00:03:59,800
+And think of me as the engineer
+
+85
+00:04:01,000 --> 00:04:04,400
+Richard Stallman is the founding father of
+the Free Software Movement.
+
+86
+00:04:04,800 --> 00:04:08,000
+Through his efforts to build the
+GNU Operating System.
+
+87
+00:04:08,100 --> 00:04:11,900
+He created the legal, philosophical and
+technological foundation
+
+88
+00:04:11,900 --> 00:04:13,800
+for the Free Software Movement.
+
+89
+00:04:13,800 --> 00:04:15,400
+Without these contributions,
+
+90
+00:04:15,400 --> 00:04:17,900
+it's unlikely that Linux and Open Source
+
+91
+00:04:17,900 --> 00:04:20,000
+would have evolved in to their current forms today
+
+92
+00:04:20,700 --> 00:04:24,700
+I joined the
+MIT Artificial Intelligence Lab in 1971,
+
+93
+00:04:25,000 --> 00:04:29,000
+I joined... a thriving community of hackers,
+
+94
+00:04:29,700 --> 00:04:31,000
+people who loved programming,
+
+95
+00:04:31,000 --> 00:04:34,300
+loved exploring the what they could do
+with computers.
+
+96
+00:04:34,500 --> 00:04:37,700
+And they had developed
+a complete Operating System,
+
+97
+00:04:37,700 --> 00:04:40,200
+entirely written there.
+
+98
+00:04:40,300 --> 00:04:42,800
+And I became one of the team, that
+
+99
+00:04:43,000 --> 00:04:46,400
+continued to improve the Operating System,
+adding new capabilities
+
+100
+00:04:46,400 --> 00:04:50,400
+That was my job, and I loved it, we all loved it.
+That's why we were doing it.
+
+101
+00:04:51,000 --> 00:04:54,100
+And [clears throat] we called our system
+
+102
+00:04:54,100 --> 00:04:56,600
+"the Incompatible Time Sharing System"
+
+103
+00:04:57,200 --> 00:04:58,600
+which is an example of the
+
+104
+00:04:58,600 --> 00:04:59,600
+playful spirit
+
+105
+00:05:00,000 --> 00:05:01,900
+which defines a hacker.
+
+106
+00:05:02,100 --> 00:05:05,200
+Hackers are people who enjoy
+playful cleverness.
+
+107
+00:05:06,000 --> 00:05:08,500
+Well, it first started going wrong
+
+108
+00:05:08,500 --> 00:05:12,000
+as the outside world started pressuring us
+to have passwords.
+
+109
+00:05:12,100 --> 00:05:15,300
+We didn't have any passwords
+on our computer.
+
+110
+00:05:15,500 --> 00:05:17,500
+And the reason was that the hackers
+
+111
+00:05:17,500 --> 00:05:19,800
+who'd originally designed the system
+
+112
+00:05:19,800 --> 00:05:25,700
+realized that passwords were a way
+the administrators could control all the users.
+
+113
+00:05:25,800 --> 00:05:28,200
+And they didn't want to build tools
+
+114
+00:05:28,500 --> 00:05:31,900
+you know, locks and keys for
+the administrators to control them,
+
+115
+00:05:32,200 --> 00:05:34,300
+so they just didn't do it.
+They left that out
+
+116
+00:05:35,300 --> 00:05:38,500
+And we had the philosophy
+that whoever sitting at the computer
+
+117
+00:05:38,600 --> 00:05:41,000
+should be able to do whatever he wants
+
+118
+00:05:41,500 --> 00:05:46,500
+and somebody else who was there yesterday
+shouldn't be controlling what you do today
+
+119
+00:05:46,500 --> 00:05:50,300
+When they put passwords onto one of
+the machines at MIT
+
+120
+00:05:51,500 --> 00:05:53,500
+I and bunch of other hackers didn't like it,
+
+121
+00:05:53,500 --> 00:05:57,500
+I decided to try a subversive sort of hack.
+[clears throat]
+
+122
+00:05:58,300 --> 00:06:00,400
+I figured out how to decode the passwords,
+
+123
+00:06:00,400 --> 00:06:03,800
+so by looking at the database of encoded passwords
+
+124
+00:06:03,800 --> 00:06:07,300
+I could figure out what each person
+would actually type to login
+
+125
+00:06:07,800 --> 00:06:10,200
+And so I sent messages to people, saying,
+
+126
+00:06:10,500 --> 00:06:13,600
+"Hello? I see that you've
+chosen the password mumble,
+
+127
+00:06:13,800 --> 00:06:16,000
+whatever it was.
+How about if you do as I do
+
+128
+00:06:16,500 --> 00:06:18,500
+just type Enter for your password
+
+129
+00:06:18,500 --> 00:06:21,500
+it's much shorter, much easier to type".
+
+130
+00:06:22,000 --> 00:06:25,500
+And... of course with this message I was
+
+131
+00:06:25,500 --> 00:06:29,000
+implicitly telling them
+the security was really just a joke.
+
+132
+00:06:29,300 --> 00:06:33,300
+Anyway, but in addition
+I was letting them in on this hack.
+
+133
+00:06:33,800 --> 00:06:37,500
+And eventually, A fifth of all the
+users on that computer joined me
+
+134
+00:06:37,600 --> 00:06:41,000
+in using just Enter as their passwords.
+
+135
+00:06:41,000 --> 00:06:44,100
+[ Where did the ideas that lead to what is now
+called Open Source world?
+
+136
+00:06:44,200 --> 00:06:46,200
+How did that begin? Who began that? ]
+
+137
+00:06:46,300 --> 00:06:50,300
+It actually began with the start
+of computers because at that time
+
+138
+00:06:50,500 --> 00:06:53,400
+software was just passed around between people
+
+139
+00:06:53,500 --> 00:06:58,400
+And I think it was only like in the
+lates 70's or early 80's
+
+140
+00:06:59,000 --> 00:07:02,500
+That people started really closing up
+their software,
+
+141
+00:07:02,500 --> 00:07:05,700
+And saying, "No, you can never
+get a look at the source code.
+
+142
+00:07:06,000 --> 00:07:09,300
+You can't change the software
+even if it's necessary
+
+143
+00:07:09,400 --> 00:07:12,300
+for you to fix it, for your own application"
+
+144
+00:07:13,000 --> 00:07:17,000
+And... um, you can actually blame
+some of that on Microsoft,
+
+145
+00:07:17,200 --> 00:07:21,200
+They are one of the real pioneers
+of the proprietary software model.
+
+146
+00:07:21,600 --> 00:07:23,800
+In the mid 1970's, a group of hackers
+
+147
+00:07:23,900 --> 00:07:28,500
+and computer hobbyist in Silicon Valley
+formed the "Homebrew Computer Club".
+
+148
+00:07:29,000 --> 00:07:32,500
+In the club January 31, 1976 newsletter,
+
+149
+00:07:32,500 --> 00:07:35,200
+Bill Gates of the recently formed Microsoft,
+
+150
+00:07:35,500 --> 00:07:37,000
+wrote an open letter to the community
+
+151
+00:07:37,500 --> 00:07:43,600
+where he made a point by point argument for
+the relatively new concept of proprietary software
+
+152
+00:07:43,800 --> 00:07:48,200
+up to that point, the practice of computer users
+had been to freely pass around software
+
+153
+00:07:48,500 --> 00:07:51,000
+with not much thought given to
+its ownership
+
+154
+00:07:51,500 --> 00:07:54,100
+Known as An Open Letter to Hobbyists,
+Bill Gates writes,
+
+155
+00:07:54,500 --> 00:07:56,800
+"To me the most critical thing
+in the hobby market right now
+
+156
+00:07:56,900 --> 00:07:59,900
+is the lack of good software courses,
+books and software itself.
+
+157
+00:08:00,000 --> 00:08:03,100
+Without good software and an owner
+who understands programming,
+
+158
+00:08:03,300 --> 00:08:05,300
+A hobby computer is wasted.
+
+159
+00:08:05,300 --> 00:08:08,000
+Will quality software be written
+for the hobby market?
+
+160
+00:08:08,400 --> 00:08:10,900
+Gates goes on to write,
+"The feedback we have gotten from
+
+161
+00:08:10,900 --> 00:08:14,300
+the hundreds of people who say they are
+using BASIC has all been positive.
+
+162
+00:08:14,300 --> 00:08:16,500
+Two surprising things are apparent, however.
+
+163
+00:08:16,500 --> 00:08:19,500
+1) Most of these "users" never
+bought BASIC, and
+
+164
+00:08:19,500 --> 00:08:22,500
+2) The amount of royalties we have received
+from sales to hobbyists
+
+165
+00:08:22,500 --> 00:08:26,500
+makes the time spent on of Altair BASIC
+worth less than 2 dollars an hour
+
+166
+00:08:26,500 --> 00:08:27,700
+Why is this?
+
+167
+00:08:27,700 --> 00:08:30,200
+As the majority of hobbyists must be aware,
+
+168
+00:08:30,200 --> 00:08:32,300
+most of you steal your software.
+
+169
+00:08:32,300 --> 00:08:35,200
+Hardware must be paid for but software
+is something to share.
+
+170
+00:08:35,200 --> 00:08:37,500
+Who cares if the people who worked
+on it get paid?
+
+171
+00:08:37,500 --> 00:08:38,900
+Is this fair?
+
+172
+00:08:38,900 --> 00:08:41,000
+One thing you don't do by stealing software
+
+173
+00:08:41,000 --> 00:08:43,500
+is get back at MITS for some problem
+you may have had
+
+174
+00:08:43,500 --> 00:08:45,600
+MITS doesn't make money selling software.
+
+175
+00:08:45,600 --> 00:08:48,600
+One thing you do is prevent
+good software from being written.
+
+176
+00:08:49,000 --> 00:08:51,300
+Who can afford to do professional work for nothing?
+
+177
+00:08:51,600 --> 00:08:54,300
+What hobbyist can put 3-man years into programming,
+
+178
+00:08:54,300 --> 00:08:57,900
+finding all bugs, documenting his product
+and distribute it for free?
+
+179
+00:08:57,900 --> 00:08:58,800
+The fact is,
+
+180
+00:08:58,800 --> 00:09:02,400
+no one besides us has invested a lot of money
+in hobby software.
+
+181
+00:09:02,400 --> 00:09:05,000
+What about the guys who resell Altair BASIC?
+
+182
+00:09:05,000 --> 00:09:07,300
+Aren't they making money on hobby software?
+
+183
+00:09:07,300 --> 00:09:10,800
+Yes, but those who have been
+reported to us may lose in the end.
+
+184
+00:09:10,800 --> 00:09:12,900
+They are the ones who give
+hobbyists a bad name,
+
+185
+00:09:12,900 --> 00:09:16,300
+and should be kicked out of any
+club meeting they show up at.
+
+186
+00:09:16,300 --> 00:09:19,200
+I would appreciate letters from
+anyone who wants to pay up,
+
+187
+00:09:19,200 --> 00:09:21,000
+or has a suggestion or comment.
+
+188
+00:09:21,000 --> 00:09:25,000
+Signed Bill Gates, General partner, Micro-Soft.
+
+189
+00:09:25,400 --> 00:09:29,100
+In the late 70's and early 1980's,
+Richard Stallman was
+
+190
+00:09:29,100 --> 00:09:32,400
+doing Artificial Intelligence research and coding
+
+191
+00:09:32,400 --> 00:09:35,000
+at the MIT Artificial Intelligence Lab.
+
+192
+00:09:35,000 --> 00:09:37,300
+Richard had a number of negative experiences
+
+193
+00:09:37,300 --> 00:09:39,300
+during that period which soured him
+
+194
+00:09:39,300 --> 00:09:41,400
+on the whole idea of commercial software.
+
+195
+00:09:41,400 --> 00:09:43,000
+[ such as? ]
+
+196
+00:09:43,000 --> 00:09:47,000
+uh... some company wanted to work on and
+wanted to fix was locked up.
+
+197
+00:09:47,700 --> 00:09:51,700
+and he couldn't get the company that owned
+on the code to let him fix it
+
+198
+00:09:52,400 --> 00:09:54,500
+even though it would have been to their advantage to do so.
+
+199
+00:09:54,500 --> 00:09:57,400
+And that put me into a moral dilemma, you see?
+
+200
+00:09:57,500 --> 00:10:03,100
+Because to get one of the modern computers
+of the day, which was the early 80's,
+
+201
+00:10:03,600 --> 00:10:06,400
+you would have to get a proprietory
+operating system.
+
+202
+00:10:06,500 --> 00:10:09,400
+The developers of those systems
+didn't share with other people,
+
+203
+00:10:09,500 --> 00:10:11,500
+Instead they tried to control the users,
+
+204
+00:10:11,600 --> 00:10:13,400
+dominate the users, restrict them.
+
+205
+00:10:13,900 --> 00:10:16,000
+Say, if to get the system,
+
+206
+00:10:16,100 --> 00:10:19,500
+you have to sign a  promise you won't
+share with anybody else.
+
+207
+00:10:19,600 --> 00:10:23,400
+And to me that was essentially a promise
+to be a bad person,
+
+208
+00:10:23,400 --> 00:10:25,100
+to betray the rest of the world,
+
+209
+00:10:25,200 --> 00:10:29,100
+cut myself off from society
+from a cooperating community.
+
+210
+00:10:30,300 --> 00:10:34,300
+And I had already experienced what happened
+when other people did that to us,
+
+211
+00:10:34,300 --> 00:10:35,800
+when they refused to share with us.
+
+212
+00:10:35,900 --> 00:10:38,500
+because they had signed these contracts.
+
+213
+00:10:38,600 --> 00:10:40,400
+And it hurt the whole lab,
+
+214
+00:10:40,500 --> 00:10:43,200
+it kept us from doing useful things before.
+
+215
+00:10:43,300 --> 00:10:45,600
+So I just wasn't going to do that.
+
+216
+00:10:45,700 --> 00:10:49,700
+I thought, This is wrong!
+I am not going to live this way"
+
+217
+00:10:49,900 --> 00:10:53,900
+And from experiences like this
+he developed a profound hostility
+
+218
+00:10:54,000 --> 00:10:56,600
+to the idea of
+intellectual property and software.
+
+219
+00:10:56,700 --> 00:11:00,300
+He eventually acted this out
+by founding the Free Software Foundation.
+
+220
+00:11:00,400 --> 00:11:04,900
+So, I looked for another alternative
+and I realized:
+
+221
+00:11:05,000 --> 00:11:06,500
+I was an operating system developer.
+
+222
+00:11:06,600 --> 00:11:10,300
+If I were to develop another operating system.
+
+223
+00:11:10,500 --> 00:11:14,100
+And then as the author,
+encourage everyone to share it.
+
+224
+00:11:14,200 --> 00:11:17,900
+Say, everyone, " You come and get it,
+use this, form a new community"
+
+225
+00:11:18,900 --> 00:11:23,200
+Not only could I gave myself a way
+to keep using computers without
+
+226
+00:11:23,300 --> 00:11:26,500
+betraying other people,
+but I'd give it to everybody else, too.
+
+227
+00:11:26,600 --> 00:11:29,500
+Everybody would have a
+way out of that moral dilemma
+
+228
+00:11:31,000 --> 00:11:34,300
+And so I realized this was
+what I had to do with my life.
+
+229
+00:11:34,700 --> 00:11:38,700
+I actually began the project in January of 1984.
+
+230
+00:11:38,800 --> 00:11:41,500
+That's when I resigned for my job at MIT
+
+231
+00:11:41,600 --> 00:11:45,400
+to start developing the GNU operating system.
+
+232
+00:11:46,400 --> 00:11:49,700
+Now I should explain the name GNU is a hack.
+
+233
+00:11:49,900 --> 00:11:52,700
+Because it's a recursive acronym.
+
+234
+00:11:53,100 --> 00:11:56,100
+It stands for "GNU's Not Unix".
+
+235
+00:11:56,200 --> 00:11:59,300
+You see so the "G" in "GNU" stands for "GNU".
+
+236
+00:11:59,300 --> 00:12:01,400
+And what the name means is
+
+237
+00:12:01,400 --> 00:12:05,900
+I was developing a system that was like
+the Unix operating system,
+
+238
+00:12:05,900 --> 00:12:08,300
+but was not the Unix operating system.
+
+239
+00:12:08,300 --> 00:12:09,800
+This was a different system.
+
+240
+00:12:09,800 --> 00:12:12,200
+We would have to write it completely
+from scratch
+
+241
+00:12:12,200 --> 00:12:14,100
+because Unix was proprietory.
+
+242
+00:12:14,200 --> 00:12:16,000
+We were forbidden to share Unix,
+
+243
+00:12:16,100 --> 00:12:19,700
+We couldn't use Unix.
+It was useless for a community.
+
+244
+00:12:19,800 --> 00:12:23,300
+So we had to write a replacement for it.
+
+245
+00:12:24,900 --> 00:12:26,100
+Throughout the 1980s,
+
+246
+00:12:26,200 --> 00:12:28,700
+as Richard Stallman was building the GNU project,
+
+247
+00:12:28,900 --> 00:12:32,300
+computer scientists from
+the University of California at Berkeley
+
+248
+00:12:32,400 --> 00:12:34,700
+were developing their own free
+operating system.
+
+249
+00:12:35,000 --> 00:12:37,500
+Known as Berkeley Unix, or BSD,
+
+250
+00:12:37,600 --> 00:12:41,500
+it was based upon the Unix kernel
+which had been licensed from AT&T.
+
+251
+00:12:41,600 --> 00:12:46,300
+However, due to legal problems with AT&T
+and fragmentation of the source code,
+
+252
+00:12:46,500 --> 00:12:50,100
+hackers and other non-institutional users
+were slow to adopt it
+
+253
+00:12:50,300 --> 00:12:54,300
+Well, Unix consisted of a large number of
+separate programs
+
+254
+00:12:54,700 --> 00:12:56,400
+that communicated with each other.
+
+255
+00:12:56,500 --> 00:12:59,400
+So we just had to replace these programs
+one by one.
+
+256
+00:12:59,500 --> 00:13:03,200
+So what I started doing was
+writing a replacement for one program,
+
+257
+00:13:03,300 --> 00:13:05,100
+and then another, and then another,
+
+258
+00:13:05,200 --> 00:13:06,900
+and then people started joining me,
+
+259
+00:13:07,000 --> 00:13:10,600
+because I published an announcement
+inviting other people to join me
+
+260
+00:13:10,700 --> 00:13:12,300
+to help write these programs.
+
+261
+00:13:12,600 --> 00:13:20,000
+And uh... and by around 1991,
+we had replaced practically all of them.
+
+262
+00:13:20,500 --> 00:13:21,800
+[ What were some of the programs that you ... ]
+
+263
+00:13:21,900 --> 00:13:25,000
+Well... we had to... to have a complete system,
+
+264
+00:13:25,100 --> 00:13:28,700
+you need to have a kernel, which is the program that
+
+265
+00:13:28,800 --> 00:13:31,600
+allocates resources to all the other programs,
+
+266
+00:13:31,800 --> 00:13:35,100
+you need a compiler, which translates a program
+
+267
+00:13:35,200 --> 00:13:40,500
+from readable source code
+that programmers can understand into numbers,
+
+268
+00:13:40,600 --> 00:13:44,900
+mysterious numbers
+that the computer can actually run.
+
+269
+00:13:45,000 --> 00:13:47,500
+you need other programs
+that go with the compiler to help do this job.
+
+270
+00:13:47,500 --> 00:13:48,600
+you need a debugger.
+
+271
+00:13:48,700 --> 00:13:50,300
+you need a text editor.
+
+272
+00:13:50,400 --> 00:13:51,500
+you need text formatters.
+
+273
+00:13:51,600 --> 00:13:53,400
+you need mailers...
+
+274
+00:13:53,500 --> 00:13:54,800
+you need lots and lots of things.
+
+275
+00:13:54,900 --> 00:13:58,500
+There are hundreds of programs
+in a Unix-like operating system.
+
+276
+00:13:58,900 --> 00:14:00,500
+I saw Stallman's announcement.
+
+277
+00:14:00,600 --> 00:14:03,900
+Actually I met him in February of 1987.
+
+278
+00:14:04,000 --> 00:14:08,500
+He came to give a five-day tutorial
+on Emacs at our company.
+
+279
+00:14:08,600 --> 00:14:11,200
+And during the day he would explain
+
+280
+00:14:11,300 --> 00:14:13,400
+new ways to think about Emacs
+
+281
+00:14:13,500 --> 00:14:16,500
+and ways to extend it, enhance it,
+and to use the Emacs source code
+
+282
+00:14:17,100 --> 00:14:18,400
+uh, for better or worse.
+
+283
+00:14:18,500 --> 00:14:21,700
+But in the evening,
+he was busily working on this compiler,
+
+284
+00:14:21,800 --> 00:14:24,100
+and he had not yet released it to the public,
+
+285
+00:14:24,200 --> 00:14:27,800
+so he was uh, being a little bit uh,
+careful about
+
+286
+00:14:27,900 --> 00:14:30,300
+who, who got to see the source code.
+
+287
+00:14:30,400 --> 00:14:33,800
+But I was very eager,
+and when he first announced it in June,
+
+288
+00:14:33,900 --> 00:14:35,500
+I downloaded it immediately.
+
+289
+00:14:35,700 --> 00:14:37,100
+I, I played with it.
+
+290
+00:14:37,200 --> 00:14:39,400
+I got some, some pointers from him.
+
+291
+00:14:39,600 --> 00:14:41,200
+And when I sent the source code back to him,
+
+292
+00:14:41,300 --> 00:14:42,500
+he was very,
+
+293
+00:14:42,600 --> 00:14:47,300
+uh, actually amazed that how quickly
+I was able to ramp up on his technology.
+
+294
+00:14:47,500 --> 00:14:48,300
+Whenever we worked on something
+at Stanford or in the university,
+
+295
+00:14:48,300 --> 00:14:52,300
+Whenever we worked on something
+at Stanford or in the university,
+
+296
+00:14:52,400 --> 00:14:54,200
+we would get, mostly at the time
+
+297
+00:14:54,300 --> 00:14:58,200
+we were working off machines
+from Digital Equipment or Sun, mostly Sun.
+
+298
+00:14:58,400 --> 00:14:59,900
+Whenever we would get a Sun machine,
+
+299
+00:15:00,100 --> 00:15:04,500
+the first thing we would do is
+we would spend literally days
+
+300
+00:15:04,600 --> 00:15:08,600
+downloading GNU free software from the Internet,
+
+301
+00:15:08,700 --> 00:15:11,100
+building it and installing it on that Sun machine.
+
+302
+00:15:11,300 --> 00:15:14,800
+The crucial thing about GNU is that
+it's free software.
+
+303
+00:15:15,200 --> 00:15:18,700
+And Free Software refers not to price,
+but to freedom.
+
+304
+00:15:18,900 --> 00:15:21,200
+So think of free speech, not free beer.
+
+305
+00:15:22,200 --> 00:15:24,500
+The freedoms that I am talking about
+
+306
+00:15:24,500 --> 00:15:27,500
+are the freedoms to make changes if you want to,
+
+307
+00:15:27,600 --> 00:15:30,300
+or hire somebody else to make changes for you
+
+308
+00:15:30,400 --> 00:15:32,500
+if you're using a software for your business,
+
+309
+00:15:32,600 --> 00:15:36,300
+to redistribute copies,
+to share with other people,
+
+310
+00:15:36,400 --> 00:15:39,500
+and to make improvements and publish them
+
+311
+00:15:39,600 --> 00:15:42,500
+so that other people can
+get the benefit of them, too.
+
+312
+00:15:42,600 --> 00:15:46,400
+And those are the freedoms that distinguish
+free software from non-free software.
+
+313
+00:15:46,700 --> 00:15:50,500
+These are the freedoms that
+enable people to form a community.
+
+314
+00:15:50,600 --> 00:15:52,100
+If you don't have all these freedoms,
+
+315
+00:15:52,100 --> 00:15:54,900
+you're being divided and
+dominated by somebody.
+
+316
+00:15:55,900 --> 00:15:59,000
+My first experience contributing to free software
+
+317
+00:15:59,000 --> 00:16:03,000
+came in late 1989, early 1990.
+
+318
+00:16:03,200 --> 00:16:06,200
+I was working as a graduate student
+at Stanford University
+
+319
+00:16:06,400 --> 00:16:08,600
+on Computer Aided Design tools.
+
+320
+00:16:08,700 --> 00:16:10,800
+One of the pieces I needed was a tool
+
+321
+00:16:10,900 --> 00:16:12,500
+called a parser generator.
+
+322
+00:16:12,800 --> 00:16:14,800
+Well, the Free Software Foundation
+
+323
+00:16:14,900 --> 00:16:18,300
+under Richard Stallman
+created a great tool called "bison".
+
+324
+00:16:18,500 --> 00:16:22,400
+I needed a tool that worked with C++.
+Bison worked with C.
+
+325
+00:16:22,900 --> 00:16:26,100
+I modified bison to create something
+called "bison++".
+
+326
+00:16:26,200 --> 00:16:28,700
+And it's a tremendous feeling of empowerment
+
+327
+00:16:28,800 --> 00:16:31,900
+be able to take a piece of software that was available
+
+328
+00:16:32,000 --> 00:16:36,500
+and create what you needed
+in a very short piece of time by modifying it.
+
+329
+00:16:36,700 --> 00:16:39,100
+I put it back on the Internet
+
+330
+00:16:39,200 --> 00:16:40,900
+and I was amazed at the number of people
+
+331
+00:16:41,000 --> 00:16:42,900
+that picked it up and started using it.
+
+332
+00:16:43,000 --> 00:16:47,000
+In fact, I remember going to, uh job interviews,
+
+333
+00:16:47,300 --> 00:16:50,100
+I, at various times, considered
+just going out getting a job.
+
+334
+00:16:50,300 --> 00:16:52,100
+And I'd gone to a job interview.
+
+335
+00:16:52,200 --> 00:16:53,600
+And I was talking to one of the people,
+
+336
+00:16:53,700 --> 00:16:56,500
+and I started asking them about what tools they used,
+
+337
+00:16:56,600 --> 00:16:59,000
+and they said, "Gee, we used bison++!"
+
+338
+00:16:59,100 --> 00:17:01,400
+and I said, "Oh, I am the author of bison++!"
+
+339
+00:17:01,600 --> 00:17:06,100
+Free Software generally does have a copyright.
+
+340
+00:17:06,200 --> 00:17:08,800
+It does have an owner.
+
+341
+00:17:08,900 --> 00:17:10,000
+And it has a license.
+
+342
+00:17:10,100 --> 00:17:11,900
+It is not public domain.
+
+343
+00:17:12,000 --> 00:17:14,600
+If we put the software in the public domain,
+
+344
+00:17:14,700 --> 00:17:17,900
+somebody else would be able to make
+a little bit of changes
+
+345
+00:17:18,000 --> 00:17:20,900
+and turn that into a proprietory software package,
+
+346
+00:17:21,000 --> 00:17:23,800
+which means that
+the users would be running our software,
+
+347
+00:17:23,900 --> 00:17:26,800
+but they wouldn't have freedom to cooperate and share.
+
+348
+00:17:27,500 --> 00:17:31,200
+To prevent that, we use a technique called "Copyleft".
+
+349
+00:17:31,500 --> 00:17:34,700
+The idea of Copyleft is that
+it's "Copyright" flipped over.
+
+350
+00:17:35,500 --> 00:17:37,200
+And what we do is, we say,
+
+351
+00:17:37,300 --> 00:17:39,200
+this software is copyrighted
+
+352
+00:17:39,300 --> 00:17:43,600
+and we, the authors give you permission
+to redistribute copies,
+
+353
+00:17:43,700 --> 00:17:45,200
+we give you permission to change,
+
+354
+00:17:45,300 --> 00:17:46,900
+we give you permission to add to it.
+
+355
+00:17:47,000 --> 00:17:48,700
+But when you redistribute it,
+
+356
+00:17:48,800 --> 00:17:52,500
+it has to be under these terms,
+no more and no less.
+
+357
+00:17:52,600 --> 00:17:54,800
+So that whoever gets it from you
+
+358
+00:17:54,900 --> 00:18:00,200
+also gets the freedom to cooperate
+with other people, if he wants to.
+
+359
+00:18:00,300 --> 00:18:03,800
+And then, in this way everywhere the software goes,
+
+360
+00:18:03,900 --> 00:18:05,500
+the freedom goes, too.
+
+361
+00:18:05,600 --> 00:18:07,900
+And it becomes an inalienable right
+
+362
+00:18:09,000 --> 00:18:11,600
+to cooperate with other people and form a community.
+
+363
+00:18:11,800 --> 00:18:15,100
+[ And so, what is that? the license?
+what was that... ]
+
+364
+00:18:15,200 --> 00:18:17,200
+Well, Copyleft being a general idea,
+
+365
+00:18:17,300 --> 00:18:20,300
+in order to use it, you have to have specific example.
+
+366
+00:18:20,400 --> 00:18:24,100
+The specific example we use for
+most GNU software packages
+
+367
+00:18:24,200 --> 00:18:27,100
+is the GNU General Public License,
+
+368
+00:18:27,200 --> 00:18:31,200
+a particular document in legalese
+which accomplishes this job.
+
+369
+00:18:31,500 --> 00:18:34,200
+A lot of other people use that same license,
+for example,
+
+370
+00:18:34,300 --> 00:18:37,700
+Linus Torvalds uses that license for Linux as well.
+
+371
+00:18:38,700 --> 00:18:42,200
+Well, the license I use is the
+GNU General Public License.
+
+372
+00:18:42,300 --> 00:18:44,200
+That's the one Richard Stallman wrote.
+
+373
+00:18:44,300 --> 00:18:48,200
+And I think it is really astounding contribution.
+
+374
+00:18:48,300 --> 00:18:52,300
+Uh, it's one of the few software licenses
+that was written
+
+375
+00:18:52,600 --> 00:18:56,000
+from the standpoint of the community rather than
+
+376
+00:18:56,100 --> 00:18:59,900
+from the standpoint of um, protecting a company
+
+377
+00:19:00,000 --> 00:19:05,500
+or um, as is the case with MIT and BSD license
+
+378
+00:19:05,700 --> 00:19:09,400
+performing the goals of
+a government grant program.
+
+379
+00:19:09,500 --> 00:19:12,500
+Uh, and the GPL is really unique in that.
+
+380
+00:19:12,600 --> 00:19:16,000
+It's not just a license.
+It's a whole philosophy that,
+
+381
+00:19:16,100 --> 00:19:19,100
+I think, motivated the open source definition.
+
+382
+00:19:19,200 --> 00:19:23,500
+I don't hide that a lot of what I do came from Stallman.
+
+383
+00:19:27,900 --> 00:19:31,900
+A crucial step in the growth of GNU/Linux
+and the Free Software movement
+
+384
+00:19:32,000 --> 00:19:35,600
+was the creation of businesses
+based upon the software and philosophy.
+
+385
+00:19:35,800 --> 00:19:38,300
+Grown zero for the beginning of
+the business phase
+
+386
+00:19:38,400 --> 00:19:41,500
+was the Electronics Research Lab
+at Stanford University.
+
+387
+00:19:41,800 --> 00:19:45,100
+Known as ERL, the lab was the place for the first GNU
+
+388
+00:19:45,200 --> 00:19:47,500
+and Linux business founder inspiration.
+
+389
+00:19:47,600 --> 00:19:49,600
+So right here was where ERL was.
+
+390
+00:19:50,100 --> 00:19:53,200
+That would have been the entrance
+over there next to the uh,
+
+391
+00:19:53,300 --> 00:19:55,600
+electrical engineering McCullough building.
+
+392
+00:19:55,700 --> 00:19:59,500
+As you walk in, you come in,
+you walk down the hallway, down here.
+
+393
+00:20:00,500 --> 00:20:03,600
+My office would have been about, about here.
+
+394
+00:20:03,700 --> 00:20:07,000
+and then right across the hall,
+from that was Michael Tiemann's office.
+
+395
+00:20:07,700 --> 00:20:11,700
+Michael Tiemann took uh.. and
+started a company, Cygnus Software
+
+396
+00:20:11,700 --> 00:20:16,600
+with the idea was to sell consulting
+and services around the GNU Free Software
+
+397
+00:20:16,600 --> 00:20:19,000
+and, well Michael's done very well with Cygnus.
+
+398
+00:20:19,000 --> 00:20:23,000
+Well uh, I spend a lot of
+time working out uh,
+
+399
+00:20:23,000 --> 00:20:25,000
+how we were going to make money
+
+400
+00:20:25,000 --> 00:20:27,000
+and in the original GNU manifesto
+
+401
+00:20:27,000 --> 00:20:30,000
+which is the last chapter
+of the GNU Emacs manual.
+
+402
+00:20:30,000 --> 00:20:32,000
+Stallman proposed a number of different
+
+403
+00:20:32,000 --> 00:20:33,800
+possible ways to make money.
+
+404
+00:20:33,800 --> 00:20:35,800
+From the beginning of the
+Free Software movement
+
+405
+00:20:35,800 --> 00:20:37,000
+I had the idea that there's
+
+406
+00:20:37,000 --> 00:20:39,000
+room in it for business to be done.
+
+407
+00:20:39,000 --> 00:20:41,700
+One of the advantages of Free Software is that, there's
+
+408
+00:20:41,700 --> 00:20:45,000
+a free market for any kind of service or support.
+
+409
+00:20:45,000 --> 00:20:47,000
+So if you are using software in your business,
+
+410
+00:20:47,000 --> 00:20:49,000
+and you want good support,
+
+411
+00:20:49,000 --> 00:20:52,000
+you have a choice of people to go to for it,
+
+412
+00:20:52,000 --> 00:20:54,000
+you have a choice of businesses... that
+
+413
+00:20:54,000 --> 00:20:57,000
+are in the business of
+providing you with support.
+
+414
+00:20:57,000 --> 00:20:59,000
+So they are going to have to in general give you
+
+415
+00:20:59,000 --> 00:21:02,000
+good support or you go to somebody else.
+
+416
+00:21:02,000 --> 00:21:04,000
+With proprietory software,
+
+417
+00:21:04,300 --> 00:21:07,000
+support is a monopoly, there is one company,
+
+418
+00:21:07,000 --> 00:21:09,600
+typically, that has the source code
+
+419
+00:21:09,600 --> 00:21:11,500
+and only they can give you support
+
+420
+00:21:12,100 --> 00:21:15,300
+so typically, you are at the mercy of a monopoly.
+
+421
+00:21:15,300 --> 00:21:17,600
+That's the case, for example with Microsoft.
+
+422
+00:21:17,600 --> 00:21:20,900
+So no wonder the support is so bad.
+
+423
+00:21:20,900 --> 00:21:22,500
+The benefits of Free Software were
+
+424
+00:21:22,500 --> 00:21:25,200
+tremendous but the cost of supporting it internally
+
+425
+00:21:25,800 --> 00:21:27,800
+uh, and made managers very very nervous and
+
+426
+00:21:27,800 --> 00:21:31,500
+so the fundamental idea I had was
+if we can build a model
+
+427
+00:21:31,500 --> 00:21:35,500
+that could deliver two to four times the support
+
+428
+00:21:35,500 --> 00:21:39,000
+and uh, and uh, and hand holding capability
+
+429
+00:21:39,000 --> 00:21:41,100
+that an internal engineer could provide.
+
+430
+00:21:41,100 --> 00:21:44,100
+And we could do it at 1/2 to 1/4 of the cost
+
+431
+00:21:44,100 --> 00:21:46,300
+that would meet the test of whether or not
+
+432
+00:21:46,300 --> 00:21:47,900
+people would actually buy.
+
+433
+00:21:47,900 --> 00:21:50,400
+And by about the Fall of that year, we had
+
+434
+00:21:50,400 --> 00:21:52,300
+all the things worked out about who
+
+435
+00:21:52,300 --> 00:21:53,900
+needed on the technical team, what
+
+436
+00:21:53,900 --> 00:21:55,800
+the terms the sale would be, what
+
+437
+00:21:55,800 --> 00:21:57,600
+the key price point were, and we
+
+438
+00:21:57,600 --> 00:22:01,600
+actually received our incorporation in Nov of 1989.
+
+439
+00:22:02,200 --> 00:22:04,800
+One of the most difficult things in starting our company
+
+440
+00:22:04,800 --> 00:22:06,400
+was actually finding a name for it.
+
+441
+00:22:06,400 --> 00:22:09,000
+I explained this to one of my friends
+
+442
+00:22:09,000 --> 00:22:10,400
+"we're having difficulty"
+
+443
+00:22:10,400 --> 00:22:12,900
+and he returned an e-mail message
+
+444
+00:22:12,900 --> 00:22:16,800
+that basically just had a bunch of words
+with the name "GNU" in it.
+
+445
+00:22:16,800 --> 00:22:21,600
+And "Cygnus" was the one that
+looked least obnoxious and least obscene.
+
+446
+00:22:22,100 --> 00:22:24,600
+I can say very clearly that Cygnus
+
+447
+00:22:24,900 --> 00:22:28,600
+was the first business that specialized in Free Software.
+
+448
+00:22:28,800 --> 00:22:32,100
+Cygnus supported Free Software,
+
+449
+00:22:32,100 --> 00:22:36,100
+filled a very essential niche because
+we had this great software,
+
+450
+00:22:36,100 --> 00:22:40,100
+you could get it for nothing but
+you couldn't get support - they made their money
+
+451
+00:22:40,300 --> 00:22:42,200
+by charging for support.
+
+452
+00:22:42,200 --> 00:22:45,900
+The GNU project started by building a toolkit,
+
+453
+00:22:45,900 --> 00:22:50,800
+uh, basic development tools such as
+a C compiler, a debugger, a text-editor,
+
+454
+00:22:51,100 --> 00:22:54,500
+and uh, other necessary apparatus.
+
+455
+00:22:54,500 --> 00:22:59,000
+And their intention was eventually to
+develop a kernel to sit underneath those
+
+456
+00:22:59,200 --> 00:23:01,600
+and be the center of the operating system.
+
+457
+00:23:01,600 --> 00:23:05,400
+By about 1990 they had successfully
+developed that toolkit,
+
+458
+00:23:05,400 --> 00:23:09,400
+and it was in wide use on great many variants of Unix.
+
+459
+00:23:09,500 --> 00:23:12,100
+But there was still no free kernel.
+
+460
+00:23:12,100 --> 00:23:16,100
+The kernel happened to be
+one of the last things we started to do
+
+461
+00:23:16,400 --> 00:23:18,400
+and we had started it not long before.
+
+462
+00:23:19,400 --> 00:23:22,400
+And that's when Linus Torvalds came along.
+
+463
+00:23:22,400 --> 00:23:25,700
+"Lin-us" or "Line-us"? What's the exact,
+do you prefer the pronunciation?
+
+464
+00:23:26,000 --> 00:23:28,600
+um.. When I speak Swedish it's "Lee-nus";
+
+465
+00:23:28,600 --> 00:23:31,000
+when I speak Finnish it's "Leen-ous";
+
+466
+00:23:31,000 --> 00:23:32,800
+when I speak English it's "Line-us".
+
+467
+00:23:32,800 --> 00:23:35,600
+And I really don't care how people pronounce my name.
+
+468
+00:23:35,600 --> 00:23:38,400
+But "Linux" is always "Linux".
+
+469
+00:23:38,400 --> 00:23:42,800
+He developed a kernel, and got it working
+faster than we got ours working,
+
+470
+00:23:43,400 --> 00:23:45,900
+and got it to work very nicely and solidly.
+
+471
+00:23:45,900 --> 00:23:47,800
+His kernel is called "Linux".
+
+472
+00:23:48,300 --> 00:23:51,500
+The initial goal was my very personal goal
+
+473
+00:23:51,500 --> 00:23:55,100
+to be able to run a similar environment on my computer
+
+474
+00:23:55,500 --> 00:23:59,300
+that I had grown used to at, at the university computers.
+
+475
+00:23:59,900 --> 00:24:05,300
+And I could not find anything that suited me for that.
+
+476
+00:24:05,700 --> 00:24:09,400
+So having been doing computers for all my life basically.
+
+477
+00:24:09,400 --> 00:24:12,500
+At that point I decided that I'll do my own.
+
+478
+00:24:13,000 --> 00:24:17,000
+Most of the inspiration early on came from, from SunOS
+
+479
+00:24:17,600 --> 00:24:21,900
+which was what um,
+I was using at the university at the time.
+
+480
+00:24:21,900 --> 00:24:23,000
+[ Which University? ]
+
+481
+00:24:23,000 --> 00:24:24,700
+University of Helsinki in Finland.
+
+482
+00:24:25,600 --> 00:24:30,100
+From 1991 to about 1993 was really
+
+483
+00:24:30,400 --> 00:24:32,700
+I guess the infancy period of Linux.
+
+484
+00:24:32,700 --> 00:24:36,400
+That was when it was still only alpha or beta quality;
+
+485
+00:24:36,400 --> 00:24:38,800
+it was relatively unstable.
+
+486
+00:24:38,800 --> 00:24:41,600
+Although, even then it was a good deal more stable
+
+487
+00:24:41,600 --> 00:24:45,600
+than a lot of what are now called
+"production" operating systems.
+
+488
+00:24:45,600 --> 00:24:49,600
+Linus used the traditional
+tried-and-true method of writing one program
+
+489
+00:24:50,500 --> 00:24:52,500
+that does the job,
+
+490
+00:24:52,700 --> 00:24:54,800
+and he got it to work.
+
+491
+00:24:54,800 --> 00:24:58,500
+quickly in fact faster than
+I would have thought was possible.
+
+492
+00:24:58,500 --> 00:25:01,500
+The term for it is "monolithic",
+
+493
+00:25:01,500 --> 00:25:09,400
+which means that basically
+the OS itself is one entity, indivisible.
+
+494
+00:25:11,100 --> 00:25:13,400
+uh, while in the microkernel,
+
+495
+00:25:13,400 --> 00:25:15,900
+the, the operating system kernel is actually
+
+496
+00:25:17,600 --> 00:25:20,700
+uh, just a collection of servers that
+
+497
+00:25:20,700 --> 00:25:23,500
+do different things and then they have a common protocol
+
+498
+00:25:23,500 --> 00:25:25,700
+for doing communication between themselves.
+
+499
+00:25:26,200 --> 00:25:31,800
+[ So why is that... the GNU project that's had
+so much lead-time, that's been doing this,
+
+500
+00:25:31,800 --> 00:25:35,100
+Why...Why is it that he was able to kinda
+come in at the tail end so to speak ]
+
+501
+00:25:35,100 --> 00:25:40,800
+Well we actually started the
+GNU Hurd not long before he started Linux.
+
+502
+00:25:41,700 --> 00:25:45,700
+And it happened though we chose a design
+that's a very advanced design
+
+503
+00:25:46,300 --> 00:25:48,300
+in terms of the power gives you
+
+504
+00:25:48,300 --> 00:25:50,900
+but also turns out to be very hard to debug.
+
+505
+00:25:51,600 --> 00:25:57,300
+We decided to divide up the kernel
+which traditionally had been one program,
+
+506
+00:25:57,300 --> 00:25:59,600
+to divide it up into a lot of smaller programs
+
+507
+00:25:59,600 --> 00:26:03,600
+that would send messages to
+each other asynchronously to, to communicate.
+
+508
+00:26:05,600 --> 00:26:09,500
+The problem is that, that style of programming
+
+509
+00:26:09,500 --> 00:26:11,800
+has a great deal of potential for bugs,
+
+510
+00:26:11,800 --> 00:26:14,700
+which are often very hard to
+figure out because they depend on...
+
+511
+00:26:14,700 --> 00:26:22,100
+does this program send this message
+before or after this one sends that message...
+
+512
+00:26:22,300 --> 00:26:27,300
+And the result was:
+it took us years to get the thing to work.
+
+513
+00:26:28,300 --> 00:26:31,700
+[ What is Linux's relationship to the GNU project? ]
+
+514
+00:26:32,700 --> 00:26:39,100
+Well there's relationships to GNU
+on kind of multiple levels.
+
+515
+00:26:39,600 --> 00:26:43,600
+One is just the philosophical level of thinking that
+
+516
+00:26:44,200 --> 00:26:46,700
+"making your source open is a good idea".
+
+517
+00:26:47,300 --> 00:26:51,300
+When Linus developed the kernel
+he wasn't doing it for the GNU project.
+
+518
+00:26:51,300 --> 00:26:52,800
+He did it independently.
+
+519
+00:26:52,800 --> 00:26:56,200
+And he released it independently
+and we didn't know about it.
+
+520
+00:26:56,200 --> 00:26:58,500
+But some of the people who did know about it
+
+521
+00:26:58,500 --> 00:27:01,000
+decided to look for what else they could find
+
+522
+00:27:01,000 --> 00:27:04,300
+to put together with that kernel to
+make a whole system.
+
+523
+00:27:04,300 --> 00:27:08,300
+They looked around, and lo and behold
+everything they needed was already available.
+
+524
+00:27:08,500 --> 00:27:09,500
+They looked around, and lo and behold
+everything they needed was already available.
+
+525
+00:27:09,800 --> 00:27:11,600
+"What good fortune!" they thought.
+
+526
+00:27:11,600 --> 00:27:13,900
+But actually there was no chance about it.
+
+527
+00:27:13,900 --> 00:27:17,900
+They had found all the pieces of the
+GNU system which was missing just the kernel,
+
+528
+00:27:18,700 --> 00:27:20,600
+so when they put all that together
+
+529
+00:27:20,600 --> 00:27:24,600
+really they were fitting
+Linux into the gap in the GNU system.
+
+530
+00:27:25,200 --> 00:27:26,400
+But they didn't know that.
+
+531
+00:27:26,800 --> 00:27:30,800
+There's a lot of these programs
+
+532
+00:27:31,500 --> 00:27:34,600
+um, done by the Free Softwares Foundation,
+
+533
+00:27:34,600 --> 00:27:36,800
+and done by other people like Linux.
+
+534
+00:27:36,800 --> 00:27:40,800
+And there's a symbiosis between
+Linux and the programs
+
+535
+00:27:40,900 --> 00:27:44,700
+that the programs run on Linux and at the same time
+
+536
+00:27:44,700 --> 00:27:47,100
+and they take the advantage of Linux as a platform,
+
+537
+00:27:47,100 --> 00:27:50,700
+while Linux takes the advantage of the programs
+
+538
+00:27:50,700 --> 00:27:52,700
+by just being able to use them.
+
+539
+00:27:52,700 --> 00:27:54,300
+[ What...What programs? ]
+
+540
+00:27:54,700 --> 00:27:56,100
+umm...
+
+541
+00:27:56,100 --> 00:27:59,100
+The main one is actually the GNU C Compiler.
+
+542
+00:27:59,700 --> 00:28:03,300
+Which... Without a C compiler
+it would not have been possible
+
+543
+00:28:03,300 --> 00:28:09,500
+to make Linux or most of the open progress available.
+
+544
+00:28:10,500 --> 00:28:12,700
+Linux uses the GPL,
+
+545
+00:28:12,700 --> 00:28:17,400
+and I agree with a kind of philosophy behind the GPL.
+
+546
+00:28:18,500 --> 00:28:23,200
+That said the GPL itself is not a very pretty document
+
+547
+00:28:23,200 --> 00:28:27,800
+which is probably just because
+no lawyerese can ever be very pretty.
+
+548
+00:28:33,800 --> 00:28:37,800
+I'd been playing around with Linux for actually
+
+549
+00:28:38,000 --> 00:28:41,300
+late '92 or early '93 for about a year.
+
+550
+00:28:41,300 --> 00:28:45,900
+before I decided that it was to the point
+where actually had everything that I needed
+
+551
+00:28:46,200 --> 00:28:48,300
+to really replace a Sun Workstation.
+
+552
+00:28:48,300 --> 00:28:52,300
+And I was looking for a way to
+have a Unix workstation at home
+
+553
+00:28:52,400 --> 00:28:56,400
+at the time we used Sun Sparc Stations
+in the office at Stanford.
+
+554
+00:28:57,900 --> 00:29:00,400
+Those machines cost us about 7,000 dollars.
+
+555
+00:29:00,400 --> 00:29:02,900
+Now I desperately wanted a Unix machine at home!
+
+556
+00:29:02,900 --> 00:29:05,600
+There's always a this thought
+you get as a graduate student
+
+557
+00:29:05,600 --> 00:29:06,900
+"Gee... if I could work at home!
+
+558
+00:29:06,900 --> 00:29:08,800
+Then I would be so much more productive,
+
+559
+00:29:08,800 --> 00:29:11,900
+I would graduate sooner because
+I would finish my thesis sooner"
+
+560
+00:29:12,500 --> 00:29:16,000
+Well, Well, is it true? Well, you can judge.
+
+561
+00:29:16,000 --> 00:29:19,800
+You know most people end up spending a lot of their time
+
+562
+00:29:19,800 --> 00:29:21,300
+becoming more productive so that
+
+563
+00:29:21,300 --> 00:29:24,500
+they ever actually worked on their thesis
+they'd finish it in a day.
+
+564
+00:29:24,500 --> 00:29:26,200
+It takes a while sometimes.
+
+565
+00:29:26,200 --> 00:29:28,500
+So I decided that I wanted a Unix machine at home.
+
+566
+00:29:28,500 --> 00:29:32,500
+And I went out there I was able to
+use Linux together with the PC.
+
+567
+00:29:32,700 --> 00:29:36,500
+For about 2,000 dollars, I put together a system.
+
+568
+00:29:36,500 --> 00:29:39,400
+That was one and a half to two times faster
+
+569
+00:29:39,400 --> 00:29:42,100
+than that 7,000 dollars Sun Sparc Station.
+
+570
+00:29:42,100 --> 00:29:43,800
+It was absolutely amazing.
+
+571
+00:29:43,800 --> 00:29:46,800
+I had one and a half to two times the speed,
+
+572
+00:29:46,800 --> 00:29:49,500
+at a third to fourth the price.
+
+573
+00:29:49,500 --> 00:29:50,800
+Light bulbs went off.
+
+574
+00:29:50,800 --> 00:29:53,000
+I knew there was an opportunity here.
+
+575
+00:29:53,000 --> 00:29:57,000
+This was the chance to really do something
+better than what Sun has done
+
+576
+00:29:57,100 --> 00:29:59,700
+around Open Source and Linux.
+
+577
+00:30:00,100 --> 00:30:03,300
+I called it Linux originally as working name.
+
+578
+00:30:03,300 --> 00:30:06,800
+And that was just because "Linus"
+
+579
+00:30:06,800 --> 00:30:08,000
+and the "X" has to be there.
+
+580
+00:30:08,000 --> 00:30:10,100
+It's Unix. It's like a law.
+
+581
+00:30:11,400 --> 00:30:14,000
+And...what happened was that...
+
+582
+00:30:14,000 --> 00:30:17,800
+I initially thought that I can't call it Linux publicly,
+
+583
+00:30:17,800 --> 00:30:20,100
+because it is just too egotistical.
+
+584
+00:30:20,100 --> 00:30:22,400
+And that was before I had a big ego. Right?
+
+585
+00:30:22,400 --> 00:30:26,700
+They thought they were taking a whole bunch
+of components putting them around Linux
+
+586
+00:30:27,400 --> 00:30:30,400
+So they ended up calling the whole thing
+"A Linux System"
+
+587
+00:30:31,000 --> 00:30:33,100
+and somehow that term caught on.
+
+588
+00:30:33,100 --> 00:30:34,600
+And the result is
+
+589
+00:30:34,600 --> 00:30:38,600
+there are now ten million people using
+
+590
+00:30:38,600 --> 00:30:40,100
+this variant of the GNU system...
+
+591
+00:30:40,100 --> 00:30:42,400
+the GNU/Linux operating system.
+
+592
+00:30:42,800 --> 00:30:44,500
+And most of them don't know it.
+
+593
+00:30:44,800 --> 00:30:48,800
+[ Some people advocate it be described as GNU/Linux.
+
+594
+00:30:49,200 --> 00:30:52,300
+I mean what's your thought on
+that? I would say, justify or... ]
+
+595
+00:30:52,300 --> 00:30:57,600
+Well, I think it's justified but it is justified
+if you actually make GNU distribution of Linux.
+
+596
+00:30:58,000 --> 00:31:05,100
+The same way that I think that Red Hat Linux
+is fine or SuSE Linux, or Debian Linux.
+
+597
+00:31:06,000 --> 00:31:09,000
+Uh, because if you actually make your
+own distribution of Linux
+
+598
+00:31:09,000 --> 00:31:10,800
+You get to name the thing.
+
+599
+00:31:10,900 --> 00:31:14,900
+But calling Linux in general "GNU Linux"
+I think, is just ridiculous.
+
+600
+00:31:16,800 --> 00:31:18,600
+I got involved in Fall '93.
+
+601
+00:31:19,100 --> 00:31:25,100
+Because I was sent a copy of the first CD-ROM
+commercial Linux distribution,
+
+602
+00:31:25,100 --> 00:31:28,500
+which was called Yggdrasi produced by Adam Richter.
+
+603
+00:31:28,900 --> 00:31:30,600
+And I got a copy because...
+
+604
+00:31:30,600 --> 00:31:34,500
+I had been myself writing Free Software for
+a long time since the early 80's.
+
+605
+00:31:34,500 --> 00:31:37,100
+I was actually one of the
+early GNU contributors myself.
+
+606
+00:31:37,900 --> 00:31:39,800
+And I was absolutely astonished,
+
+607
+00:31:39,800 --> 00:31:41,300
+I was completely astonished.
+
+608
+00:31:41,300 --> 00:31:45,300
+Because I've been a software engineer
+for nearly 15 years at that point.
+
+609
+00:31:46,000 --> 00:31:48,200
+And according to all the rules I knew...
+
+610
+00:31:48,200 --> 00:31:51,900
+about controlling complexity,
+keeping a project group small,
+
+611
+00:31:51,900 --> 00:31:54,700
+having closely managed objectives.
+
+612
+00:31:54,700 --> 00:31:57,000
+Linux should have been a disaster, and it wasn't.
+
+613
+00:31:57,000 --> 00:31:59,100
+Instead, it was something wonderful,
+
+614
+00:31:59,100 --> 00:32:02,400
+and I was determined to figure out
+how they were getting a way with that.
+
+615
+00:32:04,500 --> 00:32:07,900
+In order for Linux to grow beyond
+the world of the computer programmer
+
+616
+00:32:07,900 --> 00:32:11,900
+It needed a use, an application
+that made it a must-have technology
+
+617
+00:32:12,600 --> 00:32:13,900
+That threshold was crossed
+
+618
+00:32:13,900 --> 00:32:17,700
+with the development of a program
+that made complex websites possible
+
+619
+00:32:18,200 --> 00:32:20,600
+That program is the Apache web server.
+
+620
+00:32:21,300 --> 00:32:24,600
+The killer app of Linux was undoubtedly
+the Apache web server.
+
+621
+00:32:25,200 --> 00:32:27,100
+If you look at the history of Linux,
+
+622
+00:32:27,100 --> 00:32:31,600
+the adoption curve of Linux and
+the adoption curve of the Internet
+
+623
+00:32:31,600 --> 00:32:33,100
+exactly track each other.
+
+624
+00:32:33,100 --> 00:32:38,100
+1993, which was when the Apache
+web server project really got started,
+
+625
+00:32:38,100 --> 00:32:41,700
+was also the beginnings of the popular ISP explosion
+
+626
+00:32:41,700 --> 00:32:45,500
+when the Internet first became a mass market commodity
+
+627
+00:32:45,500 --> 00:32:47,900
+and the idea of web-based electronic commerce
+
+628
+00:32:47,900 --> 00:32:50,300
+and, and mass communication became real.
+
+629
+00:32:50,900 --> 00:32:54,100
+I think it was one of the first applications
+that caused people to go
+
+630
+00:32:54,100 --> 00:32:56,000
+"Well, if I install Linux."
+
+631
+00:32:56,000 --> 00:32:59,000
+I get some tangible benefit from doing so, right?
+
+632
+00:32:59,500 --> 00:33:02,800
+I mean, clearly there were a lot of
+interesting applications on Linux
+
+633
+00:33:02,800 --> 00:33:04,700
+at, at the time, this being maybe
+two or three years ago,
+
+634
+00:33:04,700 --> 00:33:06,600
+when the root thing really started to take off
+
+635
+00:33:06,600 --> 00:33:09,300
+but there wasn't a driving, you know,
+
+636
+00:33:09,300 --> 00:33:10,600
+you could almost say business case
+
+637
+00:33:10,600 --> 00:33:13,500
+for someone to use Linux versus using NT
+
+638
+00:33:13,500 --> 00:33:16,800
+until, I think, Apache and
+a lot of the things that plugged into Apache
+
+639
+00:33:16,800 --> 00:33:18,300
+enhanced Apache
+
+640
+00:33:18,300 --> 00:33:21,300
+I mean, when you want to go out and build..
+go out to build a server farm
+
+641
+00:33:21,800 --> 00:33:23,600
+It was much more cost effective
+
+642
+00:33:23,600 --> 00:33:24,200
+cost effective
+
+643
+00:33:24,200 --> 00:33:29,100
+real dollar returns to build it on Linux and Apache
+than was to build it on IIS and NT
+
+644
+00:33:29,100 --> 00:33:31,500
+even if it meant that you have to
+spend a little bit of money
+
+645
+00:33:31,500 --> 00:33:33,100
+to train your staff to learn how to use that or
+
+646
+00:33:33,100 --> 00:33:34,800
+to find people who were knowledgeable.
+
+647
+00:33:34,800 --> 00:33:35,900
+But the good news was that
+
+648
+00:33:35,900 --> 00:33:37,600
+that knowledge wasn't very expensive
+
+649
+00:33:37,600 --> 00:33:39,300
+because there were all those college students out there
+
+650
+00:33:39,300 --> 00:33:42,700
+who'd been using Linux for a long time
+and were very familiar with it.
+
+651
+00:33:42,700 --> 00:33:45,900
+If you look at the trend curves in web servers
+
+652
+00:33:45,900 --> 00:33:49,600
+Apache has steadily been gaining
+a market share ever since
+
+653
+00:33:49,600 --> 00:33:52,100
+it's up to something like 66% now
+
+654
+00:33:52,100 --> 00:33:55,300
+It's steadily clobbered
+all of the closed source competition
+
+655
+00:33:55,300 --> 00:33:59,700
+And that's because it's more reliable
+it's more flexible, it's more extensible
+
+656
+00:33:59,700 --> 00:34:03,000
+It does what webmasters actually need
+
+657
+00:34:03,200 --> 00:34:06,000
+and the combination of Apache and Linux
+
+658
+00:34:06,000 --> 00:34:08,300
+found its way into a great many commercial shops.
+
+659
+00:34:09,200 --> 00:34:13,800
+Essentially, Apache became the application
+that motivated Internet service providers
+
+660
+00:34:13,800 --> 00:34:17,800
+and e-commerce companies to choose Linux
+over Microsoft's Windows.
+
+661
+00:34:19,000 --> 00:34:22,100
+It would probably runs best on Linux and on FreeBSD
+
+662
+00:34:22,100 --> 00:34:25,700
+and the reason is the
+communities around those operating systems
+
+663
+00:34:25,700 --> 00:34:30,100
+are also the communities that
+contribute the most back to Apache, right?
+
+664
+00:34:30,100 --> 00:34:34,100
+And there were also the operating systems
+that Internet service providers
+
+665
+00:34:34,100 --> 00:34:35,900
+started using very heavily as well
+
+666
+00:34:36,500 --> 00:34:39,400
+and Internet service providers really liked Apache
+
+667
+00:34:39,400 --> 00:34:40,800
+because it allowed them to do
+
+668
+00:34:40,800 --> 00:34:44,100
+a lot of different things
+that some of the commercial web servers didn't
+
+669
+00:34:44,100 --> 00:34:48,100
+such as the ability to host more than
+one web site on a single box, which clearly
+
+670
+00:34:48,200 --> 00:34:50,800
+if you are an ISP and you would have 40,000 users
+
+671
+00:34:50,800 --> 00:34:52,000
+and they all want their web site,
+
+672
+00:34:52,000 --> 00:34:53,600
+is gonna be pretty important to you.
+
+673
+00:34:54,900 --> 00:34:57,200
+one of the key factors in the growth of Linux was
+
+674
+00:34:57,200 --> 00:35:00,000
+the creation of companies that
+specialized in the distribution
+
+675
+00:35:00,000 --> 00:35:02,100
+and support of the Operating System itself
+
+676
+00:35:02,300 --> 00:35:05,700
+Among these companies,
+Red Hat Software is the best known.
+
+677
+00:35:05,700 --> 00:35:09,100
+Red Hat started as a product of Marc Ewing
+
+678
+00:35:09,100 --> 00:35:10,700
+while he was working at IBM.
+
+679
+00:35:10,700 --> 00:35:12,700
+He wanted a little better Linux distribution
+
+680
+00:35:12,700 --> 00:35:14,100
+he started playing around,
+
+681
+00:35:14,100 --> 00:35:18,100
+found out he uh, he spent more time
+maintaining his Linux distribution
+
+682
+00:35:18,300 --> 00:35:21,300
+than he did uh,
+than he did working on his new project.
+
+683
+00:35:21,300 --> 00:35:25,000
+So he uh, sort of started the distribution himself
+
+684
+00:35:25,000 --> 00:35:26,600
+He met up with Bob Young,
+
+685
+00:35:26,600 --> 00:35:29,500
+who at the time was running company called
+ACC Bookstore
+
+686
+00:35:29,500 --> 00:35:32,900
+which was a mail-order PC Unix uh, catalog
+
+687
+00:35:32,900 --> 00:35:34,800
+And Bob kind of knew he wanted something,
+
+688
+00:35:34,800 --> 00:35:36,900
+you know, more his own to market,
+
+689
+00:35:36,900 --> 00:35:39,300
+rather than reselling other people's products
+
+690
+00:35:39,300 --> 00:35:42,400
+And he was fairly good at marketing, and...
+
+691
+00:35:42,400 --> 00:35:43,800
+Mark knew he needed some marketing help
+
+692
+00:35:43,800 --> 00:35:46,800
+because he was very good at the technical parts,
+so they kinda got together
+
+693
+00:35:46,800 --> 00:35:51,100
+I started working with Red Hat in May of 1995,
+basically right out of NC State.
+
+694
+00:35:51,100 --> 00:35:56,100
+along with Eric Troan who, me and him
+combined make up employees #4 and #5.
+
+695
+00:35:57,000 --> 00:36:01,000
+We actually reported to work in an apartment
+that Mark Ewing used to live in
+
+696
+00:36:02,300 --> 00:36:06,200
+We took it over as kind of
+the development part of Red Hat software
+
+697
+00:36:06,200 --> 00:36:10,100
+and stayed that way till about November of 1995 when...
+
+698
+00:36:10,300 --> 00:36:12,900
+a toilet we had in the apartment kind of exploded,
+
+699
+00:36:12,900 --> 00:36:14,300
+flooded our downstairs neighbor
+
+700
+00:36:14,300 --> 00:36:17,400
+and she got little upset and...
+
+701
+00:36:17,400 --> 00:36:19,600
+the apartment folks found out
+we were running a business there
+
+702
+00:36:19,600 --> 00:36:21,700
+instead of actually living there the same time
+
+703
+00:36:21,700 --> 00:36:23,100
+So they decided to throw us out.
+
+704
+00:36:23,100 --> 00:36:25,300
+So at that point, we had about a week to go find
+
+705
+00:36:25,300 --> 00:36:27,600
+our first office, which we did
+
+706
+00:36:27,600 --> 00:36:29,600
+and get ourselves moved in a hurry
+
+707
+00:36:40,100 --> 00:36:45,100
+We started going in again '95 or so
+to the venture capital firms,
+
+708
+00:36:45,100 --> 00:36:48,000
+asking, saying, there's something happening here.
+
+709
+00:36:48,000 --> 00:36:50,100
+There's a great business opportunity,
+
+710
+00:36:50,100 --> 00:36:54,100
+to build the next Sun for open source.
+
+711
+00:36:54,300 --> 00:36:57,500
+Well, the venture capitalists looked at this and said
+
+712
+00:36:57,500 --> 00:37:00,000
+"Gee, you are selling systems
+
+713
+00:37:00,000 --> 00:37:02,100
+the software is free. This is kind of scary.
+
+714
+00:37:02,100 --> 00:37:04,600
+We're not sure that we want to put money in. And...
+
+715
+00:37:04,600 --> 00:37:08,000
+by the way, we funded other systems companies
+
+716
+00:37:08,000 --> 00:37:10,900
+and it hasn't really panned out. We are scared."
+
+717
+00:37:13,100 --> 00:37:16,200
+I came to the US about 3 years ago,
+
+718
+00:37:16,200 --> 00:37:18,500
+and the reason really was that I'd been spending
+
+719
+00:37:19,800 --> 00:37:22,800
+like 6 or 7 years at Helsinki University.
+
+720
+00:37:22,800 --> 00:37:27,100
+and decide it was time to see the real world
+and not just university life.
+
+721
+00:37:27,100 --> 00:37:32,100
+Especially this area had a lot of the most
+interesting work being done.
+
+722
+00:37:33,600 --> 00:37:35,400
+So I just decided that...
+
+723
+00:37:35,400 --> 00:37:39,400
+let's try to move half way across the world,
+
+724
+00:37:39,900 --> 00:37:41,100
+and give this a try.
+
+725
+00:37:41,100 --> 00:37:43,100
+And it's turned out pretty well.
+
+726
+00:37:43,100 --> 00:37:46,000
+[ Ah...you see this as temporary or long term? ]
+
+727
+00:37:46,500 --> 00:37:49,100
+Well, we saw it as temporary at first.
+
+728
+00:37:49,100 --> 00:37:53,100
+And I think it's certainly looking like
+it's turning into long term.
+
+729
+00:37:53,400 --> 00:37:56,900
+Our youngest daughter is
+both US and Finnish citizen,
+
+730
+00:37:56,900 --> 00:37:58,400
+because she was born here
+
+731
+00:37:59,000 --> 00:38:03,000
+and the older one is speaking
+both Swedish and English, so...
+
+732
+00:38:27,200 --> 00:38:31,200
+The next major event was one that
+I had directed hand in.
+
+733
+00:38:31,300 --> 00:38:34,100
+I wrote a paper, called
+"The Cathedral & the Bazaar".
+
+734
+00:38:34,100 --> 00:38:37,800
+which was my observations,
+my anthropological analysis
+
+735
+00:38:37,800 --> 00:38:40,100
+of what it was that made
+the open source world work.
+
+736
+00:38:40,100 --> 00:38:45,400
+We didn't call it that then. We were still
+using the term "Free Software" primarily.
+
+737
+00:38:45,400 --> 00:38:48,100
+So it was my observation of
+what made the Free Software world work
+
+738
+00:38:48,100 --> 00:38:52,400
+and why we were able to
+produce extremely high quality software
+
+739
+00:38:52,900 --> 00:38:56,900
+in spite of constantly violating all of
+the standard rules of software engineering
+
+740
+00:38:57,800 --> 00:39:00,500
+In that paper, I was setting up a contrast
+
+741
+00:39:00,500 --> 00:39:02,700
+between two different styles of development,
+
+742
+00:39:02,700 --> 00:39:04,400
+two opposed styles of development.
+
+743
+00:39:04,400 --> 00:39:10,000
+One, which is the
+conventional closed development style,
+
+744
+00:39:10,000 --> 00:39:12,500
+which I called the "Cathedral" style.
+
+745
+00:39:12,500 --> 00:39:15,800
+In that one, you have
+tight specification of objectives.
+
+746
+00:39:15,800 --> 00:39:21,100
+Small project groups which are run
+in a fairly hierarchical authoritarian manner.
+
+747
+00:39:22,300 --> 00:39:24,800
+And you have long release intervals
+
+748
+00:39:25,600 --> 00:39:28,500
+On the other hand, what I identified
+is happening in the Linux world
+
+749
+00:39:28,500 --> 00:39:34,100
+was a much more peer to peer decentralized,
+market or bazaar-like style,
+
+750
+00:39:34,500 --> 00:39:36,100
+which has a very short release intervals
+
+751
+00:39:36,100 --> 00:39:41,100
+and constant solicitation of feedback from people
+who are formally outside of the project.
+
+752
+00:39:41,100 --> 00:39:45,100
+A very intense peer review process.
+
+753
+00:39:45,400 --> 00:39:48,100
+And the startling thing was that the more I looked at this,
+
+754
+00:39:48,100 --> 00:39:52,100
+the more it seemed that trading away
+all the supposed advantages
+
+755
+00:39:52,900 --> 00:39:55,000
+of conventional closed development,
+
+756
+00:39:55,000 --> 00:39:59,000
+for that one single advantage
+of massive independent peer review
+
+757
+00:39:59,000 --> 00:40:03,000
+actually seemed to win,
+actually seemed to get you good results.
+
+758
+00:40:06,500 --> 00:40:08,400
+The reason Netscape is important is
+
+759
+00:40:08,400 --> 00:40:13,300
+that they were the first large company
+to participate in open source.
+
+760
+00:40:13,300 --> 00:40:15,100
+We had Cygnus providing support,
+
+761
+00:40:15,100 --> 00:40:17,700
+but we didn't really have much business.
+
+762
+00:40:17,700 --> 00:40:21,500
+And Netscape went open source essentially
+as a way to fight Microsoft,
+
+763
+00:40:21,500 --> 00:40:25,300
+which was giving away Internet Explorer,
+
+764
+00:40:25,300 --> 00:40:29,300
+but not letting anyone else have the source code,
+not letting companies collaborate.
+
+765
+00:40:30,300 --> 00:40:32,000
+Working as part of the sales force, I got a bit of,
+
+766
+00:40:32,000 --> 00:40:34,400
+I got a good idea of.. of why people bought our software
+
+767
+00:40:34,400 --> 00:40:38,400
+and what it took to make our software successful
+in the marketplace against competitive products.
+
+768
+00:40:39,800 --> 00:40:41,100
+However, the problem was,
+
+769
+00:40:41,100 --> 00:40:44,700
+we were seeing, as that, as time went on,
+
+770
+00:40:44,700 --> 00:40:48,100
+our software was uh,
+
+771
+00:40:48,100 --> 00:40:51,900
+being competed against by other
+people's software, particularly Microsoft's
+
+772
+00:40:51,900 --> 00:40:55,700
+and as time went on, the price of our software had to drop
+
+773
+00:40:55,700 --> 00:40:57,800
+because other people were giving their software away
+
+774
+00:40:57,800 --> 00:41:00,800
+at no charge or at little charge.
+
+775
+00:41:00,800 --> 00:41:03,000
+Now the real problem was that they feared
+
+776
+00:41:03,000 --> 00:41:06,500
+Microsoft would achieve a monopoly lock on the browser market
+
+777
+00:41:06,500 --> 00:41:10,300
+and they would then use that monopoly lock to
+
+778
+00:41:10,300 --> 00:41:11,900
+pervert actually,
+
+779
+00:41:11,900 --> 00:41:15,900
+the HTTP and HTML standards that the web depends on.
+
+780
+00:41:15,900 --> 00:41:19,900
+And once they had turned those
+standards in to lock in devices,
+
+781
+00:41:19,900 --> 00:41:23,900
+they could then use that control
+to drive Netscape out of the server market,
+
+782
+00:41:24,300 --> 00:41:26,600
+which was where it was making its real money.
+
+783
+00:41:26,600 --> 00:41:29,500
+My concern was that as time went on,
+
+784
+00:41:31,000 --> 00:41:33,300
+Netscape's business would be threatened,
+
+785
+00:41:33,300 --> 00:41:37,100
+by the fact that we didn't have enough people
+to do what we needed to do as a company
+
+786
+00:41:37,100 --> 00:41:41,000
+in order to keep our software viable in the marketplace.
+
+787
+00:41:41,500 --> 00:41:45,300
+The Netscape release happened in early 1998.
+
+788
+00:41:45,300 --> 00:41:49,300
+And uh, I was told later, I had no idea at the time,
+
+789
+00:41:50,300 --> 00:41:52,600
+that it came about as a direct result of
+
+790
+00:41:52,600 --> 00:41:55,400
+the right people having read
+"The Cathedral and the Bazaar".
+
+791
+00:41:55,900 --> 00:41:59,600
+"The Cathedral and the Bazaar",
+the paper by Eric Raymond,
+
+792
+00:41:59,600 --> 00:42:05,200
+was a significant influence on
+Netscape's decision to release source code.
+
+793
+00:42:05,900 --> 00:42:08,100
+It came as a complete shock to me.
+
+794
+00:42:08,100 --> 00:42:10,300
+I wasn't really ready for the thought
+
+795
+00:42:10,300 --> 00:42:12,500
+that I was changing the world even by accident.
+
+796
+00:42:13,200 --> 00:42:17,200
+However he was not by any means
+the only influence on that decision.
+
+797
+00:42:17,500 --> 00:42:19,700
+Uh, and not necessarily the most important one,
+
+798
+00:42:19,700 --> 00:42:21,400
+when all is said and done.
+
+799
+00:42:21,400 --> 00:42:23,600
+As I said, Netscape,
+
+800
+00:42:23,600 --> 00:42:27,600
+Netscape had already been talking about
+releasing source code for quite some time before
+
+801
+00:42:28,300 --> 00:42:30,200
+anyone ever heard of Eric's paper.
+
+802
+00:42:30,600 --> 00:42:32,600
+Linux Congress in early 1997,
+
+803
+00:42:32,600 --> 00:42:35,600
+which was the first place that I gave that paper.
+
+804
+00:42:35,900 --> 00:42:39,900
+And one of the people who heard it was
+Tim O'Reilly of O'Reilly and Associates.
+
+805
+00:42:40,400 --> 00:42:43,300
+And uh, he thought it was pretty intriguing
+
+806
+00:42:43,300 --> 00:42:47,300
+and he asked me to give it at
+his first PERL conference, which was uh..
+
+807
+00:42:47,300 --> 00:42:49,900
+later that year, in Fall of 97.
+
+808
+00:42:50,600 --> 00:42:52,500
+And apparently what happened, I was told later,
+
+809
+00:42:52,500 --> 00:42:55,000
+although I had no idea that this was happening at the time,
+
+810
+00:42:55,400 --> 00:43:01,500
+uh is that some people from Netscape actually
+heard the paper at the PERL conference
+
+811
+00:43:01,500 --> 00:43:05,500
+and took those ideas back to Netscape and
+they kind of lit a fire there.
+
+812
+00:43:05,600 --> 00:43:09,600
+The role of my paper was essentially
+to make the internal case at Netscape, uh
+
+813
+00:43:09,700 --> 00:43:13,700
+to make the business case for
+why Netscape should release its source code.
+
+814
+00:43:13,900 --> 00:43:17,500
+The paper was called
+"Netscape Source Code As Netscape Product".
+
+815
+00:43:18,200 --> 00:43:22,200
+uh.. a strange title,
+essentially what the title meant was that
+
+816
+00:43:22,800 --> 00:43:24,000
+In my opinion we needed to
+
+817
+00:43:24,100 --> 00:43:27,900
+think of source code not just as something
+that was used in creating our products,
+
+818
+00:43:27,900 --> 00:43:30,100
+but as something that was a product in its own right.
+
+819
+00:43:30,500 --> 00:43:33,200
+Something that customers might use, other people might use.
+
+820
+00:43:33,700 --> 00:43:36,500
+I then looked at what the business models might be
+
+821
+00:43:36,500 --> 00:43:39,400
+if we released source code for our products.
+
+822
+00:43:39,400 --> 00:43:41,100
+How would we license them?
+
+823
+00:43:41,100 --> 00:43:45,100
+How do we sell products in this environment?
+
+824
+00:43:46,400 --> 00:43:49,600
+Then I looked at the competition, particularly Microsoft.
+
+825
+00:43:49,600 --> 00:43:52,200
+What would they be likely to do
+if we released source code?
+
+826
+00:43:52,200 --> 00:43:54,800
+Was there some way they could
+use our source code against us?
+
+827
+00:43:54,800 --> 00:43:58,800
+I used Eric's paper as an example of
+how distributed development could work,
+
+828
+00:43:59,600 --> 00:44:03,400
+how a company could develop software not
+just using their own people,
+
+829
+00:44:03,400 --> 00:44:06,200
+but also working with people on the Internet.
+
+830
+00:44:07,300 --> 00:44:10,900
+And that's why I included a reference to
+Eric's paper in my paper.
+
+831
+00:44:11,200 --> 00:44:12,700
+Once my paper was circulated,
+
+832
+00:44:12,700 --> 00:44:15,100
+the people who read my paper would naturally enough
+
+833
+00:44:15,100 --> 00:44:18,100
+find a reference to Eric's paper
+and read that as well.
+
+834
+00:44:18,100 --> 00:44:20,700
+[ And who was involved in
+making that happen at Netscape? ]
+
+835
+00:44:21,700 --> 00:44:25,100
+Primarily the person who made the
+actual decision was Jim Barksdale.
+
+836
+00:44:25,900 --> 00:44:28,000
+And this turned out to be important later.
+
+837
+00:44:28,000 --> 00:44:30,800
+That our big win, the big score
+
+838
+00:44:30,800 --> 00:44:34,400
+that gave us mainstream
+visibility and credibility with investors
+
+839
+00:44:34,400 --> 00:44:38,400
+came not because of bottom up evangelism
+from a bunch of engineers,
+
+840
+00:44:38,500 --> 00:44:41,600
+but because one strategist at the top
+
+841
+00:44:41,600 --> 00:44:43,900
+saw the potential power of this method and
+
+842
+00:44:43,900 --> 00:44:46,800
+then essentially imposed that vision
+on everyone underneath him.
+
+843
+00:44:47,900 --> 00:44:51,100
+When I completed the paper,
+I first gave a copy to Mark Andreessen,
+
+844
+00:44:51,100 --> 00:44:55,100
+who was co-founder of Netscape and
+was at the time one of,
+
+845
+00:44:55,100 --> 00:44:56,900
+on the senior management team at Netscape.
+
+846
+00:44:56,900 --> 00:45:00,900
+Mark then gave a copy of the paper to several
+other people within Netscape management,
+
+847
+00:45:01,000 --> 00:45:03,100
+including Jim Barksdale.
+
+848
+00:45:03,100 --> 00:45:06,200
+I'm not sure exactly when Jim and
+the other senior managers
+
+849
+00:45:06,200 --> 00:45:08,300
+made the actual decision,
+
+850
+00:45:09,000 --> 00:45:11,300
+I believe it was in early January sometime.
+
+851
+00:45:11,400 --> 00:45:15,900
+Netscape actually announced that it was gonna
+release the source code on Jan 22nd,
+
+852
+00:45:16,400 --> 00:45:19,900
+the same time it was going to give
+Communicator away for free.
+
+853
+00:45:20,300 --> 00:45:23,000
+When Netscape decided to release the source code,
+
+854
+00:45:23,000 --> 00:45:25,400
+people sort of got a wake up notice and said
+
+855
+00:45:25,400 --> 00:45:28,900
+"Hey, maybe there is something to this idea
+of releasing source code
+
+856
+00:45:28,900 --> 00:45:32,400
+and doing development with people
+outside your company."
+
+857
+00:45:33,400 --> 00:45:38,200
+So Netscape's decision brought a lot of
+public attention to the idea of Free Software,
+
+858
+00:45:38,200 --> 00:45:40,500
+what became known as Open Source,
+
+859
+00:45:40,500 --> 00:45:43,000
+and brought a lot of attention to
+the Linux operating system,
+
+860
+00:45:43,000 --> 00:45:47,000
+which was one of the most prominent examples of
+Open Source software at that time.
+
+861
+00:45:52,500 --> 00:45:55,800
+This is our first office, Mountain View, California.
+
+862
+00:45:55,800 --> 00:45:58,200
+We moved here in early 1995.
+
+863
+00:45:58,200 --> 00:46:00,100
+This is 4,000 square feet.
+
+864
+00:46:00,100 --> 00:46:06,700
+It was an incredible leap of faith for us to
+move out and take the company to our own office.
+
+865
+00:46:06,700 --> 00:46:09,700
+Now what's really important about this place
+
+866
+00:46:09,700 --> 00:46:13,300
+is that this is the office
+where the term "Open Source" was invented.
+
+867
+00:46:13,300 --> 00:46:18,000
+If you walk in to an executive's office
+and say "Free Software",
+
+868
+00:46:18,300 --> 00:46:22,100
+OK, If you're lucky, the response
+you'll get is something like,
+
+869
+00:46:22,100 --> 00:46:28,600
+"hmm, hmm, Free Software, must be
+cheap, shoddy, worthless."
+
+870
+00:46:28,600 --> 00:46:32,600
+Uh, and if you're not lucky,
+it has associations with, uh.
+
+871
+00:46:34,000 --> 00:46:38,000
+with the Free Software Foundation's
+wholesale attack on intellectual property rights,
+
+872
+00:46:38,400 --> 00:46:41,000
+which regardless of what
+you think about the ethics of that,
+
+873
+00:46:41,000 --> 00:46:45,000
+it's lousy marketing, it's not something
+that businesses want to hear.
+
+874
+00:46:45,500 --> 00:46:47,900
+So Eric Raymond knew there was a problem.
+
+875
+00:46:47,900 --> 00:46:50,100
+We'd been calling this Free Software,
+
+876
+00:46:50,100 --> 00:46:54,100
+but people took the term "Free"
+and associated with "Free of charge",
+
+877
+00:46:54,500 --> 00:46:57,200
+they thought they couldn't make money or couldn't sell,
+
+878
+00:46:57,200 --> 00:46:59,100
+which is exactly the wrong concept.
+
+879
+00:46:59,100 --> 00:47:04,700
+We wanted to get across the idea the software
+was open and that the source code was available.
+
+880
+00:47:04,700 --> 00:47:07,000
+Very important pieces.
+
+881
+00:47:07,000 --> 00:47:10,700
+We had this meeting at the VA offices
+in Mountain View, where Eric,
+
+882
+00:47:10,700 --> 00:47:17,200
+myself, and Christine Peterson from Foresight Institute
+joined us as well as some other people.
+
+883
+00:47:17,200 --> 00:47:20,100
+Christine Peterson was there by phone. uh..
+
+884
+00:47:22,000 --> 00:47:25,600
+Jon "Mad dog" Hall was also there by phone. uh..
+
+885
+00:47:26,400 --> 00:47:30,300
+And then Todd Anderson, who later worked for
+SuSE for a while was there.
+
+886
+00:47:30,300 --> 00:47:33,300
+Sam Ockman who now runs Penguin Computing was there.
+
+887
+00:47:33,300 --> 00:47:36,700
+He was uh.. He was an employee of VA at the time
+
+888
+00:47:36,700 --> 00:47:39,600
+Well, we came up with the concept of Open Source,
+
+889
+00:47:39,600 --> 00:47:42,900
+we called Linus in fact and asked Linus if he liked it.
+
+890
+00:47:42,900 --> 00:47:46,100
+He was interested, He liked it.
+
+891
+00:47:46,100 --> 00:47:48,600
+Eventually we came up with something that replaced "Free Software".
+
+892
+00:47:48,600 --> 00:47:50,200
+That was the beginning of Open Source.
+
+893
+00:47:50,200 --> 00:47:52,300
+[ How did you chose words "Open Source"? ]
+
+894
+00:47:53,100 --> 00:47:57,100
+You know, I think Christine Peterson was
+the person who really came up with the idea.
+
+895
+00:47:57,500 --> 00:48:04,300
+Uh, we wanted, again, the idea
+that the source code was out there and it was open.
+
+896
+00:48:04,300 --> 00:48:05,700
+There weren't many choices.
+
+897
+00:48:07,800 --> 00:48:11,800
+Well, since the fist three recipients have
+spoken for the Open Source movement,
+
+898
+00:48:12,800 --> 00:48:16,300
+I think I should speak about
+the Free Software movement.
+
+899
+00:48:16,300 --> 00:48:19,800
+The Open Source movement,
+focuses on practical advantages
+
+900
+00:48:19,800 --> 00:48:22,500
+that you can get by having a community of users
+
+901
+00:48:22,500 --> 00:48:26,500
+who can cooperate on interchanging and improving software.
+
+902
+00:48:26,600 --> 00:48:30,400
+I agree completely with the points they make about that.
+
+903
+00:48:30,400 --> 00:48:34,900
+The reason why my views are different,
+while I am in the Free Software movement
+
+904
+00:48:34,900 --> 00:48:37,000
+rather than the Open Source movement,
+
+905
+00:48:37,000 --> 00:48:40,000
+is that I believe there's something
+more important at stake.
+
+906
+00:48:40,000 --> 00:48:45,000
+That freedom to cooperate with other people,
+freedom to have a community...
+
+907
+00:48:45,000 --> 00:48:47,200
+is important for our quality of life.
+
+908
+00:48:47,200 --> 00:48:51,200
+It's important for having a good society
+that we can live in.
+
+909
+00:48:51,300 --> 00:48:57,300
+And that that is in my view, even more important
+than having powerful and reliable software.
+
+910
+00:48:57,800 --> 00:49:01,800
+But I think some of the people in
+the Free Software camp...
+
+911
+00:49:02,600 --> 00:49:06,000
+are a little scared by the commercialization.
+
+912
+00:49:08,000 --> 00:49:12,000
+And uh, you know,
+of course a rebel is put off by success.
+
+913
+00:49:12,300 --> 00:49:15,900
+uh.. I think that commercialization is very important.
+
+914
+00:49:15,900 --> 00:49:18,700
+We want to mainstream this software,
+
+915
+00:49:18,700 --> 00:49:23,900
+and I work with Richard Stallman
+who's the gray haired man of Free Software,
+
+916
+00:49:25,400 --> 00:49:28,400
+uh, on a regular basis, and I don't feel
+
+917
+00:49:28,400 --> 00:49:31,900
+I have any philosophical differences.
+
+918
+00:49:31,900 --> 00:49:35,000
+me as author the Open Source definition and
+
+919
+00:49:35,000 --> 00:49:40,300
+he is originator of free software as an organized thing,
+
+920
+00:49:41,800 --> 00:49:44,800
+except for one thing.
+Richard thinks that all software should be free,
+
+921
+00:49:44,800 --> 00:49:49,500
+and I think that free software and
+non-free software should coexist.
+
+922
+00:49:49,500 --> 00:49:51,200
+That's the only difference we have.
+
+923
+00:49:52,000 --> 00:49:54,800
+Uh, we decided early on that what we needed,
+
+924
+00:49:54,800 --> 00:49:58,800
+a..a definition, we needed a kind of
+meta-license to define the term "Open Source".
+
+925
+00:49:59,000 --> 00:49:59,800
+a, a definition, we needed a kind of
+meta-license to define the term "Open Source".
+
+926
+00:49:59,800 --> 00:50:03,600
+And what we came up with is a document called
+"The Open Source Definition".
+
+927
+00:50:03,600 --> 00:50:08,800
+It's derived from the Debian Free Software guidelines
+that were originally written by Bruce Parens.
+
+928
+00:50:09,300 --> 00:50:12,600
+I'd written the original draft of that, uh,
+
+929
+00:50:12,600 --> 00:50:16,100
+discussed it for a month with the Debian developers
+
+930
+00:50:16,100 --> 00:50:18,800
+Debian is a Linux distribution
+
+931
+00:50:18,800 --> 00:50:22,000
+And made it their project policy
+
+932
+00:50:22,000 --> 00:50:24,900
+And Eric and I decided to relabel
+
+933
+00:50:25,700 --> 00:50:27,800
+what we'd written for Debian
+
+934
+00:50:27,800 --> 00:50:29,100
+as The Open Source definition
+
+935
+00:50:29,100 --> 00:50:31,400
+and to say Open Source is a software
+
+936
+00:50:31,800 --> 00:50:34,300
+that gives you a list of nine rights
+
+937
+00:50:34,300 --> 00:50:36,600
+which is in the Open Source definition.
+
+938
+00:50:37,600 --> 00:50:40,400
+The first right is Free Redistribution
+
+939
+00:50:40,400 --> 00:50:42,800
+This doesn't mean Free as in no price
+
+940
+00:50:42,800 --> 00:50:45,000
+It means liberty
+
+941
+00:50:45,800 --> 00:50:48,600
+Um, you have to be free to redistribute
+
+942
+00:50:48,600 --> 00:50:50,100
+your software to someone else
+
+943
+00:50:50,100 --> 00:50:52,300
+And actually no price is a side effect
+
+944
+00:50:52,300 --> 00:50:55,600
+You can charge for that redistribution or not
+
+945
+00:50:55,600 --> 00:50:57,800
+It has to come with source code
+
+946
+00:50:58,100 --> 00:51:01,500
+So that someone can maintain a program.
+
+947
+00:51:01,500 --> 00:51:04,200
+If they go from a PC to a Mac for example
+
+948
+00:51:04,600 --> 00:51:07,600
+they can change the software.
+
+949
+00:51:07,600 --> 00:51:10,000
+Derived Works have to be possible
+
+950
+00:51:10,000 --> 00:51:12,700
+If someone has to improve your program
+
+951
+00:51:12,700 --> 00:51:18,000
+um, they should be able to distribute the result
+
+952
+00:51:18,000 --> 00:51:21,500
+uh, There is a provision about integrity
+
+953
+00:51:21,500 --> 00:51:22,800
+of the author's source code
+
+954
+00:51:23,000 --> 00:51:27,900
+which says that the author can sort of
+maintain their honor
+
+955
+00:51:27,900 --> 00:51:29,700
+and if you make a change
+
+956
+00:51:30,100 --> 00:51:32,400
+you might have to change the name of the program
+
+957
+00:51:32,400 --> 00:51:35,100
+or mark out your change very clearly
+
+958
+00:51:35,100 --> 00:51:38,500
+so that your change doesn't reflect on the author
+
+959
+00:51:38,500 --> 00:51:42,300
+There is no discrimination against people or groups.
+
+960
+00:51:42,400 --> 00:51:44,200
+Uh, the example I usually use is
+
+961
+00:51:44,900 --> 00:51:47,400
+You can't stop an abortion clinic
+
+962
+00:51:47,400 --> 00:51:50,600
+or an anti-abortion activist from using the software
+
+963
+00:51:50,600 --> 00:51:54,200
+There is no discrimination against fields of endeavor
+
+964
+00:51:54,600 --> 00:51:57,400
+And that means the software has to be usable
+
+965
+00:51:57,600 --> 00:52:00,900
+in a business as well as in a school
+
+966
+00:52:00,900 --> 00:52:04,400
+The license has to be distributable
+
+967
+00:52:04,500 --> 00:52:05,500
+In other words
+
+968
+00:52:05,700 --> 00:52:08,900
+I have to be able to give that license to someone
+
+969
+00:52:08,900 --> 00:52:12,300
+and that license then should work
+
+970
+00:52:12,300 --> 00:52:15,000
+if that someone gives it to yet a third person
+
+971
+00:52:15,000 --> 00:52:18,800
+The license can't be specific to a product
+
+972
+00:52:18,800 --> 00:52:20,000
+in other words
+
+973
+00:52:20,000 --> 00:52:25,200
+if I distribute my software on a Red Hat system
+
+974
+00:52:25,200 --> 00:52:26,800
+the license can't say
+
+975
+00:52:26,800 --> 00:52:30,500
+you can't distribute this on a SuSE or Debian system
+
+976
+00:52:30,500 --> 00:52:34,000
+The license can't contaminate other software
+
+977
+00:52:34,000 --> 00:52:40,400
+So if I distribute this on a CD with another program
+
+978
+00:52:40,400 --> 00:52:43,600
+It can't say that other program must be free
+
+979
+00:52:43,600 --> 00:52:46,500
+otherwise you can't distribute my software
+
+980
+00:52:46,500 --> 00:52:49,200
+And then the only other part of
+
+981
+00:52:49,200 --> 00:52:50,400
+the Open Source definition
+
+982
+00:52:50,400 --> 00:52:53,200
+is a list of licenses that were accepted
+
+983
+00:52:53,200 --> 00:52:57,100
+And the ones that we started with were the GPL
+
+984
+00:52:57,100 --> 00:53:00,200
+which was actually the example for a lot of
+
+985
+00:53:00,200 --> 00:53:03,700
+what's in the Open Source definition in the BSD license
+
+986
+00:53:03,700 --> 00:53:07,700
+because software for BSD system pre-existed Linux
+
+987
+00:53:13,500 --> 00:53:17,300
+I think the next moment that I thought
+was really pivotal
+
+988
+00:53:17,300 --> 00:53:19,500
+was when the database vendors flipped over
+
+989
+00:53:19,500 --> 00:53:21,500
+which happened about three months sooner
+
+990
+00:53:21,500 --> 00:53:22,600
+than I expected to
+
+991
+00:53:22,600 --> 00:53:25,000
+and actually happened in late July early August
+
+992
+00:53:25,000 --> 00:53:29,000
+commitments to do one ports from Oracle and
+
+993
+00:53:29,300 --> 00:53:32,100
+and Sybase and the other key database vendors.
+
+994
+00:53:32,100 --> 00:53:33,400
+[ And why was that critical? ]
+
+995
+00:53:33,400 --> 00:53:35,500
+because we knew that in order for
+
+996
+00:53:35,500 --> 00:53:37,800
+the open source story to be credible
+
+997
+00:53:37,800 --> 00:53:40,500
+and especially in order for the Linux story
+to be credible,
+
+998
+00:53:40,500 --> 00:53:43,500
+we'd have to get commitments from
+independent software vendors
+
+999
+00:53:43,500 --> 00:53:47,000
+to do ports of their applications to these platforms
+
+1000
+00:53:47,000 --> 00:53:49,600
+and I was actually kind of worried
+
+1001
+00:53:49,600 --> 00:53:52,000
+I thought that we were in a window of vulnerability
+
+1002
+00:53:52,000 --> 00:53:55,400
+between the time that we announced
+the open source campaign
+
+1003
+00:53:55,400 --> 00:53:57,200
+and the database vendors flipped over
+
+1004
+00:53:57,200 --> 00:53:59,800
+that was the point at which hostile action
+
+1005
+00:53:59,800 --> 00:54:03,500
+by Microsoft or other close-source software companies
+
+1006
+00:54:03,500 --> 00:54:04,800
+that was the point in which
+
+1007
+00:54:04,800 --> 00:54:07,300
+a serious marketing blitz might have sunk us
+
+1008
+00:54:07,300 --> 00:54:11,300
+but once the big database vendors flipped over
+
+1009
+00:54:11,300 --> 00:54:13,800
+that opened the way for other ISVs
+
+1010
+00:54:13,800 --> 00:54:15,700
+that started the snow ball effect going
+
+1011
+00:54:15,700 --> 00:54:17,800
+Every six months or so
+
+1012
+00:54:17,800 --> 00:54:19,400
+I would come back to the venture capitalists
+
+1013
+00:54:19,400 --> 00:54:21,100
+I would show them the new numbers
+
+1014
+00:54:21,100 --> 00:54:23,200
+showing more and more people adopting Linux
+
+1015
+00:54:23,200 --> 00:54:25,000
+and new people porting, new users
+
+1016
+00:54:25,000 --> 00:54:26,600
+and I'd show them our customer list
+
+1017
+00:54:26,600 --> 00:54:29,900
+And our customer list was getting much more impressive
+
+1018
+00:54:29,900 --> 00:54:32,500
+It was people like Cisco that were beginning to appear
+
+1019
+00:54:32,500 --> 00:54:35,000
+people like, you know, those dot-com companies
+
+1020
+00:54:35,000 --> 00:54:37,400
+were started to show up on our customer list
+
+1021
+00:54:37,400 --> 00:54:40,000
+and eventually the venture capitalists
+
+1022
+00:54:40,000 --> 00:54:42,000
+you know, they kept looking at it
+
+1023
+00:54:42,000 --> 00:54:43,800
+they kept saying "Oh, we can't quite do it"
+
+1024
+00:54:43,800 --> 00:54:47,000
+Finally, Linus appeared on the cover of Fortune
+
+1025
+00:54:47,000 --> 00:54:49,300
+There was something happening with Open Source
+
+1026
+00:54:49,300 --> 00:54:53,300
+Well, at that point, the venture capitalists
+couldn't ignore it
+
+1027
+00:54:53,700 --> 00:54:56,600
+they just got sick of hearing about Linux everywhere
+
+1028
+00:54:56,600 --> 00:54:58,500
+and they got tired of me, just, you know
+
+1029
+00:54:58,500 --> 00:55:01,900
+showing it to them every,
+at that point it was almost every week
+
+1030
+00:55:01,900 --> 00:55:04,500
+So they uh, they decided it was time to invest,
+
+1031
+00:55:04,500 --> 00:55:06,300
+that there was something happening
+
+1032
+00:55:06,300 --> 00:55:09,800
+I announced Open Source to the world on the Internet
+
+1033
+00:55:09,800 --> 00:55:13,200
+I did a lot of the early... administrative work of
+
+1034
+00:55:13,200 --> 00:55:16,700
+starting the Open Source Initiative
+
+1035
+00:55:16,700 --> 00:55:18,500
+and I think six months later
+
+1036
+00:55:18,500 --> 00:55:21,000
+I was reading the words Open Source
+
+1037
+00:55:21,000 --> 00:55:23,600
+in the news all the time
+
+1038
+00:55:23,600 --> 00:55:25,900
+and was totally astounded
+
+1039
+00:55:25,900 --> 00:55:27,100
+And a year later, I believe
+
+1040
+00:55:27,100 --> 00:55:31,100
+Microsoft was talking about releasing some source code
+
+1041
+00:55:32,200 --> 00:55:34,400
+And someone in the press asked Steve Ballmer
+
+1042
+00:55:34,400 --> 00:55:37,000
+if they were going to open source their code
+
+1043
+00:55:37,000 --> 00:55:38,500
+and Steve Ballmer said,
+
+1044
+00:55:38,500 --> 00:55:42,500
+"Well, Open Source means more than
+just releasing the source code"
+
+1045
+00:55:42,800 --> 00:55:45,400
+And I realized that he had read my document
+
+1046
+00:55:45,400 --> 00:55:48,200
+and understood it and was now telling
+the press about this
+
+1047
+00:55:48,600 --> 00:55:51,600
+Now if you are like just a guy on the net
+
+1048
+00:55:51,600 --> 00:55:53,900
+who's not doing this for a job at all
+
+1049
+00:55:53,900 --> 00:55:55,700
+and you sort of write a manifesto
+
+1050
+00:55:55,700 --> 00:55:58,000
+and it spreads out through the world
+
+1051
+00:55:58,000 --> 00:55:59,000
+and a year later
+
+1052
+00:55:59,000 --> 00:56:02,100
+the vice president of Microsoft is talking about that
+
+1053
+00:56:02,100 --> 00:56:05,400
+You'd think you were on drugs, wouldn't you?
+
+1054
+00:56:05,400 --> 00:56:07,100
+But that's what really happened
+
+1055
+00:56:13,000 --> 00:56:17,000
+The Local Users Groups
+tend to be more than an issue of
+
+1056
+00:56:18,900 --> 00:56:21,000
+building a social network
+
+1057
+00:56:22,200 --> 00:56:27,800
+especially getting people familiarized with the issues
+
+1058
+00:56:29,400 --> 00:56:33,600
+also just acting as a kind of supporting network
+
+1059
+00:56:33,700 --> 00:56:38,900
+for people who, who do not, for example,
+have the ability
+
+1060
+00:56:38,900 --> 00:56:42,100
+to pay for commercial support network
+
+1061
+00:56:42,300 --> 00:56:44,700
+So one thing they're doing in this area
+
+1062
+00:56:44,700 --> 00:56:46,700
+for example, is they're making these.
+
+1063
+00:56:46,900 --> 00:56:48,700
+I think it's once a month
+
+1064
+00:56:48,700 --> 00:56:52,400
+They're having install fests, which means that
+
+1065
+00:56:52,600 --> 00:56:56,900
+people who have problems getting Linux
+installed on their machines
+
+1066
+00:56:57,100 --> 00:56:58,600
+or have some issue, I mean
+
+1067
+00:56:58,600 --> 00:57:00,000
+maybe they've installed Linux
+
+1068
+00:57:00,000 --> 00:57:02,600
+but want to set up the network in a specific way
+
+1069
+00:57:02,600 --> 00:57:04,700
+can actually bring in their machines
+
+1070
+00:57:04,700 --> 00:57:05,800
+to this users group meeting
+
+1071
+00:57:05,800 --> 00:57:09,400
+And there's a lot of people there willing to help
+
+1072
+00:57:09,400 --> 00:57:13,400
+who may have seen the same problem before.
+
+1073
+00:57:22,400 --> 00:57:24,100
+Well, actually things aren't so well.
+
+1074
+00:57:24,100 --> 00:57:27,300
+I tried it earlier myself. I had problems.
+
+1075
+00:57:27,300 --> 00:57:29,700
+And so I came to this install fest where
+
+1076
+00:57:29,700 --> 00:57:31,400
+all the gurus abound.
+
+1077
+00:57:31,400 --> 00:57:35,300
+Hopefully I'll have better luck getting it in.
+
+1078
+00:57:35,300 --> 00:57:38,100
+Instead of having, uh, sending e-mails, or
+
+1079
+00:57:38,100 --> 00:57:40,000
+writing to news groups on the Internet
+
+1080
+00:57:40,000 --> 00:57:42,500
+and waiting several days for the answers sometimes
+
+1081
+00:57:42,500 --> 00:57:45,500
+it's easy to come here and find other people
+
+1082
+00:57:45,500 --> 00:57:46,700
+who might know about your problem
+
+1083
+00:57:46,700 --> 00:57:48,600
+and may be able to help you
+
+1084
+00:57:48,600 --> 00:57:49,700
+And hopefully within a few hours
+
+1085
+00:57:49,700 --> 00:57:51,900
+you have your machine installed
+
+1086
+00:57:51,900 --> 00:57:55,900
+Originally I wanted to it install on
+uh, my larger laptop
+
+1087
+00:57:56,100 --> 00:57:57,800
+and so I just did a search on the net
+
+1088
+00:57:57,800 --> 00:58:01,800
+and found where there were resources to get help
+
+1089
+00:58:02,400 --> 00:58:04,100
+And um, I'm here today
+
+1090
+00:58:04,100 --> 00:58:07,800
+cause I'm trying to put Linux on
+this little guy right here.
+
+1091
+00:58:07,800 --> 00:58:10,100
+just a Toshiba Libretto
+
+1092
+00:58:10,100 --> 00:58:12,700
+It's not a easiest thing in the world to do
+
+1093
+00:58:12,700 --> 00:58:15,300
+because it's a weird piece of hardware, so...
+
+1094
+00:58:15,300 --> 00:58:17,300
+Any chairs around here?
+
+1095
+00:58:29,200 --> 00:58:31,000
+I think that Department of Justice case
+
+1096
+00:58:31,000 --> 00:58:33,000
+has made people aware of the fact that
+
+1097
+00:58:33,000 --> 00:58:36,000
+you should at least look for alternatives to Microsoft.
+
+1098
+00:58:36,000 --> 00:58:40,000
+and maybe Microsoft isn't the American dream after all
+
+1099
+00:58:40,100 --> 00:58:42,000
+and that kind of shifting perception
+
+1100
+00:58:43,300 --> 00:58:45,100
+you can very clearly see
+
+1101
+00:58:45,100 --> 00:58:49,100
+that people just took Microsoft for granted
+
+1102
+00:58:49,600 --> 00:58:52,000
+and maybe they're still buying Microsoft but at least
+
+1103
+00:58:52,000 --> 00:58:54,900
+they're kind of more aware of the issue these days
+
+1104
+00:58:54,900 --> 00:58:57,600
+Microsoft actually uses Linux as defense
+
+1105
+00:58:57,600 --> 00:58:59,000
+They used Linux to ground a claim
+
+1106
+00:58:59,000 --> 00:59:00,000
+that they don't have a monopoly
+
+1107
+00:59:00,000 --> 00:59:03,100
+because Linux could essentially
+
+1108
+00:59:03,100 --> 00:59:05,000
+push them off their catbird seat at any time.
+
+1109
+00:59:05,000 --> 00:59:07,800
+It was a very ingenious argument,
+totally specious
+
+1110
+00:59:07,800 --> 00:59:09,600
+because it didn't
+
+1111
+00:59:09,600 --> 00:59:11,800
+do anything to answer the charge
+
+1112
+00:59:11,800 --> 00:59:13,400
+that they had previously engaged in
+
+1113
+00:59:13,400 --> 00:59:16,100
+bullying and various anti-competitive practices.
+
+1114
+00:59:16,100 --> 00:59:17,700
+but it was clever of them
+
+1115
+00:59:17,700 --> 00:59:20,200
+And, in an event, the judge didn't buy it
+
+1116
+00:59:22,500 --> 00:59:25,100
+While ordinarily we in the Linux community are
+rather worried about
+
+1117
+00:59:25,100 --> 00:59:27,500
+letting Microsoft become the issue,
+
+1118
+00:59:27,500 --> 00:59:32,700
+but there was a Slashdot article
+about December of '98
+
+1119
+00:59:32,700 --> 00:59:38,500
+where a fellow named Matt at the noodle
+had pointed out that...
+
+1120
+00:59:38,500 --> 00:59:41,500
+the, a gentleman in Australia has managed
+to receive a refund for
+
+1121
+00:59:41,500 --> 00:59:45,500
+the unused copy of Windows that
+came with his computer.
+
+1122
+00:59:45,500 --> 00:59:50,000
+So he declared the 19th of January, was it January?
+
+1123
+00:59:50,000 --> 00:59:52,400
+err, no, It was February. It was February.
+Oh, I'm sorry, the 19th of February...
+
+1124
+00:59:52,400 --> 00:59:54,500
+he declared 19th of February
+Windows Refund Day.
+
+1125
+00:59:54,500 --> 00:59:56,800
+and he encouraged everyone to go to
+the computer manufacturers,
+
+1126
+00:59:56,800 --> 00:59:59,800
+and return their unused copies of Windows...
+
+1127
+00:59:59,800 --> 01:00:03,000
+as it was specified in the
+Windows End-User License Agreement.
+
+1128
+01:00:03,000 --> 01:00:06,100
+It's important to remember that
+in the License itself, it says that
+
+1129
+01:00:06,100 --> 01:00:11,000
+you can receive a refund if you don't use the software,
+
+1130
+01:00:11,000 --> 01:00:14,000
+and that the manufacture is bound by law to do this...
+
+1131
+01:00:14,000 --> 01:00:16,000
+or it was bond by contract.
+
+1132
+01:00:16,000 --> 01:00:19,000
+and we found if you called up
+these manufactures, they basically said...
+
+1133
+01:00:19,000 --> 01:00:21,200
+"Stop bothering me kid." and hung up on you.
+
+1134
+01:00:21,200 --> 01:00:24,200
+We didn't really wanna sort of giving out our location,
+
+1135
+01:00:24,200 --> 01:00:27,400
+or where we were going to meet, until...
+
+1136
+01:00:27,400 --> 01:00:28,400
+you know, the very last seconds.
+
+1137
+01:00:28,400 --> 01:00:31,800
+What we did is, we have people meet
+at the place where we could control
+
+1138
+01:00:31,800 --> 01:00:33,500
+in the different towns around here.
+
+1139
+01:00:33,500 --> 01:00:37,000
+So I was the San Jose marshal, and I believe Nick you were...
+
+1140
+01:00:37,000 --> 01:00:39,400
+I was..., Rick Moen and I did San Francisco.
+
+1141
+01:00:39,400 --> 01:00:39,900
+Right
+
+1142
+01:00:40,000 --> 01:00:44,000
+and so we had maps there and we
+handed them off everybody who was coming.
+
+1143
+01:00:44,000 --> 01:00:48,000
+Well, we actually met at a Denny's
+That's just outside the Foster City limits...
+
+1144
+01:00:48,000 --> 01:00:49,600
+Foster City limits,
+
+1145
+01:00:49,600 --> 01:00:53,000
+which meant also just outside of
+Foster City Police jurisdiction,
+
+1146
+01:00:53,000 --> 01:00:56,600
+which meant any, any incidents
+that happened at the meeting point
+
+1147
+01:00:56,600 --> 01:00:58,900
+happened in the jurisdiction of San Mateo,
+
+1148
+01:00:58,900 --> 01:01:02,500
+and if they told us they get lost, we'd say,
+"Fine, we are going to Foster city. Bye."
+
+1149
+01:01:02,500 --> 01:01:06,000
+It's sort of the Dukes of Hazzard method of
+avoiding the cops, so...
+
+1150
+01:01:07,500 --> 01:01:11,000
+Well actually, originally we marched
+on the other side of this building.
+
+1151
+01:01:11,000 --> 01:01:15,000
+We marched around and up onto the parking
+structure that's up there,
+
+1152
+01:01:15,000 --> 01:01:17,900
+and that's where Microsoft had a reception
+laid out for us with
+
+1153
+01:01:17,900 --> 01:01:20,000
+drinks
+and a big sign that said...
+
+1154
+01:01:20,000 --> 01:01:22,400
+"Microsoft Welcomes the Open Source Community".
+
+1155
+01:01:22,400 --> 01:01:26,400
+and the local news cameras got shots of
+Eric Raymond and Microsoft representative.
+
+1156
+01:01:27,500 --> 01:01:30,400
+Microsoft's story seems to mostly be that...
+
+1157
+01:01:30,500 --> 01:01:35,000
+...this was not an issue for Microsoft,
+rather from the OEMs.
+
+1158
+01:01:35,000 --> 01:01:38,300
+So we all needed to go back to our
+computer manufacturers and try yet again
+
+1159
+01:01:38,300 --> 01:01:40,400
+to try and get refund from them.
+
+1160
+01:01:40,400 --> 01:01:42,100
+We responded to them saying, you know,
+
+1161
+01:01:42,100 --> 01:01:46,100
+that we tried that and it's not possible,
+we need Microsoft to take action at this point.
+
+1162
+01:01:46,400 --> 01:01:49,000
+And they just repeated the tag line
+over and over again...
+
+1163
+01:01:49,000 --> 01:01:52,000
+"you need to go to the OEMs and manufacturers
+and get your refunds there."
+
+1164
+01:01:52,500 --> 01:01:58,000
+We had about 150 people,
+probably half of which had signs and such, so..
+
+1165
+01:01:58,500 --> 01:02:02,000
+Well, we ended up actually right
+in this courtyard here.
+
+1166
+01:02:02,500 --> 01:02:06,000
+Basically we originally met, gathered outside,
+
+1167
+01:02:06,000 --> 01:02:11,000
+various people sent groups in,
+people from FreeBSD camp sent a couple of folks in.
+
+1168
+01:02:11,000 --> 01:02:15,000
+We had Eric Raymond and Chris
+actually tried to go up eventually.
+
+1169
+01:02:15,300 --> 01:02:17,600
+They had blocked the elevator off to us.
+
+1170
+01:02:17,600 --> 01:02:18,800
+[ Where are the offices? ]
+
+1171
+01:02:18,800 --> 01:02:21,000
+The offices are right up here on the 9th floor.
+
+1172
+01:02:23,000 --> 01:02:25,100
+We got some really nice press out of it.
+
+1173
+01:02:25,300 --> 01:02:26,500
+and we think as a result
+
+1174
+01:02:26,500 --> 01:02:30,500
+Toshiba made it possible for you to buy
+laptop without the operating system on it.
+
+1175
+01:02:31,200 --> 01:02:33,000
+So, it's a small victory, but...
+
+1176
+01:02:33,100 --> 01:02:37,100
+Well, even now, companies such as IBM and...
+
+1177
+01:02:37,200 --> 01:02:39,500
+a lot of other computer manufacturers
+are allowing you...
+
+1178
+01:02:39,500 --> 01:02:42,100
+now to buy machines that don't have
+Windows on them.
+
+1179
+01:02:51,000 --> 01:02:53,800
+When I was a kid and I went to school,
+
+1180
+01:02:53,800 --> 01:02:56,100
+the teachers were trying to teach us to share.
+
+1181
+01:02:56,100 --> 01:02:58,100
+They said if you bring some candy,
+
+1182
+01:02:58,100 --> 01:03:01,200
+you can't eat it all yourself, you
+gotta share with other kids.
+
+1183
+01:03:01,200 --> 01:03:06,800
+But now the administration says teachers
+should be teaching kids to say yes to licensing.
+
+1184
+01:03:06,800 --> 01:03:09,800
+If you bring some software to school,
+"Oh! No, don't share it...
+
+1185
+01:03:09,800 --> 01:03:13,800
+...sharing means you're pirate,
+sharing means you'll be put in jail."
+
+1186
+01:03:14,000 --> 01:03:18,000
+That's not the way society should work.
+We need the good will,
+
+1187
+01:03:19,000 --> 01:03:23,000
+the willingness to help other people
+at least when it's not too hard,
+
+1188
+01:03:23,300 --> 01:03:25,500
+because that's the basis of society,
+
+1189
+01:03:25,500 --> 01:03:28,000
+that's the fundamental resource,
+
+1190
+01:03:28,000 --> 01:03:31,900
+That gives us a society instead of
+a dog-eat-dog jungle.
+
+1191
+01:03:31,900 --> 01:03:33,100
+[ So what about people say if that if
+
+1192
+01:03:33,100 --> 01:03:36,200
+you have rampant piracy and eliminate
+the profit motive and...
+
+1193
+01:03:36,200 --> 01:03:38,000
+...and creative works, software.
+Will not... ]
+
+1194
+01:03:38,000 --> 01:03:41,000
+Well, they were on both counts. For one thing,
+
+1195
+01:03:41,000 --> 01:03:45,000
+people are making a profit from
+developing Free Software,
+
+1196
+01:03:45,000 --> 01:03:49,800
+but for another, the freedom to
+have a community is more important.
+
+1197
+01:03:50,000 --> 01:03:53,800
+[ People that look at, casually look at
+Open Source Free Software and think...
+
+1198
+01:03:53,800 --> 01:03:57,000
+Well, because you are supposed to
+share and do it for people's good will,
+
+1199
+01:03:57,000 --> 01:03:59,400
+Doesn't that seem someone communist.
+What's your response? ]
+
+1200
+01:03:59,400 --> 01:04:03,200
+Absolutely nonsense,
+it makes me really angry when people do that.
+
+1201
+01:04:03,200 --> 01:04:08,000
+Well, back in, back in 1989,
+actually communism would have been a compliment.
+
+1202
+01:04:08,200 --> 01:04:10,600
+the word people were using at that time
+was "crazy",
+
+1203
+01:04:10,600 --> 01:04:12,500
+and I want them to use capitalism.
+
+1204
+01:04:12,500 --> 01:04:16,000
+Communism is an ideology that forces people to share.
+
+1205
+01:04:16,100 --> 01:04:19,700
+If you don't share, you get thrown in jail or killed.
+
+1206
+01:04:19,900 --> 01:04:26,000
+In 1990, we got a visit from a director
+of an institute in uh, Moscow University,
+
+1207
+01:04:26,100 --> 01:04:30,000
+and actually I saw him in Helsinki just 2 weeks ago,
+
+1208
+01:04:31,200 --> 01:04:33,000
+but in any event, he came by,
+
+1209
+01:04:33,200 --> 01:04:37,000
+and Richard Stallman had suggested
+that he visit Cygnus,
+
+1210
+01:04:37,000 --> 01:04:41,000
+because he was interested in and
+understanding how the Free Software model...
+
+1211
+01:04:41,000 --> 01:04:46,100
+might apply to stimulating entrepreneurial
+innovation in Russia of all places,
+
+1212
+01:04:46,300 --> 01:04:50,300
+and we had been kind of secretive
+about our business plan,
+
+1213
+01:04:50,500 --> 01:04:53,200
+because you know, we weren't really
+sure it's gonna work,
+
+1214
+01:04:53,200 --> 01:04:56,000
+we didn't want to look too stupid if it failed.
+
+1215
+01:04:56,000 --> 01:04:58,300
+But I was very very open with him.
+
+1216
+01:04:58,300 --> 01:05:02,200
+The more I told him,
+the more he started to shake his head like this,
+
+1217
+01:05:02,400 --> 01:05:06,000
+and I finally said, you know, "What's wrong?"
+
+1218
+01:05:06,000 --> 01:05:11,000
+And he said, "This sounds to much like communism
+to be successful in Russia."
+
+1219
+01:05:13,000 --> 01:05:17,000
+You got to go a Gulag and end up in a mass grave
+with a bullet in the back of your head.
+
+1220
+01:05:17,000 --> 01:05:21,000
+Open Source is not communism
+because it doesn't force people.
+
+1221
+01:05:23,000 --> 01:05:26,000
+Carl Marx did not invent helping your neighbor.
+
+1222
+01:05:27,800 --> 01:05:31,800
+It's not communist to have a commons,
+
+1223
+01:05:31,900 --> 01:05:38,600
+A commons existed long before communism as
+a philosophy of government.
+
+1224
+01:05:39,400 --> 01:05:41,500
+there are many commons in our lives,
+
+1225
+01:05:41,500 --> 01:05:43,600
+For example, we drive on the highway,
+
+1226
+01:05:43,600 --> 01:05:47,000
+something that is maintained for our common good.
+
+1227
+01:05:47,000 --> 01:05:51,000
+Actually labeling our business model...
+
+1228
+01:05:51,600 --> 01:05:53,700
+means that it misses the point a little bit.
+
+1229
+01:05:53,700 --> 01:05:54,800
+whether it's communist, or whether it's capitalist,
+
+1230
+01:05:54,800 --> 01:05:58,400
+the label doesn't matter, the real question is,
+
+1231
+01:05:58,400 --> 01:06:02,000
+how much value can you deliver,
+how scalable is the business,
+
+1232
+01:06:02,000 --> 01:06:05,300
+what kind of problems,
+what kind of rate of innovation can you sustain.
+
+1233
+01:06:05,300 --> 01:06:09,000
+and then, however you want to label that,
+it's really up to you.
+
+1234
+01:06:10,400 --> 01:06:13,600
+The Revolution goes Prime Time.
+
+1235
+01:06:37,600 --> 01:06:39,100
+A lot of people described,
+
+1236
+01:06:39,100 --> 01:06:42,000
+that August Linux World as
+"Linux's coming-out party",
+
+1237
+01:06:42,000 --> 01:06:46,000
+Linus Torvalds was very funny about this,
+he said, "What? Was Linux gay?"
+
+1238
+01:06:48,000 --> 01:06:51,000
+But some people said
+"Yeah, that was our debutante ball."
+
+1239
+01:06:51,600 --> 01:06:52,700
+That was when the...
+
+1240
+01:06:52,700 --> 01:06:56,700
+Linux Gods, and the hardware hackers
+really got it together with the suits.
+
+1241
+01:07:06,800 --> 01:07:09,800
+At 3pm on August 10th 1999,
+
+1242
+01:07:09,800 --> 01:07:13,400
+Linus Torvalds delivered the keynote
+address at Linux World.
+
+1243
+01:07:13,400 --> 01:07:17,900
+The crowds of 6000 people began lining up at 12 noon.
+
+1244
+01:07:37,500 --> 01:07:40,000
+Ladies and gentlemen,
+please welcome Larry Augustin...
+
+1245
+01:07:40,000 --> 01:07:45,800
+Linux World Conference Chair and President and
+CEO of VA Linux Systems.
+
+1246
+01:07:54,000 --> 01:07:57,000
+These guys have to clap, I pay them.
+
+1247
+01:07:57,000 --> 01:08:01,300
+Thank you all for being here,
+looks like it's been a great show so far.
+
+1248
+01:08:01,300 --> 01:08:07,600
+If you'll indulge me for a moment, I'm going to
+try to avoid the glare of the lights.
+
+1249
+01:08:07,800 --> 01:08:11,000
+I still think there's lots of people,
+even though this is the 2nd show,
+
+1250
+01:08:11,000 --> 01:08:14,500
+I still think there's lots of people
+who don't quite get...
+
+1251
+01:08:14,500 --> 01:08:17,000
+...what it is that's so exciting about Linux.
+
+1252
+01:08:17,000 --> 01:08:19,000
+So there is a great show going
+on next door,
+
+1253
+01:08:19,000 --> 01:08:21,700
+there's huge exhibits and everything,
+
+1254
+01:08:21,700 --> 01:08:26,600
+but it's the people out here
+that are real contributors, not those companies.
+
+1255
+01:08:26,600 --> 01:08:29,500
+The person on next I know you all know,
+
+1256
+01:08:29,500 --> 01:08:32,400
+so I don't have to give anything in the way
+as introduction.
+
+1257
+01:08:32,400 --> 01:08:36,000
+Ladies and gentlemen, I give you, Linus Torvalds.
+
+1258
+01:08:36,000 --> 01:08:39,000
+Linus
+
+1259
+01:08:44,000 --> 01:08:45,000
+Thanks.
+
+1260
+01:08:48,000 --> 01:08:50,000
+Calm down.
+
+1261
+01:08:55,500 --> 01:08:57,500
+Calm down.
+
+1262
+01:08:57,500 --> 01:08:59,000
+Say "oooo".
+
+1263
+01:08:59,000 --> 01:09:00,000
+yes.
+
+1264
+01:09:00,200 --> 01:09:03,600
+I don't want to just give one
+of my normal talks,
+
+1265
+01:09:03,600 --> 01:09:05,100
+because I find them boring,
+
+1266
+01:09:05,100 --> 01:09:09,100
+probably by now most of you find them boring
+too because you've heard them like 10 times.
+
+1267
+01:09:10,000 --> 01:09:12,700
+But after the technical updates,
+we will actually try...
+
+1268
+01:09:12,700 --> 01:09:17,200
+...whether we can do a question and
+answer session with 5,000 people,
+
+1269
+01:09:17,300 --> 01:09:20,000
+or how many of you there are there.
+
+1270
+01:09:21,000 --> 01:09:23,200
+and it may not actually work out,
+
+1271
+01:09:23,200 --> 01:09:26,900
+because one of the 5,000 people is really loud.
+
+1272
+01:09:26,900 --> 01:09:28,000
+The one thing I will do,
+
+1273
+01:09:28,000 --> 01:09:32,000
+which I always do in all my talks is
+the gratitude thing,
+
+1274
+01:09:32,400 --> 01:09:35,500
+I want to kind of acknowledge the fact that...
+
+1275
+01:09:35,500 --> 01:09:38,000
+...I'm obviously not been alone in doing Linux.
+
+1276
+01:09:38,000 --> 01:09:40,000
+RHAT IPO: On August 11, 1999
+
+1277
+01:09:40,000 --> 01:09:43,700
+Red Hat Software became
+the first Linux company to go public.
+
+1278
+01:09:43,700 --> 01:09:45,700
+Red Hat, up 228%
+
+1279
+01:09:45,700 --> 01:09:48,800
+this is the IPO that everybody was waiting for.
+
+1280
+01:09:48,800 --> 01:09:51,300
+They of course are behind
+the Linux operating software.
+
+1281
+01:09:58,000 --> 01:10:02,000
+R-H-A-T, I know
+
+1282
+01:10:03,000 --> 01:10:04,000
+All I've gotten today,
+
+1283
+01:10:04,000 --> 01:10:07,400
+are comments about
+what the stock price is, all morning,
+
+1284
+01:10:07,400 --> 01:10:10,900
+you know it was
+at 41, it was at 42, it was at 47,
+
+1285
+01:10:10,900 --> 01:10:13,800
+it was at 53, it was at 51...
+
+1286
+01:10:13,800 --> 01:10:17,600
+Every machine as far as I can tell
+on the show floor
+
+1287
+01:10:17,600 --> 01:10:21,600
+is pointed to their e-trade accounts or their
+broker accounts, they know the Red Hat's price
+
+1288
+01:10:22,400 --> 01:10:24,900
+I can't believe this.
+47
+
+1289
+01:10:24,900 --> 01:10:26,700
+I just heard 53.
+
+1290
+01:10:26,700 --> 01:10:27,700
+Oh, boy.
+
+1291
+01:10:27,700 --> 01:10:29,700
+Hang on, I didn't buy it.
+
+1292
+01:10:29,700 --> 01:10:31,100
+You didn't buy?
+
+1293
+01:10:31,100 --> 01:10:33,300
+No, no, I didn't buy.
+
+1294
+01:10:33,300 --> 01:10:35,000
+I should've bought, but uh...
+
+1295
+01:10:35,000 --> 01:10:36,600
+No no, that's great.
+
+1296
+01:10:36,600 --> 01:10:38,100
+If it's... if it's....
+
+1297
+01:10:38,100 --> 01:10:39,400
+You guys don't know?
+
+1298
+01:10:39,400 --> 01:10:40,500
+Well, you know
+
+1299
+01:10:40,500 --> 01:10:42,800
+Red Hat being successful as just means that
+
+1300
+01:10:42,800 --> 01:10:46,300
+It legitimizes Linux
+So it's much easier for us to go out
+
+1301
+01:11:03,000 --> 01:11:06,000
+Rob Malda (CmdrTaco) ...
+on the Red Hat IPO
+
+1302
+01:11:06,000 --> 01:11:08,000
+It's kind of been a little bit divided.
+
+1303
+01:11:08,000 --> 01:11:09,000
+You've got a lot of people
+
+1304
+01:11:09,000 --> 01:11:10,000
+that are pretty hardcore and
+
+1305
+01:11:10,000 --> 01:11:11,300
+And they're kind of offended by that
+
+1306
+01:11:11,300 --> 01:11:14,400
+you know, cause they work really hard,
+they are not really getting...
+
+1307
+01:11:14,400 --> 01:11:16,900
+maybe they fair share out of that.
+
+1308
+01:11:16,900 --> 01:11:18,100
+Some people do get ticked.
+
+1309
+01:11:18,100 --> 01:11:19,200
+and you know the thing
+
+1310
+01:11:19,200 --> 01:11:21,400
+that you see that on a lot of mailing lists
+or on Slashdot you'll read, you know
+
+1311
+01:11:21,400 --> 01:11:27,200
+This guy is really mad because he didn't
+get chance to, he's didn't get a chance to do...
+
+1312
+01:11:28,300 --> 01:11:29,700
+to get stock from Red Hat
+
+1313
+01:11:29,700 --> 01:11:34,700
+He didn't get a chance to get...
+to get a job from this other company, you know.
+
+1314
+01:11:35,200 --> 01:11:38,700
+But the, the kind of the shocking secret
+there is that,
+
+1315
+01:11:38,700 --> 01:11:41,800
+Most the really hardcore guys,
+you know, they don't care so much.
+
+1316
+01:11:41,800 --> 01:11:43,600
+The guys that are kind of really down in trenches.
+
+1317
+01:11:43,600 --> 01:11:46,000
+They're writing this code because
+they need this code.
+
+1318
+01:11:46,300 --> 01:11:48,400
+If we could invite Richard Stallman
+
+1319
+01:11:48,400 --> 01:11:51,800
+who's the founder of
+the Free Software Association
+
+1320
+01:11:51,800 --> 01:11:53,700
+and Tim Ney, who's the managing director.
+
+1321
+01:11:53,700 --> 01:11:57,000
+There we go.  Hahahahaha
+
+1322
+01:11:57,000 --> 01:11:59,200
+Ah, here it is.
+
+1323
+01:12:00,000 --> 01:12:04,800
+Now, Richard, I saw you playing your recorder
+at, in Paris at that Linux conference
+
+1324
+01:12:04,800 --> 01:12:06,200
+But I didn't have audio tracks.
+
+1325
+01:12:06,200 --> 01:12:08,400
+So would you them to add audio to their, uh...
+
+1326
+01:12:08,400 --> 01:12:10,400
+Video downstream next time
+
+1327
+01:12:10,400 --> 01:12:12,600
+Uh..I don't have any control over that
+
+1328
+01:12:12,600 --> 01:12:16,600
+unfortunately those things can
+only be done with non-free software.
+
+1329
+01:12:20,100 --> 01:12:23,400
+We'll give you the award, and before you say a word,
+
+1330
+01:12:23,400 --> 01:12:28,300
+we'll have a Tim and yourself hold up
+a little representation of the contribution
+
+1331
+01:12:28,500 --> 01:12:30,800
+towards the Free Software Association.
+
+1332
+01:12:30,800 --> 01:12:34,800
+So, very ironic things have happened,
+
+1333
+01:12:35,200 --> 01:12:38,000
+but nothing to match this
+
+1334
+01:12:38,000 --> 01:12:41,600
+Giving the Linus Tovarlds award
+to the Free Software Foundation
+
+1335
+01:12:41,600 --> 01:12:45,600
+is sort of like giving the
+Han Solo award to the rebel fleet.
+
+1336
+01:12:50,200 --> 01:12:56,000
+You see, some of you may not realize how far
+that analogy goes.
+
+1337
+01:12:57,800 --> 01:13:01,300
+But actually let me tell you
+how this, how we got here.
+
+1338
+01:13:01,300 --> 01:13:02,800
+see what happened is,
+
+1339
+01:13:02,800 --> 01:13:05,400
+15 years ago, if you wanted to use a computer,
+
+1340
+01:13:05,400 --> 01:13:09,400
+the only way you could do it
+was to, was with proprietary software,
+
+1341
+01:13:10,300 --> 01:13:13,000
+software that divides and subjugates the users.
+
+1342
+01:13:13,000 --> 01:13:14,900
+And most people just...
+
+1343
+01:13:14,900 --> 01:13:16,200
+A lot of people didn't like it.
+
+1344
+01:13:16,200 --> 01:13:17,700
+But they saw no alternative.
+
+1345
+01:13:17,700 --> 01:13:21,500
+But some of us were determined
+to make an alternative.
+
+1346
+01:13:21,500 --> 01:13:25,500
+And we said we're gonna develop
+a free operating system,
+
+1347
+01:13:25,600 --> 01:13:27,400
+a free software operating system
+
+1348
+01:13:27,400 --> 01:13:33,100
+that will give users the chance to have freedom
+while they use their computers.
+
+1349
+01:13:33,700 --> 01:13:36,300
+Now a lot of people said, "Well, it's a nice idea
+
+1350
+01:13:36,300 --> 01:13:38,600
+but it's so hard, you'll never get it done,
+
+1351
+01:13:38,600 --> 01:13:42,500
+so I don't wanna participate,
+I don't believe you can ever get it done."
+
+1352
+01:13:42,500 --> 01:13:45,300
+But luckily not everybody said that.
+
+1353
+01:13:45,300 --> 01:13:49,200
+And clearly, we knew
+we would eventually get the kernel done.
+
+1354
+01:13:49,200 --> 01:13:50,500
+But as it happens.
+
+1355
+01:13:50,500 --> 01:13:53,600
+somebody else did a better kernel before we did.
+
+1356
+01:13:53,600 --> 01:13:57,200
+Now in the old days, we had an overall strategy
+
+1357
+01:13:57,200 --> 01:14:00,800
+from calling people's attention
+to the importance of freedom
+
+1358
+01:14:00,800 --> 01:14:04,800
+To the freedom they can have, or not have,
+when they use a computer.
+
+1359
+01:14:05,500 --> 01:14:07,600
+Well what can we do about it?
+As far as I can tell,
+
+1360
+01:14:07,600 --> 01:14:13,600
+the only workable way of trying to
+change this make that strategy work again
+
+1361
+01:14:14,000 --> 01:14:19,800
+is to, spread the word that the operating system
+you're using is actually the GNU system.
+
+1362
+01:14:19,900 --> 01:14:22,100
+Somewhat modified of course.
+
+1363
+01:14:23,200 --> 01:14:25,100
+And when people know this,
+
+1364
+01:14:25,100 --> 01:14:28,600
+they'll take a look at the reasons
+we developed this system.
+
+1365
+01:14:28,600 --> 01:14:30,500
+They'll think about these issues.
+
+1366
+01:14:30,500 --> 01:14:33,300
+And some of them will decide they agree.
+
+1367
+01:14:33,300 --> 01:14:36,600
+So I ask people,
+please tell the people this is the GNU system.
+
+1368
+01:14:36,600 --> 01:14:40,600
+It's the combination of GNU and Linux
+so we can call it GNU/Linux
+
+1369
+01:14:46,600 --> 01:14:49,900
+[ So Larry, when you were at Stanford
+8, 9 years ago during your Ph.D
+
+1370
+01:14:49,900 --> 01:14:51,600
+did you ever think you'd be in this position? ]
+
+1371
+01:14:51,600 --> 01:14:52,500
+No
+
+1372
+01:14:52,500 --> 01:14:53,900
+[ All kidding aside. ]
+
+1373
+01:14:53,900 --> 01:14:55,800
+No I had no idea honestly
+
+1374
+01:14:55,800 --> 01:14:58,600
+[ What did you think you would be
+when you were finished up with your Ph.D? ]
+
+1375
+01:14:58,600 --> 01:15:00,000
+You know that's a good question,
+
+1376
+01:15:00,000 --> 01:15:02,300
+I really didn't have a good idea, I mean.
+
+1377
+01:15:02,300 --> 01:15:05,600
+Here we are, on this huge show floor.
+
+1378
+01:15:05,600 --> 01:15:08,600
+There are people just going crazy about Linux.
+
+1379
+01:15:08,600 --> 01:15:12,000
+We had 6,200 people crammed into a room
+
+1380
+01:15:12,000 --> 01:15:15,300
+to see the Linux, Linus speak last night.
+
+1381
+01:15:15,300 --> 01:15:16,900
+Here we are, with, you know,
+
+1382
+01:15:16,900 --> 01:15:19,600
+all of these huge venders all over the show.
+
+1383
+01:15:19,600 --> 01:15:22,700
+I..It's, just, you have no idea that
+this is gonna happen.
+
+1384
+01:15:22,700 --> 01:15:25,500
+I mean this is just this little operating system
+that we're happy with.
+
+1385
+01:15:25,500 --> 01:15:27,500
+that a few people cared about, you know,
+
+1386
+01:15:27,500 --> 01:15:29,500
+I thought I'd have a nice little
+consulting business.
+
+1387
+01:15:29,500 --> 01:15:30,900
+And here I am suddenly,
+
+1388
+01:15:30,900 --> 01:15:33,400
+with all of this huge show going on.
+
+1389
+01:15:33,400 --> 01:15:34,400
+It's just incredible.
+
+1390
+01:15:34,400 --> 01:15:37,600
+I mean, a year ago, you could look and say,
+you know, this is gonna be big
+
+1391
+01:15:37,600 --> 01:15:39,400
+and everyone standing at the show going
+
+1392
+01:15:39,400 --> 01:15:41,800
+"You know the show was big last year,
+
+1393
+01:15:41,800 --> 01:15:44,800
+is it gonna, is it gonna be as big as this year?"
+
+1394
+01:15:44,900 --> 01:15:46,100
+The you remind them
+
+1395
+01:15:46,100 --> 01:15:48,300
+"You know, last year was only 6 month ago."
+
+1396
+01:15:48,400 --> 01:15:50,300
+And then they go "Oh, , Linux time".
+
+1397
+01:16:17,000 --> 01:16:19,200
+So leading up to the IPO, uh...
+
+1398
+01:16:19,200 --> 01:16:25,200
+we had arrived actually in San Diego
+on Tuesday night
+
+1399
+01:16:25,500 --> 01:16:29,500
+We spent Wednesday morning meeting investors
+in San Diego.
+
+1400
+01:16:29,900 --> 01:16:31,300
+We flew up to San Francisco
+
+1401
+01:16:31,300 --> 01:16:35,200
+spent Wednesday afternoon meeting
+investment firms in San Francisco
+
+1402
+01:16:35,200 --> 01:16:36,100
+VA Linux Selected
+December 9, 1999, as the day
+for its stock to begin trading.
+
+1403
+01:16:36,100 --> 01:16:39,500
+then on the Thursday morning of the IPO is
+
+1404
+01:16:39,500 --> 01:16:42,000
+when our stock would be traded public ally.
+
+1405
+01:16:42,000 --> 01:16:45,800
+So it was nice we had ended
+the tour in San Francisco
+
+1406
+01:16:45,800 --> 01:16:49,700
+because we could go to the credit suite's
+trading desk the next morning
+
+1407
+01:16:49,700 --> 01:16:51,600
+to watch the public offering.
+
+1408
+01:16:51,600 --> 01:16:55,600
+And in San Francisco being close
+enough to the company, and to our families,
+
+1409
+01:16:55,600 --> 01:16:59,600
+we could invite people up to
+actually join us in the first trade.
+
+1410
+01:16:59,600 --> 01:17:02,700
+So I invited my wife and we invited Linus and Tove,
+
+1411
+01:17:02,700 --> 01:17:06,200
+and a number of other friends and people
+who worked in the company in to join us.
+
+1412
+01:17:06,200 --> 01:17:07,700
+Whenever we invite Linus and Tove,
+
+1413
+01:17:07,700 --> 01:17:10,800
+they have uh, two young children,
+
+1414
+01:17:10,800 --> 01:17:12,800
+and I have a daughter, Andrea.
+
+1415
+01:17:12,800 --> 01:17:14,300
+And we always bring the kids along
+
+1416
+01:17:14,300 --> 01:17:16,300
+so we went in to the credit suite's trading floor
+
+1417
+01:17:16,300 --> 01:17:18,700
+with all these traders and there are these 3 year old kids
+
+1418
+01:17:18,700 --> 01:17:21,000
+running around and chasing each other
+around the show floor,
+
+1419
+01:17:21,000 --> 01:17:22,000
+around the trading floor.
+
+1420
+01:17:22,000 --> 01:17:27,200
+So Linus and I walked in and
+we walked up in to the trading floor
+
+1421
+01:17:27,300 --> 01:17:28,600
+and everyone was very excited.
+
+1422
+01:17:28,600 --> 01:17:31,800
+And we kept asking them, well
+"How's it going? Are things going ok?".
+
+1423
+01:17:31,800 --> 01:17:34,600
+And they said, "Oh, it's.. uh, we're really excited,
+
+1424
+01:17:34,600 --> 01:17:35,800
+I think things are going well.
+
+1425
+01:17:35,800 --> 01:17:39,400
+We don't wanna, We don't wanna say,
+We don't wanna jinx anything."
+
+1426
+01:17:39,400 --> 01:17:43,400
+We walked in and it was a big screen TV showing CNBC.
+
+1427
+01:17:44,000 --> 01:17:48,000
+And it was amazing to us,
+but the theme for the day was Linux.
+
+1428
+01:17:48,100 --> 01:17:50,500
+Now we have an IPO that's gonna go today.
+
+1429
+01:17:50,500 --> 01:17:52,700
+And when I mean go, it is going to go.
+
+1430
+01:17:52,700 --> 01:17:54,700
+The estimates I'm hearing are staggering.
+
+1431
+01:17:54,700 --> 01:17:58,200
+But watch VA Linux Systems. It goes at 12:40 today.
+
+1432
+01:17:58,200 --> 01:17:59,900
+The symbol is L-N-U-X.
+
+1433
+01:17:59,900 --> 01:18:03,500
+A provider of large scale computer
+servers and workstations,
+
+1434
+01:18:03,500 --> 01:18:05,700
+specially designed for the Linux operating system.
+
+1435
+01:18:05,700 --> 01:18:11,800
+The original range on this IPO was
+11 to 13 dollars, then 21 to 23, then 28 to 30.
+
+1436
+01:18:12,000 --> 01:18:15,300
+Priced at 30, and the estimates I'm hearing
+I don't wanna repeat
+
+1437
+01:18:15,300 --> 01:18:16,600
+because I don't have a confirmation.
+
+1438
+01:18:16,600 --> 01:18:21,500
+But if they're true, they will blow you're mind
+when this stock takes off at 12:40.
+
+1439
+01:18:21,500 --> 01:18:23,900
+I turned to Linus and I said "Gee, did you ever think,
+
+1440
+01:18:23,900 --> 01:18:29,100
+you know, you'd walk in here some day and
+Linux would be THE theme on CNBC?".
+
+1441
+01:18:29,700 --> 01:18:32,400
+and Linus said in his joking way said "Oh Absolutely!".
+
+1442
+01:18:32,800 --> 01:18:36,300
+So we walk in and they show us
+the buy and sell orders coming in..
+
+1443
+01:18:36,300 --> 01:18:38,300
+and it's incredible.
+
+1444
+01:18:38,300 --> 01:18:41,900
+We're seeing numbers like
+320 dollars, 340 dollars a share.
+
+1445
+01:18:42,500 --> 01:18:44,400
+And I'm just in complete shock.
+
+1446
+01:18:44,400 --> 01:18:49,700
+You know, this is over 10 times
+where we priced the offering. It was incredible.
+
+1447
+01:18:50,000 --> 01:18:54,000
+And I remember Linus just kind of,
+sort of patting me on the back and saying,
+
+1448
+01:18:54,000 --> 01:18:58,000
+you know "Relax..." and it was
+pretty exciting to see that.
+
+1449
+01:18:58,000 --> 01:19:00,900
+We were, it was just amazing. We were stunned.
+
+1450
+01:19:01,300 --> 01:19:04,300
+We were lucky that we were able to
+get back to the offices,
+
+1451
+01:19:04,300 --> 01:19:08,100
+we'd been in San Francisco
+so we could come back to VA's offices
+
+1452
+01:19:08,100 --> 01:19:10,600
+to, to see everyone in the office for the IPO.
+
+1453
+01:19:10,600 --> 01:19:15,500
+When we got back, we had uh,
+everyone was obviously very excited.
+
+1454
+01:19:16,100 --> 01:19:18,800
+The IPO had done just tremendously well.
+
+1455
+01:19:18,800 --> 01:19:22,400
+We had a little party that we put together.
+
+1456
+01:19:22,400 --> 01:19:24,100
+It was interesting, while we were celebrating
+
+1457
+01:19:24,100 --> 01:19:26,600
+there were plenty of people that were still trying to work.
+
+1458
+01:19:26,600 --> 01:19:30,400
+I recall cries of "Be quiet!",
+"We're on the phone!", "We're Working!",
+
+1459
+01:19:30,400 --> 01:19:34,100
+Uh, as we uh, as we went in to the offices.
+
+1460
+01:19:34,100 --> 01:19:37,900
+One of the things I did was
+I gave the road show presentation
+
+1461
+01:19:37,900 --> 01:19:39,700
+for the employees back at the office,
+
+1462
+01:19:39,700 --> 01:19:42,800
+so they could have an idea of
+what we'd been telling investors,
+
+1463
+01:19:42,800 --> 01:19:46,400
+and understand exactly what we'd uh,
+put together for them.
+
+1464
+01:19:46,400 --> 01:19:55,100
+But again the story of the day is VA Linux,
+now up 766% to 235 dollars to 265.
+
+1465
+01:19:55,300 --> 01:19:57,700
+Sue, the best performing IPO ever.
+
+1466
+01:19:57,700 --> 01:20:03,200
+Here it goes, Sycamore Networks was uh,
+priced at 38 dollars, surged to $270.
+
+1467
+01:20:03,500 --> 01:20:05,800
+This has just beat it. And by the way..
+
+1468
+01:20:05,800 --> 01:20:09,800
+[ How do you feel about potentially billions
+of dollars of wealth being created
+
+1469
+01:20:10,000 --> 01:20:14,000
+from your creation,
+that you're not directly cashing out? ]
+
+1470
+01:20:14,600 --> 01:20:18,000
+So, if I hadn't made Linux available, I mean,
+
+1471
+01:20:18,000 --> 01:20:21,300
+I wouldn't have gotten any money that way either.
+
+1472
+01:20:21,300 --> 01:20:24,200
+So I mean, It's a win-win situation.
+
+1473
+01:20:24,200 --> 01:20:31,000
+Uh, just the fact that there are
+a lot of commercial companies
+
+1474
+01:20:31,100 --> 01:20:37,000
+means that there are a lot of Linux people
+who used to work on Linux kind of on the side.
+
+1475
+01:20:37,500 --> 01:20:40,200
+And now they get paid for
+doing what they wanted to do.
+
+1476
+01:20:40,200 --> 01:20:44,800
+And that helps me in the sense that
+I wanted them to work on Linux anyway.
+
+1477
+01:21:06,400 --> 01:21:11,700
+The whole GNU project is really one big hack.
+
+1478
+01:21:12,200 --> 01:21:16,200
+It's one big act of subversive playful cleverness,
+
+1479
+01:21:16,200 --> 01:21:22,300
+to change society for the better, because
+I'm only interested in changing it for the better,
+
+1480
+01:21:22,400 --> 01:21:26,600
+but in a clever way.
+
+1481
+01:21:26,800 --> 01:21:30,800
+Hi, we're the GNU/Stallmans, and this is
+"The Free Software Song"
+
+1482
+01:21:31,800 --> 01:21:35,400
+Join us now and share the software;
+
+1483
+01:21:35,400 --> 01:21:42,200
+You'll be free, hackers, you'll be free.
+
+1484
+01:21:43,100 --> 01:21:43,900
+You'll be free, hackers, you'll be free.
+
+1485
+01:21:51,600 --> 01:21:54,700
+Hoarders may get piles of money,
+
+1486
+01:21:54,700 --> 01:22:02,100
+That is true, hackers, that is true.
+
+1487
+01:22:03,900 --> 01:22:07,300
+But they cannot help their neighbors;
+
+1488
+01:22:07,300 --> 01:22:15,300
+That's ain't good, hackers, that's ain't good.
+
+1489
+01:22:19,500 --> 01:22:22,500
+When we have enough free software
+
+1490
+01:22:22,500 --> 01:22:29,800
+At our call, hackers, at our call,
+
+1491
+01:22:31,900 --> 01:22:35,100
+We'll throw out those dirty licenses
+
+1492
+01:22:35,100 --> 01:22:42,900
+Ever more, hackers, ever more.
+
+1493
+01:23:17,900 --> 01:23:21,200
+Join us now and share the software;
+
+1494
+01:23:21,200 --> 01:23:28,400
+You'll be free, hackers, you'll be free.
+
+1495
+01:23:30,300 --> 01:23:33,300
+Join us now and share the software;
+
+1496
+01:23:33,300 --> 01:23:39,900
+You'll be free, hackers, you'll be free.
+
+1497
+01:23:42,100 --> 01:23:44,900
+Oh, you'll be free
+
+1498
+01:23:44,900 --> 01:23:46,600
+I let you know.
+
+1499
+01:23:46,600 --> 01:23:49,500
+That you'll be free. [ repeat ]
+
+1500
+01:23:49,500 --> 01:23:51,400
+I let you know
+
+1501
+01:23:51,400 --> 01:23:55,400
+That you'll be free. [ repeat ]
+
+1502
+01:23:58,500 --> 01:24:02,500
+That you'll be free. [ repeat ]
+(HchC)
+
