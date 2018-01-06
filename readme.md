@@ -27,7 +27,8 @@ GPL 2.0
 PS
 ===
 1. 我自己使用`Aegisub`作为字幕软件
-2. 视频时间轴的确定基于原版DVD镜像：
+2. 若果你有兴趣参与，可以先开一个 `issue ticket` 让大家知道你想做那一部分
+3. 视频时间轴的确定基于原版DVD镜像：
 ```
 magnet:?xt=urn:btih:C78C0E9C88CCC1649D41A8653ED78C447B02A16E&dn=Revolution%20OS&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969
 ```
