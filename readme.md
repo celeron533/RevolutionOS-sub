@@ -1,7 +1,7 @@
 纪录片电影 Revolution OS （《操作系统革命》）中文字幕修订计划
 ===
 
-原字幕由 geekbone.org （现 shlug.org ）倾力制作，
+原字幕由 geekbone.org （现 shlug.org ）成员倾力制作。
 这个版本的字幕也几乎是本纪录片唯一的简体中文字幕。
 
 修订缘由
