@@ -5,14 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 306
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../../../Desktop/Disk1.mkv
+Video File: ../../../Desktop/Disk1.mkv
+Video AR Mode: 4
+Video AR Value: 2.352941
 Video Zoom Percent: 1.000000
-Scroll Position: 333
-Active Line: 340
-Video Position: 26847
+Scroll Position: 437
+Active Line: 447
+Video Position: 35682
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,105 +367,95 @@ Dialogue: 0,0:18:18.65,0:18:21.55,Default,,0,0,0,,is the GNU General Public Lice
 Dialogue: 0,0:18:21.65,0:18:25.65,Default,,0,0,0,,a particular document in legalese which accomplishes this job.
 Dialogue: 0,0:18:25.95,0:18:28.65,Default,,0,0,0,,A lot of other people use that same license, for example,
 Dialogue: 0,0:18:28.75,0:18:32.15,Default,,0,0,0,,Linus Torvalds uses that license for Linux as well.
-Dialogue: 0,0:18:33.15,0:18:36.65,Default,,0,0,0,,Well, the license I use is the\NGNU General Public License.
+Dialogue: 0,0:18:33.15,0:18:36.65,Default,,0,0,0,,Well, the license I use is the GNU General Public License.
 Dialogue: 0,0:18:36.75,0:18:38.65,Default,,0,0,0,,That's the one Richard Stallman wrote.
 Dialogue: 0,0:18:38.75,0:18:42.65,Default,,0,0,0,,And I think it is really astounding contribution.
-Dialogue: 0,0:18:42.75,0:18:46.75,Default,,0,0,0,,Uh, it's one of the few software licenses\Nthat was written
+Dialogue: 0,0:18:42.75,0:18:46.75,Default,,0,0,0,,Uh, it's one of the few software licenses that was written
 Dialogue: 0,0:18:47.05,0:18:50.45,Default,,0,0,0,,from the standpoint of the community rather than
 Dialogue: 0,0:18:50.55,0:18:54.35,Default,,0,0,0,,from the standpoint of um, protecting a company
 Dialogue: 0,0:18:54.45,0:18:59.95,Default,,0,0,0,,or um, as is the case with MIT and BSD license
-Dialogue: 0,0:19:00.15,0:19:03.85,Default,,0,0,0,,performing the goals of\Na government grant program.
+Dialogue: 0,0:19:00.15,0:19:03.85,Default,,0,0,0,,performing the goals of a government grant program.
 Dialogue: 0,0:19:03.95,0:19:06.95,Default,,0,0,0,,Uh, and the GPL is really unique in that.
-Dialogue: 0,0:19:07.05,0:19:10.45,Default,,0,0,0,,It's not just a license.\NIt's a whole philosophy that,
+Dialogue: 0,0:19:07.05,0:19:10.45,Default,,0,0,0,,It's not just a license. It's a whole philosophy that,
 Dialogue: 0,0:19:10.55,0:19:13.55,Default,,0,0,0,,I think, motivated the open source definition.
 Dialogue: 0,0:19:13.65,0:19:17.95,Default,,0,0,0,,I don't hide that a lot of what I do came from Stallman.
-Dialogue: 0,0:19:22.35,0:19:26.35,Default,,0,0,0,,A crucial step in the growth of GNU/Linux\Nand the Free Software movement
-Dialogue: 0,0:19:26.45,0:19:30.05,Default,,0,0,0,,was the creation of businesses\Nbased upon the software and philosophy.
-Dialogue: 0,0:19:30.25,0:19:32.75,Default,,0,0,0,,Grown zero for the beginning of\Nthe business phase
-Dialogue: 0,0:19:32.85,0:19:35.95,Default,,0,0,0,,was the Electronics Research Lab\Nat Stanford University.
+Dialogue: 0,0:19:22.35,0:19:26.35,Default,,0,0,0,,A crucial step in the growth of GNU/Linux and the Free Software movement
+Dialogue: 0,0:19:26.45,0:19:30.05,Default,,0,0,0,,was the creation of businesses based upon the software and philosophy.
+Dialogue: 0,0:19:30.25,0:19:32.75,Default,,0,0,0,,Grown zero for the beginning of the business phase
+Dialogue: 0,0:19:32.85,0:19:35.95,Default,,0,0,0,,was the Electronics Research Lab at Stanford University.
 Dialogue: 0,0:19:36.25,0:19:39.55,Default,,0,0,0,,Known as ERL, the lab was the place for the first GNU
 Dialogue: 0,0:19:39.65,0:19:41.95,Default,,0,0,0,,and Linux business founder inspiration.
 Dialogue: 0,0:19:42.05,0:19:44.05,Default,,0,0,0,,So right here was where ERL was.
-Dialogue: 0,0:19:44.55,0:19:47.65,Default,,0,0,0,,That would have been the entrance\Nover there next to the uh,
+Dialogue: 0,0:19:44.55,0:19:47.65,Default,,0,0,0,,That would have been the entrance over there next to the uh,
 Dialogue: 0,0:19:47.75,0:19:50.05,Default,,0,0,0,,electrical engineering McCullough building.
-Dialogue: 0,0:19:50.15,0:19:53.95,Default,,0,0,0,,As you walk in, you come in,\Nyou walk down the hallway, down here.
+Dialogue: 0,0:19:50.15,0:19:53.95,Default,,0,0,0,,As you walk in, you come in, you walk down the hallway, down here.
 Dialogue: 0,0:19:54.95,0:19:58.05,Default,,0,0,0,,My office would have been about, about here.
-Dialogue: 0,0:19:58.15,0:20:01.45,Default,,0,0,0,,and then right across the hall,\Nfrom that was Michael Tiemann's office.
-Dialogue: 0,0:20:02.15,0:20:06.15,Default,,0,0,0,,Michael Tiemann took uh.. and\Nstarted a company, Cygnus Software
-Dialogue: 0,0:20:06.15,0:20:11.05,Default,,0,0,0,,with the idea was to sell consulting\Nand services around the GNU Free Software
+Dialogue: 0,0:19:58.15,0:20:01.45,Default,,0,0,0,,and then right across the hall, from that was Michael Tiemann's office.
+Dialogue: 0,0:20:02.15,0:20:06.15,Default,,0,0,0,,Michael Tiemann took uh.. and started a company, Cygnus Software
+Dialogue: 0,0:20:06.15,0:20:11.05,Default,,0,0,0,,with the idea was to sell consulting and services around the GNU Free Software
 Dialogue: 0,0:20:11.05,0:20:13.45,Default,,0,0,0,,and, well Michael's done very well with Cygnus.
-Dialogue: 0,0:20:13.45,0:20:17.45,Default,,0,0,0,,Well uh, I spend a lot of\Ntime working out uh,
+Dialogue: 0,0:20:13.45,0:20:17.45,Default,,0,0,0,,Well uh, I spend a lot of time working out uh,
 Dialogue: 0,0:20:17.45,0:20:19.45,Default,,0,0,0,,how we were going to make money
 Dialogue: 0,0:20:19.45,0:20:21.45,Default,,0,0,0,,and in the original GNU manifesto
-Dialogue: 0,0:20:21.45,0:20:24.45,Default,,0,0,0,,which is the last chapter\Nof the GNU Emacs manual.
-Dialogue: 0,0:20:24.45,0:20:26.45,Default,,0,0,0,,Stallman proposed a number of different
-Dialogue: 0,0:20:26.45,0:20:28.25,Default,,0,0,0,,possible ways to make money.
-Dialogue: 0,0:20:28.25,0:20:30.25,Default,,0,0,0,,From the beginning of the\NFree Software movement
-Dialogue: 0,0:20:30.25,0:20:31.45,Default,,0,0,0,,I had the idea that there's
-Dialogue: 0,0:20:31.45,0:20:33.45,Default,,0,0,0,,room in it for business to be done.
-Dialogue: 0,0:20:33.45,0:20:36.15,Default,,0,0,0,,One of the advantages of Free Software is that, there's
-Dialogue: 0,0:20:36.15,0:20:39.45,Default,,0,0,0,,a free market for any kind of service or support.
-Dialogue: 0,0:20:39.45,0:20:41.45,Default,,0,0,0,,So if you are using software in your business,
-Dialogue: 0,0:20:41.45,0:20:43.45,Default,,0,0,0,,and you want good support,
+Dialogue: 0,0:20:21.45,0:20:24.45,Default,,0,0,0,,which is the last chapter of the GNU Emacs manual.
+Dialogue: 0,0:20:24.45,0:20:28.25,Default,,0,0,0,,Stallman proposed a number of different possible ways to make money.
+Dialogue: 0,0:20:28.25,0:20:30.25,Default,,0,0,0,,From the beginning of the Free Software movement
+Dialogue: 0,0:20:30.25,0:20:33.45,Default,,0,0,0,,I had the idea that there's room in it for business to be done.
+Dialogue: 0,0:20:33.45,0:20:36.09,Default,,0,0,0,,One of the advantages of Free Software is that,
+Dialogue: 0,0:20:36.09,0:20:39.45,Default,,0,0,0,,there's a free market for any kind of service or support.
+Dialogue: 0,0:20:39.45,0:20:43.45,Default,,0,0,0,,So if you are using software in your business and you want good support,
 Dialogue: 0,0:20:43.45,0:20:46.45,Default,,0,0,0,,you have a choice of people to go to for it,
-Dialogue: 0,0:20:46.45,0:20:48.45,Default,,0,0,0,,you have a choice of businesses... that
-Dialogue: 0,0:20:48.45,0:20:51.45,Default,,0,0,0,,are in the business of\Nproviding you with support.
-Dialogue: 0,0:20:51.45,0:20:53.45,Default,,0,0,0,,So they are going to have to in general give you
-Dialogue: 0,0:20:53.45,0:20:56.45,Default,,0,0,0,,good support or you go to somebody else.
+Dialogue: 0,0:20:46.45,0:20:51.45,Default,,0,0,0,,you have a choice of businesses... that are in the business of providing you with support.
+Dialogue: 0,0:20:51.45,0:20:56.45,Default,,0,0,0,,So they are going to have to in general give you good support or you go to somebody else.
 Dialogue: 0,0:20:56.45,0:20:58.45,Default,,0,0,0,,With proprietary software,
 Dialogue: 0,0:20:58.75,0:21:01.45,Default,,0,0,0,,support is a monopoly, there is one company,
-Dialogue: 0,0:21:01.45,0:21:04.05,Default,,0,0,0,,typically, that has the source code
-Dialogue: 0,0:21:04.05,0:21:05.95,Default,,0,0,0,,and only they can give you support
+Dialogue: 0,0:21:01.45,0:21:05.95,Default,,0,0,0,,typically, that has the source code and only they can give you support
 Dialogue: 0,0:21:06.55,0:21:09.75,Default,,0,0,0,,so typically, you are at the mercy of a monopoly.
 Dialogue: 0,0:21:09.75,0:21:12.05,Default,,0,0,0,,That's the case, for example with Microsoft.
 Dialogue: 0,0:21:12.05,0:21:15.35,Default,,0,0,0,,So no wonder the support is so bad.
 Dialogue: 0,0:21:15.35,0:21:16.95,Default,,0,0,0,,The benefits of Free Software were
 Dialogue: 0,0:21:16.95,0:21:19.65,Default,,0,0,0,,tremendous but the cost of supporting it internally
 Dialogue: 0,0:21:20.25,0:21:22.25,Default,,0,0,0,,uh, and made managers very very nervous and
-Dialogue: 0,0:21:22.25,0:21:25.95,Default,,0,0,0,,so the fundamental idea I had was\Nif we can build a model
+Dialogue: 0,0:21:22.25,0:21:25.95,Default,,0,0,0,,so the fundamental idea I had was if we can build a model
 Dialogue: 0,0:21:25.95,0:21:29.95,Default,,0,0,0,,that could deliver two to four times the support
-Dialogue: 0,0:21:29.95,0:21:33.45,Default,,0,0,0,,and uh, and uh, and hand holding capability
-Dialogue: 0,0:21:33.45,0:21:35.55,Default,,0,0,0,,that an internal engineer could provide.
+Dialogue: 0,0:21:29.95,0:21:35.55,Default,,0,0,0,,and uh, and uh, and hand holding capability that an internal engineer could provide.
 Dialogue: 0,0:21:35.55,0:21:38.55,Default,,0,0,0,,And we could do it at 1/2 to 1/4 of the cost
-Dialogue: 0,0:21:38.55,0:21:40.75,Default,,0,0,0,,that would meet the test of whether or not
-Dialogue: 0,0:21:40.75,0:21:42.35,Default,,0,0,0,,people would actually buy.
-Dialogue: 0,0:21:42.35,0:21:44.85,Default,,0,0,0,,And by about the Fall of that year, we had
-Dialogue: 0,0:21:44.85,0:21:46.75,Default,,0,0,0,,all the things worked out about who
-Dialogue: 0,0:21:46.75,0:21:48.35,Default,,0,0,0,,needed on the technical team, what
-Dialogue: 0,0:21:48.35,0:21:50.25,Default,,0,0,0,,the terms the sale would be, what
-Dialogue: 0,0:21:50.25,0:21:52.05,Default,,0,0,0,,the key price point were, and we
-Dialogue: 0,0:21:52.05,0:21:56.05,Default,,0,0,0,,actually received our incorporation in Nov of 1989.
-Dialogue: 0,0:21:56.65,0:21:59.25,Default,,0,0,0,,One of the most difficult things in starting our company
-Dialogue: 0,0:21:59.25,0:22:00.85,Default,,0,0,0,,was actually finding a name for it.
+Dialogue: 0,0:21:38.55,0:21:42.35,Default,,0,0,0,,that would meet the test of whether or not people would actually buy.
+Dialogue: 0,0:21:42.35,0:21:46.53,Default,,0,0,0,,And by about the Fall of that year, we had all the things worked out about
+Dialogue: 0,0:21:46.53,0:21:48.35,Default,,0,0,0,,who needed on the technical team,
+Dialogue: 0,0:21:48.35,0:21:50.09,Default,,0,0,0,,what the terms the sale would be,
+Dialogue: 0,0:21:50.09,0:21:51.78,Default,,0,0,0,,what the key price point were,
+Dialogue: 0,0:21:51.78,0:21:56.05,Default,,0,0,0,,and we actually received our incorporation in Nov of 1989.
+Dialogue: 0,0:21:56.65,0:22:00.85,Default,,0,0,0,,One of the most difficult things in starting our company was actually finding a name for it.
 Dialogue: 0,0:22:00.85,0:22:03.45,Default,,0,0,0,,I explained this to one of my friends
 Dialogue: 0,0:22:03.45,0:22:04.85,Default,,0,0,0,,"we're having difficulty"
 Dialogue: 0,0:22:04.85,0:22:07.35,Default,,0,0,0,,and he returned an e-mail message
-Dialogue: 0,0:22:07.35,0:22:11.25,Default,,0,0,0,,that basically just had a bunch of words\Nwith the name "GNU" in it.
-Dialogue: 0,0:22:11.25,0:22:16.05,Default,,0,0,0,,And "Cygnus" was the one that\Nlooked least obnoxious and least obscene.
-Dialogue: 0,0:22:16.55,0:22:19.05,Default,,0,0,0,,I can say very clearly that Cygnus
-Dialogue: 0,0:22:19.35,0:22:23.05,Default,,0,0,0,,was the first business that specialized in Free Software.
+Dialogue: 0,0:22:07.35,0:22:11.25,Default,,0,0,0,,that basically just had a bunch of words with the name "GNU" in it.
+Dialogue: 0,0:22:11.25,0:22:16.05,Default,,0,0,0,,And "Cygnus" was the one that looked least obnoxious and least obscene.
+Dialogue: 0,0:22:16.55,0:22:19.55,Default,,0,0,0,,I can say very clearly that Cygnus
+Dialogue: 0,0:22:19.55,0:22:23.05,Default,,0,0,0,,was the first business that specialized in Free Software.
 Dialogue: 0,0:22:23.25,0:22:26.55,Default,,0,0,0,,Cygnus supported Free Software,
-Dialogue: 0,0:22:26.55,0:22:30.55,Default,,0,0,0,,filled a very essential niche because\Nwe had this great software,
-Dialogue: 0,0:22:30.55,0:22:34.55,Default,,0,0,0,,you could get it for nothing but\Nyou couldn't get support - they made their money
-Dialogue: 0,0:22:34.75,0:22:36.65,Default,,0,0,0,,by charging for support.
+Dialogue: 0,0:22:26.55,0:22:30.55,Default,,0,0,0,,filled a very essential niche because we had this great software,
+Dialogue: 0,0:22:30.55,0:22:32.83,Default,,0,0,0,,you could get it for nothing but you couldn't get support
+Dialogue: 0,0:22:32.83,0:22:36.65,Default,,0,0,0,,they made their money by charging for support.
 Dialogue: 0,0:22:36.65,0:22:40.35,Default,,0,0,0,,The GNU project started by building a toolkit,
-Dialogue: 0,0:22:40.35,0:22:45.25,Default,,0,0,0,,uh, basic development tools such as\Na C compiler, a debugger, a text-editor,
+Dialogue: 0,0:22:40.35,0:22:45.25,Default,,0,0,0,,uh, basic development tools such as a C compiler, a debugger, a text-editor,
 Dialogue: 0,0:22:45.55,0:22:48.95,Default,,0,0,0,,and uh, other necessary apparatus.
-Dialogue: 0,0:22:48.95,0:22:53.45,Default,,0,0,0,,And their intention was eventually to\Ndevelop a kernel to sit underneath those
+Dialogue: 0,0:22:48.95,0:22:53.45,Default,,0,0,0,,And their intention was eventually to develop a kernel to sit underneath those
 Dialogue: 0,0:22:53.65,0:22:56.05,Default,,0,0,0,,and be the center of the operating system.
-Dialogue: 0,0:22:56.05,0:22:59.85,Default,,0,0,0,,By about 1990 they had successfully\Ndeveloped that toolkit,
+Dialogue: 0,0:22:56.05,0:22:59.85,Default,,0,0,0,,By about 1990 they had successfully developed that toolkit,
 Dialogue: 0,0:22:59.85,0:23:03.85,Default,,0,0,0,,and it was in wide use on great many variants of Unix.
 Dialogue: 0,0:23:03.95,0:23:06.55,Default,,0,0,0,,But there was still no free kernel.
-Dialogue: 0,0:23:06.55,0:23:10.55,Default,,0,0,0,,The kernel happened to be\None of the last things we started to do
+Dialogue: 0,0:23:06.55,0:23:10.55,Default,,0,0,0,,The kernel happened to be one of the last things we started to do
 Dialogue: 0,0:23:10.85,0:23:12.85,Default,,0,0,0,,and we had started it not long before.
 Dialogue: 0,0:23:13.85,0:23:16.85,Default,,0,0,0,,And that's when Linus Torvalds came along.
-Dialogue: 0,0:23:16.85,0:23:20.15,Default,,0,0,0,,"Lin-us" or "Line-us"? What's the exact,\Ndo you prefer the pronunciation?
+Dialogue: 0,0:23:16.85,0:23:20.15,Default,,0,0,0,,"Lin-us" or "Line-us"? What's the exact, do you prefer the pronunciation?
 Dialogue: 0,0:23:20.45,0:23:23.05,Default,,0,0,0,,um.. When I speak Swedish it's "Lee-nus";
 Dialogue: 0,0:23:23.05,0:23:25.45,Default,,0,0,0,,when I speak Finnish it's "Leen-ous";
 Dialogue: 0,0:23:25.45,0:23:27.25,Default,,0,0,0,,when I speak English it's "Line-us".
 Dialogue: 0,0:23:27.25,0:23:30.05,Default,,0,0,0,,And I really don't care how people pronounce my name.
 Dialogue: 0,0:23:30.05,0:23:32.85,Default,,0,0,0,,But "Linux" is always "Linux".
-Dialogue: 0,0:23:32.85,0:23:37.25,Default,,0,0,0,,He developed a kernel, and got it working\Nfaster than we got ours working,
+Dialogue: 0,0:23:32.85,0:23:37.25,Default,,0,0,0,,He developed a kernel, and got it working faster than we got ours working,
 Dialogue: 0,0:23:37.85,0:23:40.35,Default,,0,0,0,,and got it to work very nicely and solidly.
 Dialogue: 0,0:23:40.35,0:23:42.25,Default,,0,0,0,,His kernel is called "Linux".
 Dialogue: 0,0:23:42.75,0:23:45.95,Default,,0,0,0,,The initial goal was my very personal goal
@@ -469,10 +465,10 @@ Dialogue: 0,0:23:54.35,0:23:59.75,Default,,0,0,0,,And I could not find anything 
 Dialogue: 0,0:24:00.15,0:24:03.85,Default,,0,0,0,,So having been doing computers for all my life basically.
 Dialogue: 0,0:24:03.85,0:24:06.95,Default,,0,0,0,,At that point I decided that I'll do my own.
 Dialogue: 0,0:24:07.45,0:24:11.45,Default,,0,0,0,,Most of the inspiration early on came from, from SunOS
-Dialogue: 0,0:24:12.05,0:24:16.35,Default,,0,0,0,,which was what um,\NI was using at the university at the time.
+Dialogue: 0,0:24:12.05,0:24:16.35,Default,,0,0,0,,which was what um, I was using at the university at the time.
 Dialogue: 0,0:24:16.35,0:24:17.45,Default,,0,0,0,,[ Which University? ]
 Dialogue: 0,0:24:17.45,0:24:19.15,Default,,0,0,0,,University of Helsinki in Finland.
-Dialogue: 0,0:24:20.05,0:24:24.55,Default,,0,0,0,,From 1991 to about 1993 was really
+Dialogue: 0,0:24:20.05,0:24:24.85,Default,,0,0,0,,From 1991 to about 1993 was really
 Dialogue: 0,0:24:24.85,0:24:27.15,Default,,0,0,0,,I guess the infancy period of Linux.
 Dialogue: 0,0:24:27.15,0:24:30.85,Default,,0,0,0,,That was when it was still only alpha or beta quality;
 Dialogue: 0,0:24:30.85,0:24:33.25,Default,,0,0,0,,it was relatively unstable.
