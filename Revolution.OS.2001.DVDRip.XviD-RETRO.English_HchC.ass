@@ -16,9 +16,9 @@ Video File: ../../../Desktop/Disk1.mkv
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 1.000000
-Scroll Position: 995
-Active Line: 1001
-Video Position: 85938
+Scroll Position: 1261
+Active Line: 1273
+Video Position: 109668
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1042,131 +1042,131 @@ Dialogue: 0,0:59:57.45,1:00:00.55,Default,,0,0,0,,It's important to remember tha
 Dialogue: 0,1:00:00.55,1:00:05.45,Default,,0,0,0,,you can receive a refund if you don't use the software,
 Dialogue: 0,1:00:05.45,1:00:08.45,Default,,0,0,0,,and that the manufacture is bound by law to do this...
 Dialogue: 0,1:00:08.45,1:00:10.45,Default,,0,0,0,,or it was bond by contract.
-Dialogue: 0,1:00:10.45,1:00:13.45,Default,,0,0,0,,and we found if you called up\Nthese manufactures, they basically said...
+Dialogue: 0,1:00:10.45,1:00:13.45,Default,,0,0,0,,and we found if you called up these manufactures, they basically said...
 Dialogue: 0,1:00:13.45,1:00:15.65,Default,,0,0,0,,"Stop bothering me kid." and hung up on you.
 Dialogue: 0,1:00:15.65,1:00:18.65,Default,,0,0,0,,We didn't really wanna sort of giving out our location,
 Dialogue: 0,1:00:18.65,1:00:21.85,Default,,0,0,0,,or where we were going to meet, until...
 Dialogue: 0,1:00:21.85,1:00:22.85,Default,,0,0,0,,you know, the very last seconds.
-Dialogue: 0,1:00:22.85,1:00:26.25,Default,,0,0,0,,What we did is, we have people meet\Nat the place where we could control
+Dialogue: 0,1:00:22.85,1:00:26.25,Default,,0,0,0,,What we did is, we have people meet at the place where we could control
 Dialogue: 0,1:00:26.25,1:00:27.95,Default,,0,0,0,,in the different towns around here.
 Dialogue: 0,1:00:27.95,1:00:31.45,Default,,0,0,0,,So I was the San Jose marshal, and I believe Nick you were...
 Dialogue: 0,1:00:31.45,1:00:33.85,Default,,0,0,0,,I was..., Rick Moen and I did San Francisco.
 Dialogue: 0,1:00:33.85,1:00:34.35,Default,,0,0,0,,Right
-Dialogue: 0,1:00:34.45,1:00:38.45,Default,,0,0,0,,and so we had maps there and we\Nhanded them off everybody who was coming.
-Dialogue: 0,1:00:38.45,1:00:42.45,Default,,0,0,0,,Well, we actually met at a Denny's\NThat's just outside the Foster City limits...
+Dialogue: 0,1:00:34.45,1:00:38.45,Default,,0,0,0,,and so we had maps there and we handed them off everybody who was coming.
+Dialogue: 0,1:00:38.45,1:00:42.45,Default,,0,0,0,,Well, we actually met at a Denny's That's just outside the Foster City limits...
 Dialogue: 0,1:00:42.45,1:00:44.05,Default,,0,0,0,,Foster City limits,
-Dialogue: 0,1:00:44.05,1:00:47.45,Default,,0,0,0,,which meant also just outside of\NFoster City Police jurisdiction,
-Dialogue: 0,1:00:47.45,1:00:51.05,Default,,0,0,0,,which meant any, any incidents\Nthat happened at the meeting point
+Dialogue: 0,1:00:44.05,1:00:47.45,Default,,0,0,0,,which meant also just outside of Foster City Police jurisdiction,
+Dialogue: 0,1:00:47.45,1:00:51.05,Default,,0,0,0,,which meant any, any incidents that happened at the meeting point
 Dialogue: 0,1:00:51.05,1:00:53.35,Default,,0,0,0,,happened in the jurisdiction of San Mateo,
-Dialogue: 0,1:00:53.35,1:00:56.95,Default,,0,0,0,,and if they told us they get lost, we'd say,\N"Fine, we are going to Foster city. Bye."
-Dialogue: 0,1:00:56.95,1:01:00.45,Default,,0,0,0,,It's sort of the Dukes of Hazzard method of\Navoiding the cops, so...
-Dialogue: 0,1:01:01.95,1:01:05.45,Default,,0,0,0,,Well actually, originally we marched\Non the other side of this building.
-Dialogue: 0,1:01:05.45,1:01:09.45,Default,,0,0,0,,We marched around and up onto the parking\Nstructure that's up there,
-Dialogue: 0,1:01:09.45,1:01:12.35,Default,,0,0,0,,and that's where Microsoft had a reception\Nlaid out for us with
-Dialogue: 0,1:01:12.35,1:01:14.45,Default,,0,0,0,,drinks\Nand a big sign that said...
+Dialogue: 0,1:00:53.35,1:00:56.95,Default,,0,0,0,,and if they told us they get lost, we'd say, "Fine, we are going to Foster city. Bye."
+Dialogue: 0,1:00:56.95,1:01:00.45,Default,,0,0,0,,It's sort of the Dukes of Hazzard method of avoiding the cops, so...
+Dialogue: 0,1:01:01.45,1:01:05.45,Default,,0,0,0,,Well actually, originally we marched on the other side of this building.
+Dialogue: 0,1:01:05.45,1:01:09.45,Default,,0,0,0,,We marched around and up onto the parking structure that's up there,
+Dialogue: 0,1:01:09.45,1:01:12.35,Default,,0,0,0,,and that's where Microsoft had a reception laid out for us with
+Dialogue: 0,1:01:12.35,1:01:14.45,Default,,0,0,0,,drinks and a big sign that said...
 Dialogue: 0,1:01:14.45,1:01:16.85,Default,,0,0,0,,"Microsoft Welcomes the Open Source Community".
-Dialogue: 0,1:01:16.85,1:01:20.85,Default,,0,0,0,,and the local news cameras got shots of\NEric Raymond and Microsoft representative.
+Dialogue: 0,1:01:16.85,1:01:21.45,Default,,0,0,0,,and the local news cameras got shots of Eric Raymond and Microsoft representative.
 Dialogue: 0,1:01:21.95,1:01:24.85,Default,,0,0,0,,Microsoft's story seems to mostly be that...
-Dialogue: 0,1:01:24.95,1:01:29.45,Default,,0,0,0,,...this was not an issue for Microsoft,\Nrather from the OEMs.
-Dialogue: 0,1:01:29.45,1:01:32.75,Default,,0,0,0,,So we all needed to go back to our\Ncomputer manufacturers and try yet again
+Dialogue: 0,1:01:24.95,1:01:29.45,Default,,0,0,0,,...this was not an issue for Microsoft, rather from the OEMs.
+Dialogue: 0,1:01:29.45,1:01:32.75,Default,,0,0,0,,So we all needed to go back to our computer manufacturers and try yet again
 Dialogue: 0,1:01:32.75,1:01:34.85,Default,,0,0,0,,to try and get refund from them.
 Dialogue: 0,1:01:34.85,1:01:36.55,Default,,0,0,0,,We responded to them saying, you know,
-Dialogue: 0,1:01:36.55,1:01:40.55,Default,,0,0,0,,that we tried that and it's not possible,\Nwe need Microsoft to take action at this point.
-Dialogue: 0,1:01:40.85,1:01:43.45,Default,,0,0,0,,And they just repeated the tag line\Nover and over again...
-Dialogue: 0,1:01:43.45,1:01:46.45,Default,,0,0,0,,"you need to go to the OEMs and manufacturers\Nand get your refunds there."
-Dialogue: 0,1:01:46.95,1:01:52.45,Default,,0,0,0,,We had about 150 people,\Nprobably half of which had signs and such, so..
-Dialogue: 0,1:01:52.95,1:01:56.45,Default,,0,0,0,,Well, we ended up actually right\Nin this courtyard here.
+Dialogue: 0,1:01:36.55,1:01:40.55,Default,,0,0,0,,that we tried that and it's not possible, we need Microsoft to take action at this point.
+Dialogue: 0,1:01:40.85,1:01:43.45,Default,,0,0,0,,And they just repeated the tag line over and over again...
+Dialogue: 0,1:01:43.45,1:01:46.45,Default,,0,0,0,,"you need to go to the OEMs and manufacturers and get your refunds there."
+Dialogue: 0,1:01:46.95,1:01:52.45,Default,,0,0,0,,We had about 150 people, probably half of which had signs and such, so..
+Dialogue: 0,1:01:52.95,1:01:56.45,Default,,0,0,0,,Well, we ended up actually right in this courtyard here.
 Dialogue: 0,1:01:56.95,1:02:00.45,Default,,0,0,0,,Basically we originally met, gathered outside,
-Dialogue: 0,1:02:00.45,1:02:05.45,Default,,0,0,0,,various people sent groups in,\Npeople from FreeBSD camp sent a couple of folks in.
-Dialogue: 0,1:02:05.45,1:02:09.45,Default,,0,0,0,,We had Eric Raymond and Chris\Nactually tried to go up eventually.
+Dialogue: 0,1:02:00.45,1:02:05.45,Default,,0,0,0,,various people sent groups in, people from FreeBSD camp sent a couple of folks in.
+Dialogue: 0,1:02:05.45,1:02:09.45,Default,,0,0,0,,We had Eric Raymond and Chris actually tried to go up eventually.
 Dialogue: 0,1:02:09.75,1:02:12.05,Default,,0,0,0,,They had blocked the elevator off to us.
 Dialogue: 0,1:02:12.05,1:02:13.25,Default,,0,0,0,,[ Where are the offices? ]
 Dialogue: 0,1:02:13.25,1:02:15.45,Default,,0,0,0,,The offices are right up here on the 9th floor.
 Dialogue: 0,1:02:17.45,1:02:19.55,Default,,0,0,0,,We got some really nice press out of it.
 Dialogue: 0,1:02:19.75,1:02:20.95,Default,,0,0,0,,and we think as a result
-Dialogue: 0,1:02:20.95,1:02:24.95,Default,,0,0,0,,Toshiba made it possible for you to buy\Nlaptop without the operating system on it.
+Dialogue: 0,1:02:20.95,1:02:24.95,Default,,0,0,0,,Toshiba made it possible for you to buy laptop without the operating system on it.
 Dialogue: 0,1:02:25.65,1:02:27.45,Default,,0,0,0,,So, it's a small victory, but...
 Dialogue: 0,1:02:27.55,1:02:31.55,Default,,0,0,0,,Well, even now, companies such as IBM and...
-Dialogue: 0,1:02:31.65,1:02:33.95,Default,,0,0,0,,a lot of other computer manufacturers\Nare allowing you...
-Dialogue: 0,1:02:33.95,1:02:36.55,Default,,0,0,0,,now to buy machines that don't have\NWindows on them.
+Dialogue: 0,1:02:31.65,1:02:33.95,Default,,0,0,0,,a lot of other computer manufacturers are allowing you...
+Dialogue: 0,1:02:33.95,1:02:36.55,Default,,0,0,0,,now to buy machines that don't have Windows on them.
 Dialogue: 0,1:02:45.45,1:02:48.25,Default,,0,0,0,,When I was a kid and I went to school,
 Dialogue: 0,1:02:48.25,1:02:50.55,Default,,0,0,0,,the teachers were trying to teach us to share.
 Dialogue: 0,1:02:50.55,1:02:52.55,Default,,0,0,0,,They said if you bring some candy,
-Dialogue: 0,1:02:52.55,1:02:55.65,Default,,0,0,0,,you can't eat it all yourself, you\Ngotta share with other kids.
-Dialogue: 0,1:02:55.65,1:03:01.25,Default,,0,0,0,,But now the administration says teachers\Nshould be teaching kids to say yes to licensing.
-Dialogue: 0,1:03:01.25,1:03:04.25,Default,,0,0,0,,If you bring some software to school,\N"Oh! No, don't share it...
-Dialogue: 0,1:03:04.25,1:03:08.25,Default,,0,0,0,,...sharing means you're pirate,\Nsharing means you'll be put in jail."
-Dialogue: 0,1:03:08.45,1:03:12.45,Default,,0,0,0,,That's not the way society should work.\NWe need the good will,
-Dialogue: 0,1:03:13.45,1:03:17.45,Default,,0,0,0,,the willingness to help other people\Nat least when it's not too hard,
+Dialogue: 0,1:02:52.55,1:02:55.65,Default,,0,0,0,,you can't eat it all yourself, you gotta share with other kids.
+Dialogue: 0,1:02:55.65,1:03:01.25,Default,,0,0,0,,But now the administration says teachers should be teaching kids to say yes to licensing.
+Dialogue: 0,1:03:01.25,1:03:04.25,Default,,0,0,0,,If you bring some software to school, "Oh! No, don't share it...
+Dialogue: 0,1:03:04.25,1:03:08.25,Default,,0,0,0,,...sharing means you're pirate, sharing means you'll be put in jail."
+Dialogue: 0,1:03:08.45,1:03:12.45,Default,,0,0,0,,That's not the way society should work. We need the good will,
+Dialogue: 0,1:03:13.45,1:03:17.45,Default,,0,0,0,,the willingness to help other people at least when it's not too hard,
 Dialogue: 0,1:03:17.75,1:03:19.95,Default,,0,0,0,,because that's the basis of society,
 Dialogue: 0,1:03:19.95,1:03:22.45,Default,,0,0,0,,that's the fundamental resource,
-Dialogue: 0,1:03:22.45,1:03:26.35,Default,,0,0,0,,That gives us a society instead of\Na dog-eat-dog jungle.
+Dialogue: 0,1:03:22.45,1:03:26.35,Default,,0,0,0,,That gives us a society instead of a dog-eat-dog jungle.
 Dialogue: 0,1:03:26.35,1:03:27.55,Default,,0,0,0,,[ So what about people say if that if
-Dialogue: 0,1:03:27.55,1:03:30.65,Default,,0,0,0,,you have rampant piracy and eliminate\Nthe profit motive and...
-Dialogue: 0,1:03:30.65,1:03:32.45,Default,,0,0,0,,...and creative works, software.\NWill not... ]
-Dialogue: 0,1:03:32.45,1:03:35.45,Default,,0,0,0,,Well, they were on both counts. For one thing,
-Dialogue: 0,1:03:35.45,1:03:39.45,Default,,0,0,0,,people are making a profit from\Ndeveloping Free Software,
-Dialogue: 0,1:03:39.45,1:03:44.25,Default,,0,0,0,,but for another, the freedom to\Nhave a community is more important.
-Dialogue: 0,1:03:44.45,1:03:48.25,Default,,0,0,0,,[ People that look at, casually look at\NOpen Source Free Software and think...
-Dialogue: 0,1:03:48.25,1:03:51.45,Default,,0,0,0,,Well, because you are supposed to\Nshare and do it for people's good will,
-Dialogue: 0,1:03:51.45,1:03:53.85,Default,,0,0,0,,Doesn't that seem someone communist.\NWhat's your response? ]
-Dialogue: 0,1:03:53.85,1:03:57.65,Default,,0,0,0,,Absolutely nonsense,\Nit makes me really angry when people do that.
-Dialogue: 0,1:03:57.65,1:04:02.45,Default,,0,0,0,,Well, back in, back in 1989,\Nactually communism would have been a compliment.
-Dialogue: 0,1:04:02.65,1:04:05.05,Default,,0,0,0,,the word people were using at that time\Nwas "crazy",
+Dialogue: 0,1:03:27.55,1:03:30.65,Default,,0,0,0,,you have rampant piracy and eliminate the profit motive and...
+Dialogue: 0,1:03:30.65,1:03:32.45,Default,,0,0,0,,...and creative works, software. Will not... ]
+Dialogue: 0,1:03:32.45,1:03:35.02,Default,,0,0,0,,Well, they were on both counts.
+Dialogue: 0,1:03:35.02,1:03:39.45,Default,,0,0,0,,For one thing, people are making a profit from developing Free Software,
+Dialogue: 0,1:03:39.45,1:03:44.25,Default,,0,0,0,,but for another, the freedom to have a community is more important.
+Dialogue: 0,1:03:44.45,1:03:48.25,Default,,0,0,0,,[ People that look at, casually look at Open Source Free Software and think...
+Dialogue: 0,1:03:48.25,1:03:51.45,Default,,0,0,0,,Well, because you are supposed to share and do it for people's good will,
+Dialogue: 0,1:03:51.45,1:03:53.85,Default,,0,0,0,,Doesn't that seem someone communist. What's your response? ]
+Dialogue: 0,1:03:53.85,1:03:57.65,Default,,0,0,0,,Absolutely nonsense, it makes me really angry when people do that.
+Dialogue: 0,1:03:57.65,1:04:02.45,Default,,0,0,0,,Well, back in, back in 1989, actually communism would have been a compliment.
+Dialogue: 0,1:04:02.65,1:04:05.05,Default,,0,0,0,,the word people were using at that time was "crazy",
 Dialogue: 0,1:04:05.05,1:04:06.95,Default,,0,0,0,,and I want them to use capitalism.
 Dialogue: 0,1:04:06.95,1:04:10.45,Default,,0,0,0,,Communism is an ideology that forces people to share.
 Dialogue: 0,1:04:10.55,1:04:14.15,Default,,0,0,0,,If you don't share, you get thrown in jail or killed.
-Dialogue: 0,1:04:14.35,1:04:20.45,Default,,0,0,0,,In 1990, we got a visit from a director\Nof an institute in uh, Moscow University,
+Dialogue: 0,1:04:14.35,1:04:20.45,Default,,0,0,0,,In 1990, we got a visit from a director of an institute in uh, Moscow University,
 Dialogue: 0,1:04:20.55,1:04:24.45,Default,,0,0,0,,and actually I saw him in Helsinki just 2 weeks ago,
 Dialogue: 0,1:04:25.65,1:04:27.45,Default,,0,0,0,,but in any event, he came by,
-Dialogue: 0,1:04:27.65,1:04:31.45,Default,,0,0,0,,and Richard Stallman had suggested\Nthat he visit Cygnus,
-Dialogue: 0,1:04:31.45,1:04:35.45,Default,,0,0,0,,because he was interested in and\Nunderstanding how the Free Software model...
-Dialogue: 0,1:04:35.45,1:04:40.55,Default,,0,0,0,,might apply to stimulating entrepreneurial\Ninnovation in Russia of all places,
-Dialogue: 0,1:04:40.75,1:04:44.75,Default,,0,0,0,,and we had been kind of secretive\Nabout our business plan,
-Dialogue: 0,1:04:44.95,1:04:47.65,Default,,0,0,0,,because you know, we weren't really\Nsure it's gonna work,
+Dialogue: 0,1:04:27.65,1:04:31.45,Default,,0,0,0,,and Richard Stallman had suggested that he visit Cygnus,
+Dialogue: 0,1:04:31.45,1:04:35.45,Default,,0,0,0,,because he was interested in and understanding how the Free Software model...
+Dialogue: 0,1:04:35.45,1:04:40.55,Default,,0,0,0,,might apply to stimulating entrepreneurial innovation in Russia of all places,
+Dialogue: 0,1:04:40.75,1:04:44.75,Default,,0,0,0,,and we had been kind of secretive about our business plan,
+Dialogue: 0,1:04:44.95,1:04:47.65,Default,,0,0,0,,because you know, we weren't really sure it's gonna work,
 Dialogue: 0,1:04:47.65,1:04:50.45,Default,,0,0,0,,we didn't want to look too stupid if it failed.
 Dialogue: 0,1:04:50.45,1:04:52.75,Default,,0,0,0,,But I was very very open with him.
-Dialogue: 0,1:04:52.75,1:04:56.65,Default,,0,0,0,,The more I told him,\Nthe more he started to shake his head like this,
+Dialogue: 0,1:04:52.75,1:04:56.65,Default,,0,0,0,,The more I told him, the more he started to shake his head like this,
 Dialogue: 0,1:04:56.85,1:05:00.45,Default,,0,0,0,,and I finally said, you know, "What's wrong?"
-Dialogue: 0,1:05:00.45,1:05:05.45,Default,,0,0,0,,And he said, "This sounds to much like communism\Nto be successful in Russia."
-Dialogue: 0,1:05:07.45,1:05:11.45,Default,,0,0,0,,You got to go a Gulag and end up in a mass grave\Nwith a bullet in the back of your head.
-Dialogue: 0,1:05:11.45,1:05:15.45,Default,,0,0,0,,Open Source is not communism\Nbecause it doesn't force people.
+Dialogue: 0,1:05:00.45,1:05:05.45,Default,,0,0,0,,And he said, "This sounds to much like communism to be successful in Russia."
+Dialogue: 0,1:05:07.45,1:05:11.45,Default,,0,0,0,,You got to go a Gulag and end up in a mass grave with a bullet in the back of your head.
+Dialogue: 0,1:05:11.45,1:05:15.45,Default,,0,0,0,,Open Source is not communism because it doesn't force people.
 Dialogue: 0,1:05:17.45,1:05:20.45,Default,,0,0,0,,Carl Marx did not invent helping your neighbor.
 Dialogue: 0,1:05:22.25,1:05:26.25,Default,,0,0,0,,It's not communist to have a commons,
-Dialogue: 0,1:05:26.35,1:05:33.05,Default,,0,0,0,,A commons existed long before communism as\Na philosophy of government.
+Dialogue: 0,1:05:26.35,1:05:33.05,Default,,0,0,0,,A commons existed long before communism as a philosophy of government.
 Dialogue: 0,1:05:33.85,1:05:35.95,Default,,0,0,0,,there are many commons in our lives,
 Dialogue: 0,1:05:35.95,1:05:38.05,Default,,0,0,0,,For example, we drive on the highway,
 Dialogue: 0,1:05:38.05,1:05:41.45,Default,,0,0,0,,something that is maintained for our common good.
 Dialogue: 0,1:05:41.45,1:05:45.45,Default,,0,0,0,,Actually labeling our business model...
 Dialogue: 0,1:05:46.05,1:05:48.15,Default,,0,0,0,,means that it misses the point a little bit.
-Dialogue: 0,1:05:48.15,1:05:49.25,Default,,0,0,0,,whether it's communist, or whether it's capitalist,
-Dialogue: 0,1:05:49.25,1:05:52.85,Default,,0,0,0,,the label doesn't matter, the real question is,
-Dialogue: 0,1:05:52.85,1:05:56.45,Default,,0,0,0,,how much value can you deliver,\Nhow scalable is the business,
-Dialogue: 0,1:05:56.45,1:05:59.75,Default,,0,0,0,,what kind of problems,\Nwhat kind of rate of innovation can you sustain.
-Dialogue: 0,1:05:59.75,1:06:03.45,Default,,0,0,0,,and then, however you want to label that,\Nit's really up to you.
+Dialogue: 0,1:05:48.15,1:05:50.90,Default,,0,0,0,,whether it's communist, or whether it's capitalist,
+Dialogue: 0,1:05:50.90,1:05:52.97,Default,,0,0,0,,the label doesn't matter, the real question is,
+Dialogue: 0,1:05:52.97,1:05:56.45,Default,,0,0,0,,how much value can you deliver, how scalable is the business,
+Dialogue: 0,1:05:56.45,1:05:59.75,Default,,0,0,0,,what kind of problems, what kind of rate of innovation can you sustain.
+Dialogue: 0,1:05:59.75,1:06:03.45,Default,,0,0,0,,and then, however you want to label that, it's really up to you.
 Dialogue: 0,1:06:04.85,1:06:08.05,Default,,0,0,0,,The Revolution goes Prime Time.
 Dialogue: 0,1:06:32.05,1:06:33.55,Default,,0,0,0,,A lot of people described,
-Dialogue: 0,1:06:33.55,1:06:36.45,Default,,0,0,0,,that August Linux World as\N"Linux's coming-out party",
-Dialogue: 0,1:06:36.45,1:06:40.45,Default,,0,0,0,,Linus Torvalds was very funny about this,\Nhe said, "What? Was Linux gay?"
-Dialogue: 0,1:06:42.45,1:06:45.45,Default,,0,0,0,,But some people said\N"Yeah, that was our debutante ball."
+Dialogue: 0,1:06:33.55,1:06:36.45,Default,,0,0,0,,that August Linux World as "Linux's coming-out party",
+Dialogue: 0,1:06:36.45,1:06:40.45,Default,,0,0,0,,Linus Torvalds was very funny about this, he said, "What? Was Linux gay?"
+Dialogue: 0,1:06:42.45,1:06:45.45,Default,,0,0,0,,But some people said "Yeah, that was our debutante ball."
 Dialogue: 0,1:06:46.05,1:06:47.15,Default,,0,0,0,,That was when the...
-Dialogue: 0,1:06:47.15,1:06:51.15,Default,,0,0,0,,Linux Gods, and the hardware hackers\Nreally got it together with the suits.
-Dialogue: 0,1:07:01.25,1:07:04.25,Default,,0,0,0,,At 3pm on August 10th 1999,
-Dialogue: 0,1:07:04.25,1:07:07.85,Default,,0,0,0,,Linus Torvalds delivered the keynote\Naddress at Linux World.
-Dialogue: 0,1:07:07.85,1:07:12.35,Default,,0,0,0,,The crowds of 6000 people began lining up at 12 noon.
-Dialogue: 0,1:07:31.95,1:07:34.45,Default,,0,0,0,,Ladies and gentlemen,\Nplease welcome Larry Augustin...
-Dialogue: 0,1:07:34.45,1:07:40.25,Default,,0,0,0,,Linux World Conference Chair and President and\NCEO of VA Linux Systems.
+Dialogue: 0,1:06:47.15,1:06:51.15,Default,,0,0,0,,Linux Gods, and the hardware hackers really got it together with the suits.
+Dialogue: 0,1:07:01.25,1:07:04.25,Default,,0,0,0,,At 3PM on August 10th 1999,
+Dialogue: 0,1:07:04.25,1:07:07.85,Default,,0,0,0,,Linus Torvalds delivered the keynote address at Linux World.
+Dialogue: 0,1:07:07.85,1:07:12.35,Default,,0,0,0,,The crowds of 6,000 people began lining up at 12 noon.
+Dialogue: 0,1:07:31.95,1:07:34.45,Default,,0,0,0,,Ladies and gentlemen, please welcome Larry Augustin...
+Dialogue: 0,1:07:34.45,1:07:40.25,Default,,0,0,0,,Linux World Conference Chair and President and CEO of VA Linux Systems.
 Dialogue: 0,1:07:48.45,1:07:51.45,Default,,0,0,0,,These guys have to clap, I pay them.
-Dialogue: 0,1:07:51.45,1:07:55.75,Default,,0,0,0,,Thank you all for being here,\Nlooks like it's been a great show so far.
-Dialogue: 0,1:07:55.75,1:08:02.05,Default,,0,0,0,,If you'll indulge me for a moment, I'm going to\Ntry to avoid the glare of the lights.
-Dialogue: 0,1:08:02.25,1:08:05.45,Default,,0,0,0,,I still think there's lots of people,\Neven though this is the 2nd show,
-Dialogue: 0,1:08:05.45,1:08:08.95,Default,,0,0,0,,I still think there's lots of people\Nwho don't quite get...
+Dialogue: 0,1:07:51.45,1:07:55.75,Default,,0,0,0,,Thank you all for being here, looks like it's been a great show so far.
+Dialogue: 0,1:07:55.75,1:08:02.05,Default,,0,0,0,,If you'll indulge me for a moment, I'm going to try to avoid the glare of the lights.
+Dialogue: 0,1:08:02.25,1:08:05.45,Default,,0,0,0,,I still think there's lots of people, even though this is the 2nd show,
+Dialogue: 0,1:08:05.45,1:08:08.95,Default,,0,0,0,,I still think there's lots of people who don't quite get...
 Dialogue: 0,1:08:08.95,1:08:11.45,Default,,0,0,0,,...what it is that's so exciting about Linux.
-Dialogue: 0,1:08:11.45,1:08:13.45,Default,,0,0,0,,So there is a great show going\Non next door,
+Dialogue: 0,1:08:11.45,1:08:13.45,Default,,0,0,0,,So there is a great show going on next door,
 Dialogue: 0,1:08:13.45,1:08:16.15,Default,,0,0,0,,there's huge exhibits and everything,
-Dialogue: 0,1:08:16.15,1:08:21.05,Default,,0,0,0,,but it's the people out here\Nthat are real contributors, not those companies.
+Dialogue: 0,1:08:16.15,1:08:21.05,Default,,0,0,0,,but it's the people out here that are real contributors, not those companies.
 Dialogue: 0,1:08:21.05,1:08:23.95,Default,,0,0,0,,The person on next I know you all know,
-Dialogue: 0,1:08:23.95,1:08:26.85,Default,,0,0,0,,so I don't have to give anything in the way\Nas introduction.
+Dialogue: 0,1:08:23.95,1:08:26.85,Default,,0,0,0,,so I don't have to give anything in the way as introduction.
 Dialogue: 0,1:08:26.85,1:08:30.45,Default,,0,0,0,,Ladies and gentlemen, I give you, Linus Torvalds.
 Dialogue: 0,1:08:30.45,1:08:33.45,Default,,0,0,0,,Linus
 Dialogue: 0,1:08:38.45,1:08:39.45,Default,,0,0,0,,Thanks.
@@ -1174,31 +1174,30 @@ Dialogue: 0,1:08:42.45,1:08:44.45,Default,,0,0,0,,Calm down.
 Dialogue: 0,1:08:49.95,1:08:51.95,Default,,0,0,0,,Calm down.
 Dialogue: 0,1:08:51.95,1:08:53.45,Default,,0,0,0,,Say "oooo".
 Dialogue: 0,1:08:53.45,1:08:54.45,Default,,0,0,0,,yes.
-Dialogue: 0,1:08:54.65,1:08:58.05,Default,,0,0,0,,I don't want to just give one\Nof my normal talks,
+Dialogue: 0,1:08:54.65,1:08:58.05,Default,,0,0,0,,I don't want to just give one of my normal talks,
 Dialogue: 0,1:08:58.05,1:08:59.55,Default,,0,0,0,,because I find them boring,
-Dialogue: 0,1:08:59.55,1:09:03.55,Default,,0,0,0,,probably by now most of you find them boring\Ntoo because you've heard them like 10 times.
-Dialogue: 0,1:09:04.45,1:09:07.15,Default,,0,0,0,,But after the technical updates,\Nwe will actually try...
-Dialogue: 0,1:09:07.15,1:09:11.65,Default,,0,0,0,,...whether we can do a question and\Nanswer session with 5,000 people,
+Dialogue: 0,1:08:59.55,1:09:03.55,Default,,0,0,0,,probably by now most of you find them boring too because you've heard them like 10 times.
+Dialogue: 0,1:09:04.45,1:09:07.15,Default,,0,0,0,,But after the technical updates, we will actually try...
+Dialogue: 0,1:09:07.15,1:09:11.65,Default,,0,0,0,,...whether we can do a question and answer session with 5,000 people,
 Dialogue: 0,1:09:11.75,1:09:14.45,Default,,0,0,0,,or how many of you there are there.
 Dialogue: 0,1:09:15.45,1:09:17.65,Default,,0,0,0,,and it may not actually work out,
 Dialogue: 0,1:09:17.65,1:09:21.35,Default,,0,0,0,,because one of the 5,000 people is really loud.
-Dialogue: 0,1:09:21.35,1:09:22.45,Default,,0,0,0,,The one thing I will do,
-Dialogue: 0,1:09:22.45,1:09:26.45,Default,,0,0,0,,which I always do in all my talks is\Nthe gratitude thing,
+Dialogue: 0,1:09:21.35,1:09:26.45,Default,,0,0,0,,The one thing I will do which I always do in all my talks is the gratitude thing,
 Dialogue: 0,1:09:26.85,1:09:29.95,Default,,0,0,0,,I want to kind of acknowledge the fact that...
 Dialogue: 0,1:09:29.95,1:09:32.45,Default,,0,0,0,,...I'm obviously not been alone in doing Linux.
 Dialogue: 0,1:09:32.45,1:09:34.45,Default,,0,0,0,,RHAT IPO: On August 11, 1999
-Dialogue: 0,1:09:34.45,1:09:38.15,Default,,0,0,0,,Red Hat Software became\Nthe first Linux company to go public.
+Dialogue: 0,1:09:34.45,1:09:38.15,Default,,0,0,0,,Red Hat Software became the first Linux company to go public.
 Dialogue: 0,1:09:38.15,1:09:40.15,Default,,0,0,0,,Red Hat, up 228%
 Dialogue: 0,1:09:40.15,1:09:43.25,Default,,0,0,0,,this is the IPO that everybody was waiting for.
-Dialogue: 0,1:09:43.25,1:09:45.75,Default,,0,0,0,,They of course are behind\Nthe Linux operating software.
+Dialogue: 0,1:09:43.25,1:09:45.75,Default,,0,0,0,,They of course are behind the Linux operating software.
 Dialogue: 0,1:09:52.45,1:09:56.45,Default,,0,0,0,,R-H-A-T, I know
 Dialogue: 0,1:09:57.45,1:09:58.45,Default,,0,0,0,,All I've gotten today,
-Dialogue: 0,1:09:58.45,1:10:01.85,Default,,0,0,0,,are comments about\Nwhat the stock price is, all morning,
-Dialogue: 0,1:10:01.85,1:10:05.35,Default,,0,0,0,,you know it was\Nat 41, it was at 42, it was at 47,
+Dialogue: 0,1:09:58.45,1:10:01.85,Default,,0,0,0,,are comments about what the stock price is, all morning,
+Dialogue: 0,1:10:01.85,1:10:05.35,Default,,0,0,0,,you know it was at 41, it was at 42, it was at 47,
 Dialogue: 0,1:10:05.35,1:10:08.25,Default,,0,0,0,,it was at 53, it was at 51...
-Dialogue: 0,1:10:08.25,1:10:12.05,Default,,0,0,0,,Every machine as far as I can tell\Non the show floor
-Dialogue: 0,1:10:12.05,1:10:16.05,Default,,0,0,0,,is pointed to their e-trade accounts or their\Nbroker accounts, they know the Red Hat's price
-Dialogue: 0,1:10:16.85,1:10:19.35,Default,,0,0,0,,I can't believe this.\N47
+Dialogue: 0,1:10:08.25,1:10:12.05,Default,,0,0,0,,Every machine as far as I can tell on the show floor
+Dialogue: 0,1:10:12.05,1:10:16.05,Default,,0,0,0,,is pointed to their e-trade accounts or their broker accounts, they know the Red Hat's price
+Dialogue: 0,1:10:16.85,1:10:19.35,Default,,0,0,0,,I can't believe this. 47
 Dialogue: 0,1:10:19.35,1:10:21.15,Default,,0,0,0,,I just heard 53.
 Dialogue: 0,1:10:21.15,1:10:22.15,Default,,0,0,0,,Oh, boy.
 Dialogue: 0,1:10:22.15,1:10:24.15,Default,,0,0,0,,Hang on, I didn't buy it.
@@ -1210,81 +1209,76 @@ Dialogue: 0,1:10:31.05,1:10:32.55,Default,,0,0,0,,If it's... if it's....
 Dialogue: 0,1:10:32.55,1:10:33.85,Default,,0,0,0,,You guys don't know?
 Dialogue: 0,1:10:33.85,1:10:34.95,Default,,0,0,0,,Well, you know
 Dialogue: 0,1:10:34.95,1:10:37.25,Default,,0,0,0,,Red Hat being successful as just means that
-Dialogue: 0,1:10:37.25,1:10:40.75,Default,,0,0,0,,It legitimizes Linux\NSo it's much easier for us to go out
-Dialogue: 0,1:10:57.45,1:11:00.45,Default,,0,0,0,,Rob Malda (CmdrTaco) ...\Non the Red Hat IPO
+Dialogue: 0,1:10:37.25,1:10:40.75,Default,,0,0,0,,It legitimizes Linux so it's much easier for us to go out
+Dialogue: 0,1:10:57.45,1:11:00.45,Default,,0,0,0,,Rob Malda (CmdrTaco) ... on the Red Hat IPO
 Dialogue: 0,1:11:00.45,1:11:02.45,Default,,0,0,0,,It's kind of been a little bit divided.
-Dialogue: 0,1:11:02.45,1:11:03.45,Default,,0,0,0,,You've got a lot of people
-Dialogue: 0,1:11:03.45,1:11:04.45,Default,,0,0,0,,that are pretty hardcore and
-Dialogue: 0,1:11:04.45,1:11:05.75,Default,,0,0,0,,And they're kind of offended by that
-Dialogue: 0,1:11:05.75,1:11:08.85,Default,,0,0,0,,you know, cause they work really hard,\Nthey are not really getting...
+Dialogue: 0,1:11:02.45,1:11:04.45,Default,,0,0,0,,You've got a lot of people that are pretty hardcore
+Dialogue: 0,1:11:04.45,1:11:08.85,Default,,0,0,0,,And they're kind of offended by that cause they work really hard, they are not really getting...
 Dialogue: 0,1:11:08.85,1:11:11.35,Default,,0,0,0,,maybe they fair share out of that.
 Dialogue: 0,1:11:11.35,1:11:12.55,Default,,0,0,0,,Some people do get ticked.
-Dialogue: 0,1:11:12.55,1:11:13.65,Default,,0,0,0,,and you know the thing
-Dialogue: 0,1:11:13.65,1:11:15.85,Default,,0,0,0,,that you see that on a lot of mailing lists\Nor on Slashdot you'll read, you know
-Dialogue: 0,1:11:15.85,1:11:21.65,Default,,0,0,0,,This guy is really mad because he didn't\Nget chance to, he's didn't get a chance to do...
-Dialogue: 0,1:11:22.75,1:11:24.15,Default,,0,0,0,,to get stock from Red Hat
-Dialogue: 0,1:11:24.15,1:11:29.15,Default,,0,0,0,,He didn't get a chance to get...\Nto get a job from this other company, you know.
-Dialogue: 0,1:11:29.65,1:11:33.15,Default,,0,0,0,,But the, the kind of the shocking secret\Nthere is that,
-Dialogue: 0,1:11:33.15,1:11:36.25,Default,,0,0,0,,Most the really hardcore guys,\Nyou know, they don't care so much.
+Dialogue: 0,1:11:12.55,1:11:15.85,Default,,0,0,0,,and you know the thing that you see that on a lot of mailing lists or on Slashdot
+Dialogue: 0,1:11:15.85,1:11:21.65,Default,,0,0,0,,you'll read: this guy is really mad because he didn't get chance to, he's didn't get a chance to do...
+Dialogue: 0,1:11:22.55,1:11:24.15,Default,,0,0,0,,to get stock from Red Hat
+Dialogue: 0,1:11:24.15,1:11:29.15,Default,,0,0,0,,He didn't get a chance to get... to get a job from this other company, you know.
+Dialogue: 0,1:11:29.65,1:11:33.15,Default,,0,0,0,,But the, the kind of the shocking secret there is that,
+Dialogue: 0,1:11:33.15,1:11:36.25,Default,,0,0,0,,Most the really hardcore guys, you know, they don't care so much.
 Dialogue: 0,1:11:36.25,1:11:38.05,Default,,0,0,0,,The guys that are kind of really down in trenches.
-Dialogue: 0,1:11:38.05,1:11:40.45,Default,,0,0,0,,They're writing this code because\Nthey need this code.
-Dialogue: 0,1:11:40.75,1:11:42.85,Default,,0,0,0,,If we could invite Richard Stallman
-Dialogue: 0,1:11:42.85,1:11:46.25,Default,,0,0,0,,who's the founder of\Nthe Free Software Association
-Dialogue: 0,1:11:46.25,1:11:48.15,Default,,0,0,0,,and Tim Ney, who's the managing director.
+Dialogue: 0,1:11:38.05,1:11:40.45,Default,,0,0,0,,They're writing this code because they need this code.
+Dialogue: 0,1:11:40.75,1:11:46.00,Default,,0,0,0,,If we could invite Richard Stallman who's the founder of the Free Software Association
+Dialogue: 0,1:11:46.00,1:11:48.15,Default,,0,0,0,,and Tim Ney, who's the managing director.
 Dialogue: 0,1:11:48.15,1:11:51.45,Default,,0,0,0,,There we go.  Hahahahaha
 Dialogue: 0,1:11:51.45,1:11:53.65,Default,,0,0,0,,Ah, here it is.
-Dialogue: 0,1:11:54.45,1:11:59.25,Default,,0,0,0,,Now, Richard, I saw you playing your recorder\Nat, in Paris at that Linux conference
+Dialogue: 0,1:11:54.45,1:11:59.25,Default,,0,0,0,,Now, Richard, I saw you playing your recorder at, in Paris at that Linux conference
 Dialogue: 0,1:11:59.25,1:12:00.65,Default,,0,0,0,,But I didn't have audio tracks.
 Dialogue: 0,1:12:00.65,1:12:02.85,Default,,0,0,0,,So would you them to add audio to their, uh...
 Dialogue: 0,1:12:02.85,1:12:04.85,Default,,0,0,0,,Video downstream next time
 Dialogue: 0,1:12:04.85,1:12:07.05,Default,,0,0,0,,Uh..I don't have any control over that
-Dialogue: 0,1:12:07.05,1:12:11.05,Default,,0,0,0,,unfortunately those things can\Nonly be done with non-free software.
+Dialogue: 0,1:12:07.05,1:12:11.05,Default,,0,0,0,,unfortunately those things can only be done with non-free software.
 Dialogue: 0,1:12:14.55,1:12:17.85,Default,,0,0,0,,We'll give you the award, and before you say a word,
-Dialogue: 0,1:12:17.85,1:12:22.75,Default,,0,0,0,,we'll have a Tim and yourself hold up\Na little representation of the contribution
+Dialogue: 0,1:12:17.85,1:12:22.75,Default,,0,0,0,,we'll have a Tim and yourself hold up a little representation of the contribution
 Dialogue: 0,1:12:22.95,1:12:25.25,Default,,0,0,0,,towards the Free Software Association.
 Dialogue: 0,1:12:25.25,1:12:29.25,Default,,0,0,0,,So, very ironic things have happened,
 Dialogue: 0,1:12:29.65,1:12:32.45,Default,,0,0,0,,but nothing to match this
-Dialogue: 0,1:12:32.45,1:12:36.05,Default,,0,0,0,,Giving the Linus Tovarlds award\Nto the Free Software Foundation
-Dialogue: 0,1:12:36.05,1:12:40.05,Default,,0,0,0,,is sort of like giving the\NHan Solo award to the rebel fleet.
-Dialogue: 0,1:12:44.65,1:12:50.45,Default,,0,0,0,,You see, some of you may not realize how far\Nthat analogy goes.
-Dialogue: 0,1:12:52.25,1:12:55.75,Default,,0,0,0,,But actually let me tell you\Nhow this, how we got here.
+Dialogue: 0,1:12:32.45,1:12:36.05,Default,,0,0,0,,Giving the Linus Tovarlds award to the Free Software Foundation
+Dialogue: 0,1:12:36.05,1:12:40.05,Default,,0,0,0,,is sort of like giving the Han Solo award to the rebel fleet.
+Dialogue: 0,1:12:44.65,1:12:50.45,Default,,0,0,0,,You see, some of you may not realize how far that analogy goes.
+Dialogue: 0,1:12:52.25,1:12:55.75,Default,,0,0,0,,But actually let me tell you how this, how we got here.
 Dialogue: 0,1:12:55.75,1:12:57.25,Default,,0,0,0,,see what happened is,
 Dialogue: 0,1:12:57.25,1:12:59.85,Default,,0,0,0,,15 years ago, if you wanted to use a computer,
-Dialogue: 0,1:12:59.85,1:13:03.85,Default,,0,0,0,,the only way you could do it\Nwas to, was with proprietary software,
+Dialogue: 0,1:12:59.85,1:13:03.85,Default,,0,0,0,,the only way you could do it was to, was with proprietary software,
 Dialogue: 0,1:13:04.75,1:13:07.45,Default,,0,0,0,,software that divides and subjugates the users.
 Dialogue: 0,1:13:07.45,1:13:09.35,Default,,0,0,0,,And most people just...
 Dialogue: 0,1:13:09.35,1:13:10.65,Default,,0,0,0,,A lot of people didn't like it.
 Dialogue: 0,1:13:10.65,1:13:12.15,Default,,0,0,0,,But they saw no alternative.
-Dialogue: 0,1:13:12.15,1:13:15.95,Default,,0,0,0,,But some of us were determined\Nto make an alternative.
-Dialogue: 0,1:13:15.95,1:13:19.95,Default,,0,0,0,,And we said we're gonna develop\Na free operating system,
+Dialogue: 0,1:13:12.15,1:13:15.95,Default,,0,0,0,,But some of us were determined to make an alternative.
+Dialogue: 0,1:13:15.95,1:13:19.95,Default,,0,0,0,,And we said we're gonna develop a free operating system,
 Dialogue: 0,1:13:20.05,1:13:21.85,Default,,0,0,0,,a free software operating system
-Dialogue: 0,1:13:21.85,1:13:27.55,Default,,0,0,0,,that will give users the chance to have freedom\Nwhile they use their computers.
+Dialogue: 0,1:13:21.85,1:13:27.55,Default,,0,0,0,,that will give users the chance to have freedom while they use their computers.
 Dialogue: 0,1:13:28.15,1:13:30.75,Default,,0,0,0,,Now a lot of people said, "Well, it's a nice idea
 Dialogue: 0,1:13:30.75,1:13:33.05,Default,,0,0,0,,but it's so hard, you'll never get it done,
-Dialogue: 0,1:13:33.05,1:13:36.95,Default,,0,0,0,,so I don't wanna participate,\NI don't believe you can ever get it done."
+Dialogue: 0,1:13:33.05,1:13:36.95,Default,,0,0,0,,so I don't wanna participate, I don't believe you can ever get it done."
 Dialogue: 0,1:13:36.95,1:13:39.75,Default,,0,0,0,,But luckily not everybody said that.
-Dialogue: 0,1:13:39.75,1:13:43.65,Default,,0,0,0,,And clearly, we knew\Nwe would eventually get the kernel done.
-Dialogue: 0,1:13:43.65,1:13:44.95,Default,,0,0,0,,But as it happens.
-Dialogue: 0,1:13:44.95,1:13:48.05,Default,,0,0,0,,somebody else did a better kernel before we did.
+Dialogue: 0,1:13:39.75,1:13:43.65,Default,,0,0,0,,And clearly, we knew we would eventually get the kernel done.
+Dialogue: 0,1:13:43.65,1:13:48.05,Default,,0,0,0,,But as it happens, somebody else did a better kernel before we did.
 Dialogue: 0,1:13:48.05,1:13:51.65,Default,,0,0,0,,Now in the old days, we had an overall strategy
-Dialogue: 0,1:13:51.65,1:13:55.25,Default,,0,0,0,,from calling people's attention\Nto the importance of freedom
-Dialogue: 0,1:13:55.25,1:13:59.25,Default,,0,0,0,,To the freedom they can have, or not have,\Nwhen they use a computer.
-Dialogue: 0,1:13:59.95,1:14:02.05,Default,,0,0,0,,Well what can we do about it?\NAs far as I can tell,
-Dialogue: 0,1:14:02.05,1:14:08.05,Default,,0,0,0,,the only workable way of trying to\Nchange this make that strategy work again
-Dialogue: 0,1:14:08.45,1:14:14.25,Default,,0,0,0,,is to, spread the word that the operating system\Nyou're using is actually the GNU system.
+Dialogue: 0,1:13:51.65,1:13:55.25,Default,,0,0,0,,from calling people's attention to the importance of freedom
+Dialogue: 0,1:13:55.25,1:13:59.25,Default,,0,0,0,,To the freedom they can have, or not have, when they use a computer.
+Dialogue: 0,1:13:59.95,1:14:02.05,Default,,0,0,0,,Well what can we do about it? As far as I can tell,
+Dialogue: 0,1:14:02.05,1:14:08.05,Default,,0,0,0,,the only workable way of trying to change this make that strategy work again
+Dialogue: 0,1:14:08.45,1:14:14.25,Default,,0,0,0,,is to, spread the word that the operating system you're using is actually the GNU system.
 Dialogue: 0,1:14:14.35,1:14:16.55,Default,,0,0,0,,Somewhat modified of course.
 Dialogue: 0,1:14:17.65,1:14:19.55,Default,,0,0,0,,And when people know this,
-Dialogue: 0,1:14:19.55,1:14:23.05,Default,,0,0,0,,they'll take a look at the reasons\Nwe developed this system.
+Dialogue: 0,1:14:19.55,1:14:23.05,Default,,0,0,0,,they'll take a look at the reasons we developed this system.
 Dialogue: 0,1:14:23.05,1:14:24.95,Default,,0,0,0,,They'll think about these issues.
 Dialogue: 0,1:14:24.95,1:14:27.75,Default,,0,0,0,,And some of them will decide they agree.
-Dialogue: 0,1:14:27.75,1:14:31.05,Default,,0,0,0,,So I ask people,\Nplease tell the people this is the GNU system.
-Dialogue: 0,1:14:31.05,1:14:35.05,Default,,0,0,0,,It's the combination of GNU and Linux\Nso we can call it GNU/Linux
-Dialogue: 0,1:14:41.05,1:14:44.35,Default,,0,0,0,,[ So Larry, when you were at Stanford\N8, 9 years ago during your Ph.D
+Dialogue: 0,1:14:27.75,1:14:31.05,Default,,0,0,0,,So I ask people, please tell the people this is the GNU system.
+Dialogue: 0,1:14:31.05,1:14:35.05,Default,,0,0,0,,It's the combination of GNU and Linux so we can call it GNU/Linux
+Dialogue: 0,1:14:41.05,1:14:44.35,Default,,0,0,0,,[ So Larry, when you were at Stanford 8, 9 years ago during your Ph.D
 Dialogue: 0,1:14:44.35,1:14:46.05,Default,,0,0,0,,did you ever think you'd be in this position? ]
 Dialogue: 0,1:14:46.05,1:14:46.95,Default,,0,0,0,,No
 Dialogue: 0,1:14:46.95,1:14:48.35,Default,,0,0,0,,[ All kidding aside. ]
 Dialogue: 0,1:14:48.35,1:14:50.25,Default,,0,0,0,,No I had no idea honestly
-Dialogue: 0,1:14:50.25,1:14:53.05,Default,,0,0,0,,[ What did you think you would be\Nwhen you were finished up with your Ph.D? ]
+Dialogue: 0,1:14:50.25,1:14:53.05,Default,,0,0,0,,[ What did you think you would be when you were finished up with your Ph.D? ]
 Dialogue: 0,1:14:53.05,1:14:54.45,Default,,0,0,0,,You know that's a good question,
 Dialogue: 0,1:14:54.45,1:14:56.75,Default,,0,0,0,,I really didn't have a good idea, I mean.
 Dialogue: 0,1:14:56.75,1:15:00.05,Default,,0,0,0,,Here we are, on this huge show floor.
@@ -1293,20 +1287,19 @@ Dialogue: 0,1:15:03.05,1:15:06.45,Default,,0,0,0,,We had 6,200 people crammed in
 Dialogue: 0,1:15:06.45,1:15:09.75,Default,,0,0,0,,to see the Linux, Linus speak last night.
 Dialogue: 0,1:15:09.75,1:15:11.35,Default,,0,0,0,,Here we are, with, you know,
 Dialogue: 0,1:15:11.35,1:15:14.05,Default,,0,0,0,,all of these huge venders all over the show.
-Dialogue: 0,1:15:14.05,1:15:17.15,Default,,0,0,0,,I..It's, just, you have no idea that\Nthis is gonna happen.
-Dialogue: 0,1:15:17.15,1:15:19.95,Default,,0,0,0,,I mean this is just this little operating system\Nthat we're happy with.
+Dialogue: 0,1:15:14.05,1:15:17.15,Default,,0,0,0,,I..It's, just, you have no idea that this is gonna happen.
+Dialogue: 0,1:15:17.15,1:15:19.95,Default,,0,0,0,,I mean this is just this little operating system that we're happy with.
 Dialogue: 0,1:15:19.95,1:15:21.95,Default,,0,0,0,,that a few people cared about, you know,
-Dialogue: 0,1:15:21.95,1:15:23.95,Default,,0,0,0,,I thought I'd have a nice little\Nconsulting business.
-Dialogue: 0,1:15:23.95,1:15:25.35,Default,,0,0,0,,And here I am suddenly,
-Dialogue: 0,1:15:25.35,1:15:27.85,Default,,0,0,0,,with all of this huge show going on.
+Dialogue: 0,1:15:21.95,1:15:23.95,Default,,0,0,0,,I thought I'd have a nice little consulting business.
+Dialogue: 0,1:15:23.95,1:15:27.85,Default,,0,0,0,,And here I am suddenly, with all of this huge show going on.
 Dialogue: 0,1:15:27.85,1:15:28.85,Default,,0,0,0,,It's just incredible.
-Dialogue: 0,1:15:28.85,1:15:32.05,Default,,0,0,0,,I mean, a year ago, you could look and say,\Nyou know, this is gonna be big
+Dialogue: 0,1:15:28.85,1:15:32.05,Default,,0,0,0,,I mean, a year ago, you could look and say, you know, this is gonna be big
 Dialogue: 0,1:15:32.05,1:15:33.85,Default,,0,0,0,,and everyone standing at the show going
 Dialogue: 0,1:15:33.85,1:15:36.25,Default,,0,0,0,,"You know the show was big last year,
 Dialogue: 0,1:15:36.25,1:15:39.25,Default,,0,0,0,,is it gonna, is it gonna be as big as this year?"
 Dialogue: 0,1:15:39.35,1:15:40.55,Default,,0,0,0,,The you remind them
 Dialogue: 0,1:15:40.55,1:15:42.75,Default,,0,0,0,,"You know, last year was only 6 month ago."
-Dialogue: 0,1:15:42.85,1:15:44.75,Default,,0,0,0,,And then they go "Oh, , Linux time".
+Dialogue: 0,1:15:42.85,1:15:44.75,Default,,0,0,0,,And then they go "Oh, Linux time".
 Dialogue: 0,1:16:11.45,1:16:13.65,Default,,0,0,0,,So leading up to the IPO, uh...
 Dialogue: 0,1:16:13.65,1:16:19.65,Default,,0,0,0,,we had arrived actually in San Diego\Non Tuesday night
 Dialogue: 0,1:16:19.95,1:16:23.95,Default,,0,0,0,,We spent Wednesday morning meeting investors\Nin San Diego.
