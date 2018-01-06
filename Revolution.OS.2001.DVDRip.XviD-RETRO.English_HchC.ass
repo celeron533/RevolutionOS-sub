@@ -16,9 +16,9 @@ Video File: ../../../Desktop/Disk1.mkv
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 1.000000
-Scroll Position: 727
-Active Line: 732
-Video Position: 61498
+Scroll Position: 995
+Active Line: 1001
+Video Position: 85938
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -803,44 +803,42 @@ Dialogue: 0,0:44:45.55,0:44:49.55,Default,,0,0,0,,who was co-founder of Netscape
 Dialogue: 0,0:44:49.55,0:44:51.35,Default,,0,0,0,,on the senior management team at Netscape.
 Dialogue: 0,0:44:51.35,0:44:55.35,Default,,0,0,0,,Mark then gave a copy of the paper to several other people within Netscape management,
 Dialogue: 0,0:44:55.45,0:44:57.55,Default,,0,0,0,,including Jim Barksdale.
-Dialogue: 0,0:44:57.55,0:45:00.65,Default,,0,0,0,,I'm not sure exactly when Jim and the other senior managers
-Dialogue: 0,0:45:00.65,0:45:02.75,Default,,0,0,0,,made the actual decision,
+Dialogue: 0,0:44:57.55,0:45:02.75,Default,,0,0,0,,I'm not sure exactly when Jim and the other senior managers made the actual decision,
 Dialogue: 0,0:45:03.45,0:45:05.75,Default,,0,0,0,,I believe it was in early January sometime.
-Dialogue: 0,0:45:05.85,0:45:10.35,Default,,0,0,0,,Netscape actually announced that it was gonna\Nrelease the source code on Jan 22nd,
-Dialogue: 0,0:45:10.85,0:45:14.35,Default,,0,0,0,,the same time it was going to give\NCommunicator away for free.
+Dialogue: 0,0:45:05.85,0:45:10.35,Default,,0,0,0,,Netscape actually announced that it was gonna release the source code on Jan 22nd,
+Dialogue: 0,0:45:10.85,0:45:14.35,Default,,0,0,0,,the same time it was going to give Communicator away for free.
 Dialogue: 0,0:45:14.75,0:45:17.45,Default,,0,0,0,,When Netscape decided to release the source code,
 Dialogue: 0,0:45:17.45,0:45:19.85,Default,,0,0,0,,people sort of got a wake up notice and said
-Dialogue: 0,0:45:19.85,0:45:23.35,Default,,0,0,0,,"Hey, maybe there is something to this idea\Nof releasing source code
-Dialogue: 0,0:45:23.35,0:45:26.85,Default,,0,0,0,,and doing development with people\Noutside your company."
-Dialogue: 0,0:45:27.85,0:45:32.65,Default,,0,0,0,,So Netscape's decision brought a lot of\Npublic attention to the idea of Free Software,
+Dialogue: 0,0:45:19.85,0:45:23.35,Default,,0,0,0,,"Hey, maybe there is something to this idea of releasing source code
+Dialogue: 0,0:45:23.35,0:45:26.85,Default,,0,0,0,,and doing development with people outside your company."
+Dialogue: 0,0:45:27.85,0:45:32.65,Default,,0,0,0,,So Netscape's decision brought a lot of public attention to the idea of Free Software,
 Dialogue: 0,0:45:32.65,0:45:34.95,Default,,0,0,0,,what became known as Open Source,
-Dialogue: 0,0:45:34.95,0:45:37.45,Default,,0,0,0,,and brought a lot of attention to\Nthe Linux operating system,
-Dialogue: 0,0:45:37.45,0:45:41.45,Default,,0,0,0,,which was one of the most prominent examples of\NOpen Source software at that time.
+Dialogue: 0,0:45:34.95,0:45:37.45,Default,,0,0,0,,and brought a lot of attention to the Linux operating system,
+Dialogue: 0,0:45:37.45,0:45:41.45,Default,,0,0,0,,which was one of the most prominent examples of Open Source software at that time.
 Dialogue: 0,0:45:46.95,0:45:50.25,Default,,0,0,0,,This is our first office, Mountain View, California.
 Dialogue: 0,0:45:50.25,0:45:52.65,Default,,0,0,0,,We moved here in early 1995.
 Dialogue: 0,0:45:52.65,0:45:54.55,Default,,0,0,0,,This is 4,000 square feet.
-Dialogue: 0,0:45:54.55,0:46:01.15,Default,,0,0,0,,It was an incredible leap of faith for us to\Nmove out and take the company to our own office.
-Dialogue: 0,0:46:01.15,0:46:04.15,Default,,0,0,0,,Now what's really important about this place
-Dialogue: 0,0:46:04.15,0:46:07.75,Default,,0,0,0,,is that this is the office\Nwhere the term "Open Source" was invented.
-Dialogue: 0,0:46:07.75,0:46:12.45,Default,,0,0,0,,If you walk in to an executive's office\Nand say "Free Software",
-Dialogue: 0,0:46:12.75,0:46:16.55,Default,,0,0,0,,OK, If you're lucky, the response\Nyou'll get is something like,
-Dialogue: 0,0:46:16.55,0:46:23.05,Default,,0,0,0,,"hmm, hmm, Free Software, must be\Ncheap, shoddy, worthless."
-Dialogue: 0,0:46:23.05,0:46:27.05,Default,,0,0,0,,Uh, and if you're not lucky,\Nit has associations with, uh.
-Dialogue: 0,0:46:28.45,0:46:32.45,Default,,0,0,0,,with the Free Software Foundation's\Nwholesale attack on intellectual property rights,
-Dialogue: 0,0:46:32.85,0:46:35.45,Default,,0,0,0,,which regardless of what\Nyou think about the ethics of that,
-Dialogue: 0,0:46:35.45,0:46:39.45,Default,,0,0,0,,it's lousy marketing, it's not something\Nthat businesses want to hear.
+Dialogue: 0,0:45:54.55,0:46:01.15,Default,,0,0,0,,It was an incredible leap of faith for us to move out and take the company to our own office.
+Dialogue: 0,0:46:01.15,0:46:04.35,Default,,0,0,0,,Now what's really important about this place is
+Dialogue: 0,0:46:04.35,0:46:07.75,Default,,0,0,0,,that this is the office where the term "Open Source" was invented.
+Dialogue: 0,0:46:07.75,0:46:12.45,Default,,0,0,0,,If you walk in to an executive's office and say "Free Software",
+Dialogue: 0,0:46:12.75,0:46:16.55,Default,,0,0,0,,OK, If you're lucky, the response you'll get is something like,
+Dialogue: 0,0:46:16.55,0:46:23.05,Default,,0,0,0,,"hmm, hmm, Free Software, must be cheap, shoddy, worthless."
+Dialogue: 0,0:46:23.05,0:46:27.05,Default,,0,0,0,,Uh, and if you're not lucky, it has associations with, uh.
+Dialogue: 0,0:46:28.45,0:46:32.45,Default,,0,0,0,,with the Free Software Foundation's wholesale attack on intellectual property rights,
+Dialogue: 0,0:46:32.85,0:46:35.45,Default,,0,0,0,,which regardless of what you think about the ethics of that,
+Dialogue: 0,0:46:35.45,0:46:39.45,Default,,0,0,0,,it's lousy marketing, it's not something that businesses want to hear.
 Dialogue: 0,0:46:39.95,0:46:42.35,Default,,0,0,0,,So Eric Raymond knew there was a problem.
 Dialogue: 0,0:46:42.35,0:46:44.55,Default,,0,0,0,,We'd been calling this Free Software,
-Dialogue: 0,0:46:44.55,0:46:48.55,Default,,0,0,0,,but people took the term "Free"\Nand associated with "Free of charge",
-Dialogue: 0,0:46:48.95,0:46:51.65,Default,,0,0,0,,they thought they couldn't make money or couldn't sell,
-Dialogue: 0,0:46:51.65,0:46:53.55,Default,,0,0,0,,which is exactly the wrong concept.
-Dialogue: 0,0:46:53.55,0:46:59.15,Default,,0,0,0,,We wanted to get across the idea the software\Nwas open and that the source code was available.
+Dialogue: 0,0:46:44.55,0:46:48.55,Default,,0,0,0,,but people took the term "Free" and associated with "Free of charge",
+Dialogue: 0,0:46:48.95,0:46:53.55,Default,,0,0,0,,they thought they couldn't make money or couldn't sell which is exactly the wrong concept.
+Dialogue: 0,0:46:53.55,0:46:59.15,Default,,0,0,0,,We wanted to get across the idea the software was open and that the source code was available.
 Dialogue: 0,0:46:59.15,0:47:01.45,Default,,0,0,0,,Very important pieces.
-Dialogue: 0,0:47:01.45,0:47:05.15,Default,,0,0,0,,We had this meeting at the VA offices\Nin Mountain View, where Eric,
-Dialogue: 0,0:47:05.15,0:47:11.65,Default,,0,0,0,,myself, and Christine Peterson from Foresight Institute\Njoined us as well as some other people.
-Dialogue: 0,0:47:11.65,0:47:14.55,Default,,0,0,0,,Christine Peterson was there by phone. uh..
-Dialogue: 0,0:47:16.45,0:47:20.05,Default,,0,0,0,,Jon "Mad dog" Hall was also there by phone. uh..
-Dialogue: 0,0:47:20.85,0:47:24.75,Default,,0,0,0,,And then Todd Anderson, who later worked for\NSuSE for a while was there.
+Dialogue: 0,0:47:01.45,0:47:05.15,Default,,0,0,0,,We had this meeting at the VA offices in Mountain View, where Eric,
+Dialogue: 0,0:47:05.15,0:47:11.65,Default,,0,0,0,,myself, and Christine Peterson from Foresight Institute joined us as well as some other people.
+Dialogue: 0,0:47:11.65,0:47:15.55,Default,,0,0,0,,Christine Peterson was there by phone. uh..
+Dialogue: 0,0:47:16.45,0:47:20.85,Default,,0,0,0,,Jon "Mad dog" Hall was also there by phone. uh..
+Dialogue: 0,0:47:20.85,0:47:24.75,Default,,0,0,0,,And then Todd Anderson, who later worked for SuSE for a while was there.
 Dialogue: 0,0:47:24.75,0:47:27.75,Default,,0,0,0,,Sam Ockman who now runs Penguin Computing was there.
 Dialogue: 0,0:47:27.75,0:47:31.15,Default,,0,0,0,,He was uh.. He was an employee of VA at the time
 Dialogue: 0,0:47:31.15,0:47:34.05,Default,,0,0,0,,Well, we came up with the concept of Open Source,
@@ -849,120 +847,99 @@ Dialogue: 0,0:47:37.35,0:47:40.55,Default,,0,0,0,,He was interested, He liked it
 Dialogue: 0,0:47:40.55,0:47:43.05,Default,,0,0,0,,Eventually we came up with something that replaced "Free Software".
 Dialogue: 0,0:47:43.05,0:47:44.65,Default,,0,0,0,,That was the beginning of Open Source.
 Dialogue: 0,0:47:44.65,0:47:46.75,Default,,0,0,0,,[ How did you chose words "Open Source"? ]
-Dialogue: 0,0:47:47.55,0:47:51.55,Default,,0,0,0,,You know, I think Christine Peterson was\Nthe person who really came up with the idea.
-Dialogue: 0,0:47:51.95,0:47:58.75,Default,,0,0,0,,Uh, we wanted, again, the idea\Nthat the source code was out there and it was open.
+Dialogue: 0,0:47:47.55,0:47:51.55,Default,,0,0,0,,You know, I think Christine Peterson was the person who really came up with the idea.
+Dialogue: 0,0:47:51.95,0:47:58.75,Default,,0,0,0,,Uh, we wanted, again, the idea that the source code was out there and it was open.
 Dialogue: 0,0:47:58.75,0:48:00.15,Default,,0,0,0,,There weren't many choices.
-Dialogue: 0,0:48:02.25,0:48:06.25,Default,,0,0,0,,Well, since the fist three recipients have\Nspoken for the Open Source movement,
-Dialogue: 0,0:48:07.25,0:48:10.75,Default,,0,0,0,,I think I should speak about\Nthe Free Software movement.
-Dialogue: 0,0:48:10.75,0:48:14.25,Default,,0,0,0,,The Open Source movement,\Nfocuses on practical advantages
+Dialogue: 0,0:48:02.25,0:48:06.25,Default,,0,0,0,,Well, since the fist three recipients have spoken for the Open Source movement,
+Dialogue: 0,0:48:07.25,0:48:10.75,Default,,0,0,0,,I think I should speak about the Free Software movement.
+Dialogue: 0,0:48:10.75,0:48:14.25,Default,,0,0,0,,The Open Source movement, focuses on practical advantages
 Dialogue: 0,0:48:14.25,0:48:16.95,Default,,0,0,0,,that you can get by having a community of users
 Dialogue: 0,0:48:16.95,0:48:20.95,Default,,0,0,0,,who can cooperate on interchanging and improving software.
 Dialogue: 0,0:48:21.05,0:48:24.85,Default,,0,0,0,,I agree completely with the points they make about that.
-Dialogue: 0,0:48:24.85,0:48:29.35,Default,,0,0,0,,The reason why my views are different,\Nwhile I am in the Free Software movement
+Dialogue: 0,0:48:24.85,0:48:29.35,Default,,0,0,0,,The reason why my views are different, while I am in the Free Software movement
 Dialogue: 0,0:48:29.35,0:48:31.45,Default,,0,0,0,,rather than the Open Source movement,
-Dialogue: 0,0:48:31.45,0:48:34.45,Default,,0,0,0,,is that I believe there's something\Nmore important at stake.
-Dialogue: 0,0:48:34.45,0:48:39.45,Default,,0,0,0,,That freedom to cooperate with other people,\Nfreedom to have a community...
+Dialogue: 0,0:48:31.45,0:48:34.45,Default,,0,0,0,,is that I believe there's something more important at stake.
+Dialogue: 0,0:48:34.45,0:48:39.45,Default,,0,0,0,,That freedom to cooperate with other people, freedom to have a community...
 Dialogue: 0,0:48:39.45,0:48:41.65,Default,,0,0,0,,is important for our quality of life.
-Dialogue: 0,0:48:41.65,0:48:45.65,Default,,0,0,0,,It's important for having a good society\Nthat we can live in.
-Dialogue: 0,0:48:45.75,0:48:51.75,Default,,0,0,0,,And that that is in my view, even more important\Nthan having powerful and reliable software.
-Dialogue: 0,0:48:52.25,0:48:56.25,Default,,0,0,0,,But I think some of the people in\Nthe Free Software camp...
-Dialogue: 0,0:48:57.05,0:49:00.45,Default,,0,0,0,,are a little scared by the commercialization.
-Dialogue: 0,0:49:02.45,0:49:06.45,Default,,0,0,0,,And uh, you know,\Nof course a rebel is put off by success.
+Dialogue: 0,0:48:41.65,0:48:45.65,Default,,0,0,0,,It's important for having a good society that we can live in.
+Dialogue: 0,0:48:45.75,0:48:51.75,Default,,0,0,0,,And that that is in my view, even more important than having powerful and reliable software.
+Dialogue: 0,0:48:52.25,0:49:00.45,Default,,0,0,0,,But I think some of the people in the Free Software camp are a little scared by the commercialization.
+Dialogue: 0,0:49:02.45,0:49:06.45,Default,,0,0,0,,And uh, you know, of course a rebel is put off by success.
 Dialogue: 0,0:49:06.75,0:49:10.35,Default,,0,0,0,,uh.. I think that commercialization is very important.
 Dialogue: 0,0:49:10.35,0:49:13.15,Default,,0,0,0,,We want to mainstream this software,
-Dialogue: 0,0:49:13.15,0:49:18.35,Default,,0,0,0,,and I work with Richard Stallman\Nwho's the gray haired man of Free Software,
-Dialogue: 0,0:49:19.85,0:49:22.85,Default,,0,0,0,,uh, on a regular basis, and I don't feel
-Dialogue: 0,0:49:22.85,0:49:26.35,Default,,0,0,0,,I have any philosophical differences.
+Dialogue: 0,0:49:13.15,0:49:18.35,Default,,0,0,0,,and I work with Richard Stallman who's the gray haired man of Free Software,
+Dialogue: 0,0:49:19.85,0:49:26.35,Default,,0,0,0,,uh, on a regular basis, and I don't feel I have any philosophical differences.
 Dialogue: 0,0:49:26.35,0:49:29.45,Default,,0,0,0,,me as author the Open Source definition and
 Dialogue: 0,0:49:29.45,0:49:34.75,Default,,0,0,0,,he is originator of free software as an organized thing,
-Dialogue: 0,0:49:36.25,0:49:39.25,Default,,0,0,0,,except for one thing.\NRichard thinks that all software should be free,
-Dialogue: 0,0:49:39.25,0:49:43.95,Default,,0,0,0,,and I think that free software and\Nnon-free software should coexist.
+Dialogue: 0,0:49:36.25,0:49:39.25,Default,,0,0,0,,except for one thing. Richard thinks that all software should be free,
+Dialogue: 0,0:49:39.25,0:49:43.95,Default,,0,0,0,,and I think that free software and non-free software should coexist.
 Dialogue: 0,0:49:43.95,0:49:45.65,Default,,0,0,0,,That's the only difference we have.
 Dialogue: 0,0:49:46.45,0:49:49.25,Default,,0,0,0,,Uh, we decided early on that what we needed,
-Dialogue: 0,0:49:49.25,0:49:53.25,Default,,0,0,0,,a..a definition, we needed a kind of\Nmeta-license to define the term "Open Source".
-Dialogue: 0,0:49:53.45,0:49:54.25,Default,,0,0,0,,a, a definition, we needed a kind of\Nmeta-license to define the term "Open Source".
-Dialogue: 0,0:49:54.25,0:49:58.05,Default,,0,0,0,,And what we came up with is a document called\N"The Open Source Definition".
-Dialogue: 0,0:49:58.05,0:50:03.25,Default,,0,0,0,,It's derived from the Debian Free Software guidelines\Nthat were originally written by Bruce Parens.
+Dialogue: 0,0:49:49.25,0:49:54.25,Default,,0,0,0,,a..a definition, we needed a kind of meta-license to define the term "Open Source".
+Dialogue: 0,0:49:54.25,0:49:58.05,Default,,0,0,0,,And what we came up with is a document called "The Open Source Definition".
+Dialogue: 0,0:49:58.05,0:50:03.25,Default,,0,0,0,,It's derived from the Debian Free Software guidelines that were originally written by Bruce Parens.
 Dialogue: 0,0:50:03.75,0:50:07.05,Default,,0,0,0,,I'd written the original draft of that, uh,
 Dialogue: 0,0:50:07.05,0:50:10.55,Default,,0,0,0,,discussed it for a month with the Debian developers
 Dialogue: 0,0:50:10.55,0:50:13.25,Default,,0,0,0,,Debian is a Linux distribution
 Dialogue: 0,0:50:13.25,0:50:16.45,Default,,0,0,0,,And made it their project policy
-Dialogue: 0,0:50:16.45,0:50:19.35,Default,,0,0,0,,And Eric and I decided to relabel
-Dialogue: 0,0:50:20.15,0:50:22.25,Default,,0,0,0,,what we'd written for Debian
-Dialogue: 0,0:50:22.25,0:50:23.55,Default,,0,0,0,,as The Open Source definition
-Dialogue: 0,0:50:23.55,0:50:25.85,Default,,0,0,0,,and to say Open Source is a software
-Dialogue: 0,0:50:26.25,0:50:28.75,Default,,0,0,0,,that gives you a list of nine rights
+Dialogue: 0,0:50:16.45,0:50:23.55,Default,,0,0,0,,And Eric and I decided to relabel what we'd written for Debian as The Open Source definition
+Dialogue: 0,0:50:23.55,0:50:28.75,Default,,0,0,0,,and to say Open Source is a software that gives you a list of nine rights
 Dialogue: 0,0:50:28.75,0:50:31.05,Default,,0,0,0,,which is in the Open Source definition.
 Dialogue: 0,0:50:32.05,0:50:34.85,Default,,0,0,0,,The first right is Free Redistribution
 Dialogue: 0,0:50:34.85,0:50:37.25,Default,,0,0,0,,This doesn't mean Free as in no price
 Dialogue: 0,0:50:37.25,0:50:39.45,Default,,0,0,0,,It means liberty
-Dialogue: 0,0:50:40.25,0:50:43.05,Default,,0,0,0,,Um, you have to be free to redistribute
-Dialogue: 0,0:50:43.05,0:50:44.55,Default,,0,0,0,,your software to someone else
+Dialogue: 0,0:50:40.25,0:50:44.55,Default,,0,0,0,,Um, you have to be free to redistribute your software to someone else
 Dialogue: 0,0:50:44.55,0:50:46.75,Default,,0,0,0,,And actually no price is a side effect
 Dialogue: 0,0:50:46.75,0:50:50.05,Default,,0,0,0,,You can charge for that redistribution or not
 Dialogue: 0,0:50:50.05,0:50:52.25,Default,,0,0,0,,It has to come with source code
 Dialogue: 0,0:50:52.55,0:50:55.95,Default,,0,0,0,,So that someone can maintain a program.
-Dialogue: 0,0:50:55.95,0:50:58.65,Default,,0,0,0,,If they go from a PC to a Mac for example
-Dialogue: 0,0:50:59.05,0:51:02.05,Default,,0,0,0,,they can change the software.
+Dialogue: 0,0:50:55.95,0:51:02.05,Default,,0,0,0,,If they go from a PC to a Mac for example they can change the software.
 Dialogue: 0,0:51:02.05,0:51:04.45,Default,,0,0,0,,Derived Works have to be possible
 Dialogue: 0,0:51:04.45,0:51:07.15,Default,,0,0,0,,If someone has to improve your program
 Dialogue: 0,0:51:07.15,0:51:12.45,Default,,0,0,0,,um, they should be able to distribute the result
-Dialogue: 0,0:51:12.45,0:51:15.95,Default,,0,0,0,,uh, There is a provision about integrity
-Dialogue: 0,0:51:15.95,0:51:17.25,Default,,0,0,0,,of the author's source code
-Dialogue: 0,0:51:17.45,0:51:22.35,Default,,0,0,0,,which says that the author can sort of\Nmaintain their honor
-Dialogue: 0,0:51:22.35,0:51:24.15,Default,,0,0,0,,and if you make a change
-Dialogue: 0,0:51:24.55,0:51:26.85,Default,,0,0,0,,you might have to change the name of the program
+Dialogue: 0,0:51:12.45,0:51:17.25,Default,,0,0,0,,uh, There is a provision about integrity of the author's source code
+Dialogue: 0,0:51:17.45,0:51:22.35,Default,,0,0,0,,which says that the author can sort of maintain their honor
+Dialogue: 0,0:51:22.35,0:51:26.85,Default,,0,0,0,,and if you make a change you might have to change the name of the program
 Dialogue: 0,0:51:26.85,0:51:29.55,Default,,0,0,0,,or mark out your change very clearly
 Dialogue: 0,0:51:29.55,0:51:32.95,Default,,0,0,0,,so that your change doesn't reflect on the author
 Dialogue: 0,0:51:32.95,0:51:36.75,Default,,0,0,0,,There is no discrimination against people or groups.
 Dialogue: 0,0:51:36.85,0:51:38.65,Default,,0,0,0,,Uh, the example I usually use is
 Dialogue: 0,0:51:39.35,0:51:41.85,Default,,0,0,0,,You can't stop an abortion clinic
 Dialogue: 0,0:51:41.85,0:51:45.05,Default,,0,0,0,,or an anti-abortion activist from using the software
-Dialogue: 0,0:51:45.05,0:51:48.65,Default,,0,0,0,,There is no discrimination against fields of endeavor
-Dialogue: 0,0:51:49.05,0:51:51.85,Default,,0,0,0,,And that means the software has to be usable
-Dialogue: 0,0:51:52.05,0:51:55.35,Default,,0,0,0,,in a business as well as in a school
-Dialogue: 0,0:51:55.35,0:51:58.85,Default,,0,0,0,,The license has to be distributable
+Dialogue: 0,0:51:45.05,0:51:49.05,Default,,0,0,0,,There is no discrimination against fields of endeavor
+Dialogue: 0,0:51:49.05,0:51:55.35,Default,,0,0,0,,And that means the software has to be usable in a business as well as in a school
+Dialogue: 0,0:51:55.55,0:51:58.85,Default,,0,0,0,,The license has to be distributable
 Dialogue: 0,0:51:58.95,0:51:59.95,Default,,0,0,0,,In other words
 Dialogue: 0,0:52:00.15,0:52:03.35,Default,,0,0,0,,I have to be able to give that license to someone
-Dialogue: 0,0:52:03.35,0:52:06.75,Default,,0,0,0,,and that license then should work
-Dialogue: 0,0:52:06.75,0:52:09.45,Default,,0,0,0,,if that someone gives it to yet a third person
+Dialogue: 0,0:52:03.35,0:52:09.45,Default,,0,0,0,,and that license then should work if that someone gives it to yet a third person
 Dialogue: 0,0:52:09.45,0:52:13.25,Default,,0,0,0,,The license can't be specific to a product
 Dialogue: 0,0:52:13.25,0:52:14.45,Default,,0,0,0,,in other words
 Dialogue: 0,0:52:14.45,0:52:19.65,Default,,0,0,0,,if I distribute my software on a Red Hat system
-Dialogue: 0,0:52:19.65,0:52:21.25,Default,,0,0,0,,the license can't say
+Dialogue: 0,0:52:19.65,0:52:21.25,Default,,0,0,0,,the license can't say:
 Dialogue: 0,0:52:21.25,0:52:24.95,Default,,0,0,0,,you can't distribute this on a SuSE or Debian system
 Dialogue: 0,0:52:24.95,0:52:28.45,Default,,0,0,0,,The license can't contaminate other software
 Dialogue: 0,0:52:28.45,0:52:34.85,Default,,0,0,0,,So if I distribute this on a CD with another program
-Dialogue: 0,0:52:34.85,0:52:38.05,Default,,0,0,0,,It can't say that other program must be free
-Dialogue: 0,0:52:38.05,0:52:40.95,Default,,0,0,0,,otherwise you can't distribute my software
-Dialogue: 0,0:52:40.95,0:52:43.65,Default,,0,0,0,,And then the only other part of
-Dialogue: 0,0:52:43.65,0:52:44.85,Default,,0,0,0,,the Open Source definition
-Dialogue: 0,0:52:44.85,0:52:47.65,Default,,0,0,0,,is a list of licenses that were accepted
+Dialogue: 0,0:52:34.85,0:52:40.95,Default,,0,0,0,,It can't say that other program must be free otherwise you can't distribute my software
+Dialogue: 0,0:52:40.95,0:52:47.65,Default,,0,0,0,,And then the only other part of the Open Source definition is a list of licenses that were accepted
 Dialogue: 0,0:52:47.65,0:52:51.55,Default,,0,0,0,,And the ones that we started with were the GPL
-Dialogue: 0,0:52:51.55,0:52:54.65,Default,,0,0,0,,which was actually the example for a lot of
-Dialogue: 0,0:52:54.65,0:52:58.15,Default,,0,0,0,,what's in the Open Source definition in the BSD license
+Dialogue: 0,0:52:51.55,0:52:58.15,Default,,0,0,0,,which was actually the example for a lot of what's in the Open Source definition in the BSD license
 Dialogue: 0,0:52:58.15,0:53:02.15,Default,,0,0,0,,because software for BSD system pre-existed Linux
-Dialogue: 0,0:53:07.95,0:53:11.75,Default,,0,0,0,,I think the next moment that I thought\Nwas really pivotal
+Dialogue: 0,0:53:07.95,0:53:11.75,Default,,0,0,0,,I think the next moment that I thought was really pivotal
 Dialogue: 0,0:53:11.75,0:53:13.95,Default,,0,0,0,,was when the database vendors flipped over
-Dialogue: 0,0:53:13.95,0:53:15.95,Default,,0,0,0,,which happened about three months sooner
-Dialogue: 0,0:53:15.95,0:53:17.05,Default,,0,0,0,,than I expected to
+Dialogue: 0,0:53:13.95,0:53:17.05,Default,,0,0,0,,which happened about three months sooner than I expected to
 Dialogue: 0,0:53:17.05,0:53:19.45,Default,,0,0,0,,and actually happened in late July early August
-Dialogue: 0,0:53:19.45,0:53:23.45,Default,,0,0,0,,commitments to do one ports from Oracle and
-Dialogue: 0,0:53:23.75,0:53:26.55,Default,,0,0,0,,and Sybase and the other key database vendors.
+Dialogue: 0,0:53:19.45,0:53:26.55,Default,,0,0,0,,commitments to do one ports from Oracle and and Sybase and the other key database vendors.
 Dialogue: 0,0:53:26.55,0:53:27.85,Default,,0,0,0,,[ And why was that critical? ]
-Dialogue: 0,0:53:27.85,0:53:29.95,Default,,0,0,0,,because we knew that in order for
-Dialogue: 0,0:53:29.95,0:53:32.25,Default,,0,0,0,,the open source story to be credible
-Dialogue: 0,0:53:32.25,0:53:34.95,Default,,0,0,0,,and especially in order for the Linux story\Nto be credible,
-Dialogue: 0,0:53:34.95,0:53:37.95,Default,,0,0,0,,we'd have to get commitments from\Nindependent software vendors
-Dialogue: 0,0:53:37.95,0:53:41.45,Default,,0,0,0,,to do ports of their applications to these platforms
-Dialogue: 0,0:53:41.45,0:53:44.05,Default,,0,0,0,,and I was actually kind of worried
+Dialogue: 0,0:53:27.85,0:53:32.25,Default,,0,0,0,,because we knew that in order for the open source story to be credible
+Dialogue: 0,0:53:32.25,0:53:34.95,Default,,0,0,0,,and especially in order for the Linux story to be credible,
+Dialogue: 0,0:53:34.95,0:53:37.95,Default,,0,0,0,,we'd have to get commitments from independent software vendors
+Dialogue: 0,0:53:37.95,0:53:41.45,Default,,0,0,0,,to do ports of their applications to these platforms.
+Dialogue: 0,0:53:41.45,0:53:44.05,Default,,0,0,0,,And I was actually kind of worried
 Dialogue: 0,0:53:44.05,0:53:46.45,Default,,0,0,0,,I thought that we were in a window of vulnerability
-Dialogue: 0,0:53:46.45,0:53:49.85,Default,,0,0,0,,between the time that we announced\Nthe open source campaign
+Dialogue: 0,0:53:46.45,0:53:49.85,Default,,0,0,0,,between the time that we announced the open source campaign
 Dialogue: 0,0:53:49.85,0:53:51.65,Default,,0,0,0,,and the database vendors flipped over
-Dialogue: 0,0:53:51.65,0:53:54.25,Default,,0,0,0,,that was the point at which hostile action
-Dialogue: 0,0:53:54.25,0:53:57.95,Default,,0,0,0,,by Microsoft or other close-source software companies
-Dialogue: 0,0:53:57.95,0:53:59.25,Default,,0,0,0,,that was the point in which
-Dialogue: 0,0:53:59.25,0:54:01.75,Default,,0,0,0,,a serious marketing blitz might have sunk us
+Dialogue: 0,0:53:51.65,0:53:57.95,Default,,0,0,0,,that was the point at which hostile action by Microsoft or other close-source software companies
+Dialogue: 0,0:53:57.95,0:54:01.75,Default,,0,0,0,,that was the point in which a serious marketing blitz might have sunk us
 Dialogue: 0,0:54:01.75,0:54:05.75,Default,,0,0,0,,but once the big database vendors flipped over
 Dialogue: 0,0:54:05.75,0:54:08.25,Default,,0,0,0,,that opened the way for other ISVs
 Dialogue: 0,0:54:08.25,0:54:10.15,Default,,0,0,0,,that started the snow ball effect going
@@ -977,113 +954,91 @@ Dialogue: 0,0:54:24.35,0:54:26.95,Default,,0,0,0,,It was people like Cisco that 
 Dialogue: 0,0:54:26.95,0:54:29.45,Default,,0,0,0,,people like, you know, those dot-com companies
 Dialogue: 0,0:54:29.45,0:54:31.85,Default,,0,0,0,,were started to show up on our customer list
 Dialogue: 0,0:54:31.85,0:54:34.45,Default,,0,0,0,,and eventually the venture capitalists
-Dialogue: 0,0:54:34.45,0:54:36.45,Default,,0,0,0,,you know, they kept looking at it
-Dialogue: 0,0:54:36.45,0:54:38.25,Default,,0,0,0,,they kept saying "Oh, we can't quite do it"
+Dialogue: 0,0:54:34.45,0:54:38.25,Default,,0,0,0,,you know, they kept looking at it they kept saying "Oh, we can't quite do it"
 Dialogue: 0,0:54:38.25,0:54:41.45,Default,,0,0,0,,Finally, Linus appeared on the cover of Fortune
 Dialogue: 0,0:54:41.45,0:54:43.75,Default,,0,0,0,,There was something happening with Open Source
-Dialogue: 0,0:54:43.75,0:54:47.75,Default,,0,0,0,,Well, at that point, the venture capitalists\Ncouldn't ignore it
+Dialogue: 0,0:54:43.75,0:54:47.75,Default,,0,0,0,,Well, at that point, the venture capitalists couldn't ignore it
 Dialogue: 0,0:54:48.15,0:54:51.05,Default,,0,0,0,,they just got sick of hearing about Linux everywhere
 Dialogue: 0,0:54:51.05,0:54:52.95,Default,,0,0,0,,and they got tired of me, just, you know
-Dialogue: 0,0:54:52.95,0:54:56.35,Default,,0,0,0,,showing it to them every,\Nat that point it was almost every week
-Dialogue: 0,0:54:56.35,0:54:58.95,Default,,0,0,0,,So they uh, they decided it was time to invest,
-Dialogue: 0,0:54:58.95,0:55:00.75,Default,,0,0,0,,that there was something happening
+Dialogue: 0,0:54:52.95,0:54:56.35,Default,,0,0,0,,showing it to them every, at that point it was almost every week
+Dialogue: 0,0:54:56.35,0:55:00.75,Default,,0,0,0,,So they uh, they decided it was time to invest, that there was something happening
 Dialogue: 0,0:55:00.75,0:55:04.25,Default,,0,0,0,,I announced Open Source to the world on the Internet
-Dialogue: 0,0:55:04.25,0:55:07.65,Default,,0,0,0,,I did a lot of the early... administrative work of
-Dialogue: 0,0:55:07.65,0:55:11.15,Default,,0,0,0,,starting the Open Source Initiative
-Dialogue: 0,0:55:11.15,0:55:12.95,Default,,0,0,0,,and I think six months later
-Dialogue: 0,0:55:12.95,0:55:15.45,Default,,0,0,0,,I was reading the words Open Source
-Dialogue: 0,0:55:15.45,0:55:18.05,Default,,0,0,0,,in the news all the time
+Dialogue: 0,0:55:04.25,0:55:11.15,Default,,0,0,0,,I did a lot of the early... administrative work of starting the Open Source Initiative
+Dialogue: 0,0:55:11.15,0:55:18.05,Default,,0,0,0,,and I think six months later I was reading the words Open Source in the news all the time
 Dialogue: 0,0:55:18.05,0:55:20.35,Default,,0,0,0,,and was totally astounded
-Dialogue: 0,0:55:20.35,0:55:21.55,Default,,0,0,0,,And a year later, I believe
-Dialogue: 0,0:55:21.55,0:55:25.55,Default,,0,0,0,,Microsoft was talking about releasing some source code
-Dialogue: 0,0:55:26.65,0:55:28.85,Default,,0,0,0,,And someone in the press asked Steve Ballmer
-Dialogue: 0,0:55:28.85,0:55:31.45,Default,,0,0,0,,if they were going to open source their code
+Dialogue: 0,0:55:20.35,0:55:25.55,Default,,0,0,0,,And a year later, I believe Microsoft was talking about releasing some source code
+Dialogue: 0,0:55:26.65,0:55:31.45,Default,,0,0,0,,And someone in the press asked Steve Ballmer if they were going to open source their code
 Dialogue: 0,0:55:31.45,0:55:32.95,Default,,0,0,0,,and Steve Ballmer said,
-Dialogue: 0,0:55:32.95,0:55:36.95,Default,,0,0,0,,"Well, Open Source means more than\Njust releasing the source code"
+Dialogue: 0,0:55:32.95,0:55:36.95,Default,,0,0,0,,"Well, Open Source means more than just releasing the source code"
 Dialogue: 0,0:55:37.25,0:55:39.85,Default,,0,0,0,,And I realized that he had read my document
-Dialogue: 0,0:55:39.85,0:55:42.65,Default,,0,0,0,,and understood it and was now telling\Nthe press about this
-Dialogue: 0,0:55:43.05,0:55:46.05,Default,,0,0,0,,Now if you are like just a guy on the net
-Dialogue: 0,0:55:46.05,0:55:48.35,Default,,0,0,0,,who's not doing this for a job at all
+Dialogue: 0,0:55:39.85,0:55:42.65,Default,,0,0,0,,and understood it and was now telling the press about this
+Dialogue: 0,0:55:43.05,0:55:48.35,Default,,0,0,0,,Now if you are like just a guy on the net who's not doing this for a job at all
 Dialogue: 0,0:55:48.35,0:55:50.15,Default,,0,0,0,,and you sort of write a manifesto
 Dialogue: 0,0:55:50.15,0:55:52.45,Default,,0,0,0,,and it spreads out through the world
-Dialogue: 0,0:55:52.45,0:55:53.45,Default,,0,0,0,,and a year later
-Dialogue: 0,0:55:53.45,0:55:56.55,Default,,0,0,0,,the vice president of Microsoft is talking about that
+Dialogue: 0,0:55:52.45,0:55:56.55,Default,,0,0,0,,and a year later the vice president of Microsoft is talking about that
 Dialogue: 0,0:55:56.55,0:55:59.85,Default,,0,0,0,,You'd think you were on drugs, wouldn't you?
 Dialogue: 0,0:55:59.85,0:56:01.55,Default,,0,0,0,,But that's what really happened
-Dialogue: 0,0:56:07.45,0:56:11.45,Default,,0,0,0,,The Local Users Groups\Ntend to be more than an issue of
+Dialogue: 0,0:56:07.45,0:56:11.45,Default,,0,0,0,,The Local Users Groups tend to be more than an issue of
 Dialogue: 0,0:56:13.35,0:56:15.45,Default,,0,0,0,,building a social network
 Dialogue: 0,0:56:16.65,0:56:22.25,Default,,0,0,0,,especially getting people familiarized with the issues
 Dialogue: 0,0:56:23.85,0:56:28.05,Default,,0,0,0,,also just acting as a kind of supporting network
-Dialogue: 0,0:56:28.15,0:56:33.35,Default,,0,0,0,,for people who, who do not, for example,\Nhave the ability
-Dialogue: 0,0:56:33.35,0:56:36.55,Default,,0,0,0,,to pay for commercial support network
+Dialogue: 0,0:56:28.15,0:56:36.55,Default,,0,0,0,,for people who, who do not, for example, have the ability to pay for commercial support network
 Dialogue: 0,0:56:36.75,0:56:39.15,Default,,0,0,0,,So one thing they're doing in this area
 Dialogue: 0,0:56:39.15,0:56:41.15,Default,,0,0,0,,for example, is they're making these.
 Dialogue: 0,0:56:41.35,0:56:43.15,Default,,0,0,0,,I think it's once a month
-Dialogue: 0,0:56:43.15,0:56:46.85,Default,,0,0,0,,They're having install fests, which means that
-Dialogue: 0,0:56:47.05,0:56:51.35,Default,,0,0,0,,people who have problems getting Linux\Ninstalled on their machines
+Dialogue: 0,0:56:43.15,0:56:46.95,Default,,0,0,0,,They're having install fests, which means that
+Dialogue: 0,0:56:46.95,0:56:51.35,Default,,0,0,0,,people who have problems getting Linux installed on their machines
 Dialogue: 0,0:56:51.55,0:56:53.05,Default,,0,0,0,,or have some issue, I mean
-Dialogue: 0,0:56:53.05,0:56:54.45,Default,,0,0,0,,maybe they've installed Linux
-Dialogue: 0,0:56:54.45,0:56:57.05,Default,,0,0,0,,but want to set up the network in a specific way
-Dialogue: 0,0:56:57.05,0:56:59.15,Default,,0,0,0,,can actually bring in their machines
-Dialogue: 0,0:56:59.15,0:57:00.25,Default,,0,0,0,,to this users group meeting
+Dialogue: 0,0:56:53.05,0:56:57.05,Default,,0,0,0,,maybe they've installed Linux but want to set up the network in a specific way
+Dialogue: 0,0:56:57.05,0:57:00.25,Default,,0,0,0,,can actually bring in their machines to this users group meeting
 Dialogue: 0,0:57:00.25,0:57:03.85,Default,,0,0,0,,And there's a lot of people there willing to help
 Dialogue: 0,0:57:03.85,0:57:07.85,Default,,0,0,0,,who may have seen the same problem before.
 Dialogue: 0,0:57:16.85,0:57:18.55,Default,,0,0,0,,Well, actually things aren't so well.
 Dialogue: 0,0:57:18.55,0:57:21.75,Default,,0,0,0,,I tried it earlier myself. I had problems.
-Dialogue: 0,0:57:21.75,0:57:24.15,Default,,0,0,0,,And so I came to this install fest where
-Dialogue: 0,0:57:24.15,0:57:25.85,Default,,0,0,0,,all the gurus abound.
+Dialogue: 0,0:57:21.75,0:57:25.85,Default,,0,0,0,,And so I came to this install fest where all the gurus abound.
 Dialogue: 0,0:57:25.85,0:57:29.75,Default,,0,0,0,,Hopefully I'll have better luck getting it in.
-Dialogue: 0,0:57:29.75,0:57:32.55,Default,,0,0,0,,Instead of having, uh, sending e-mails, or
-Dialogue: 0,0:57:32.55,0:57:34.45,Default,,0,0,0,,writing to news groups on the Internet
+Dialogue: 0,0:57:29.75,0:57:34.45,Default,,0,0,0,,Instead of having, uh, sending e-mails, or writing to news groups on the Internet
 Dialogue: 0,0:57:34.45,0:57:36.95,Default,,0,0,0,,and waiting several days for the answers sometimes
-Dialogue: 0,0:57:36.95,0:57:39.95,Default,,0,0,0,,it's easy to come here and find other people
-Dialogue: 0,0:57:39.95,0:57:41.15,Default,,0,0,0,,who might know about your problem
+Dialogue: 0,0:57:36.95,0:57:41.15,Default,,0,0,0,,it's easy to come here and find other people who might know about your problem
 Dialogue: 0,0:57:41.15,0:57:43.05,Default,,0,0,0,,and may be able to help you
 Dialogue: 0,0:57:43.05,0:57:44.15,Default,,0,0,0,,And hopefully within a few hours
 Dialogue: 0,0:57:44.15,0:57:46.35,Default,,0,0,0,,you have your machine installed
-Dialogue: 0,0:57:46.35,0:57:50.35,Default,,0,0,0,,Originally I wanted to it install on\Nuh, my larger laptop
-Dialogue: 0,0:57:50.55,0:57:52.25,Default,,0,0,0,,and so I just did a search on the net
+Dialogue: 0,0:57:46.35,0:57:50.35,Default,,0,0,0,,Originally I wanted to it install on uh, my larger laptop
+Dialogue: 0,0:57:50.35,0:57:52.25,Default,,0,0,0,,and so I just did a search on the net
 Dialogue: 0,0:57:52.25,0:57:56.25,Default,,0,0,0,,and found where there were resources to get help
-Dialogue: 0,0:57:56.85,0:57:58.55,Default,,0,0,0,,And um, I'm here today
-Dialogue: 0,0:57:58.55,0:58:02.25,Default,,0,0,0,,cause I'm trying to put Linux on\Nthis little guy right here.
+Dialogue: 0,0:57:56.85,0:58:02.25,Default,,0,0,0,,And um, I'm here today cause I'm trying to put Linux on this little guy right here.
 Dialogue: 0,0:58:02.25,0:58:04.55,Default,,0,0,0,,just a Toshiba Libretto
-Dialogue: 0,0:58:04.55,0:58:07.15,Default,,0,0,0,,It's not a easiest thing in the world to do
-Dialogue: 0,0:58:07.15,0:58:09.75,Default,,0,0,0,,because it's a weird piece of hardware, so...
+Dialogue: 0,0:58:04.55,0:58:09.75,Default,,0,0,0,,It's not a easiest thing in the world to do because it's a weird piece of hardware, so...
 Dialogue: 0,0:58:09.75,0:58:11.75,Default,,0,0,0,,Any chairs around here?
-Dialogue: 0,0:58:23.65,0:58:25.45,Default,,0,0,0,,I think that Department of Justice case
-Dialogue: 0,0:58:25.45,0:58:27.45,Default,,0,0,0,,has made people aware of the fact that
+Dialogue: 0,0:58:23.65,0:58:27.45,Default,,0,0,0,,I think that Department of Justice case has made people aware of the fact that
 Dialogue: 0,0:58:27.45,0:58:30.45,Default,,0,0,0,,you should at least look for alternatives to Microsoft.
 Dialogue: 0,0:58:30.45,0:58:34.45,Default,,0,0,0,,and maybe Microsoft isn't the American dream after all
 Dialogue: 0,0:58:34.55,0:58:36.45,Default,,0,0,0,,and that kind of shifting perception
-Dialogue: 0,0:58:37.75,0:58:39.55,Default,,0,0,0,,you can very clearly see
-Dialogue: 0,0:58:39.55,0:58:43.55,Default,,0,0,0,,that people just took Microsoft for granted
-Dialogue: 0,0:58:44.05,0:58:46.45,Default,,0,0,0,,and maybe they're still buying Microsoft but at least
-Dialogue: 0,0:58:46.45,0:58:49.35,Default,,0,0,0,,they're kind of more aware of the issue these days
+Dialogue: 0,0:58:37.75,0:58:39.95,Default,,0,0,0,,you can very clearly see
+Dialogue: 0,0:58:39.95,0:58:43.55,Default,,0,0,0,,that people just took Microsoft for granted
+Dialogue: 0,0:58:44.05,0:58:45.75,Default,,0,0,0,,and maybe they're still buying Microsoft
+Dialogue: 0,0:58:45.75,0:58:49.35,Default,,0,0,0,,but at least they're kind of more aware of the issue these days
 Dialogue: 0,0:58:49.35,0:58:52.05,Default,,0,0,0,,Microsoft actually uses Linux as defense
-Dialogue: 0,0:58:52.05,0:58:53.45,Default,,0,0,0,,They used Linux to ground a claim
-Dialogue: 0,0:58:53.45,0:58:54.45,Default,,0,0,0,,that they don't have a monopoly
-Dialogue: 0,0:58:54.45,0:58:57.55,Default,,0,0,0,,because Linux could essentially
-Dialogue: 0,0:58:57.55,0:58:59.45,Default,,0,0,0,,push them off their catbird seat at any time.
-Dialogue: 0,0:58:59.45,0:59:02.25,Default,,0,0,0,,It was a very ingenious argument,\Ntotally specious
-Dialogue: 0,0:59:02.25,0:59:04.05,Default,,0,0,0,,because it didn't
-Dialogue: 0,0:59:04.05,0:59:06.25,Default,,0,0,0,,do anything to answer the charge
+Dialogue: 0,0:58:52.05,0:58:54.45,Default,,0,0,0,,They used Linux to ground a claim that they don't have a monopoly
+Dialogue: 0,0:58:54.45,0:58:59.45,Default,,0,0,0,,because Linux could essentially push them off their catbird seat at any time.
+Dialogue: 0,0:58:59.45,0:59:03.00,Default,,0,0,0,,It was a very ingenious argument, totally specious because it didn't
+Dialogue: 0,0:59:03.00,0:59:06.25,Default,,0,0,0,,uh, it didn't do anything to answer the charge
 Dialogue: 0,0:59:06.25,0:59:07.85,Default,,0,0,0,,that they had previously engaged in
 Dialogue: 0,0:59:07.85,0:59:10.55,Default,,0,0,0,,bullying and various anti-competitive practices.
 Dialogue: 0,0:59:10.55,0:59:12.15,Default,,0,0,0,,but it was clever of them
 Dialogue: 0,0:59:12.15,0:59:14.65,Default,,0,0,0,,And, in an event, the judge didn't buy it
-Dialogue: 0,0:59:16.95,0:59:19.55,Default,,0,0,0,,While ordinarily we in the Linux community are\Nrather worried about
-Dialogue: 0,0:59:19.55,0:59:21.95,Default,,0,0,0,,letting Microsoft become the issue,
-Dialogue: 0,0:59:21.95,0:59:27.15,Default,,0,0,0,,but there was a Slashdot article\Nabout December of '98
-Dialogue: 0,0:59:27.15,0:59:32.95,Default,,0,0,0,,where a fellow named Matt at the noodle\Nhad pointed out that...
-Dialogue: 0,0:59:32.95,0:59:35.95,Default,,0,0,0,,the, a gentleman in Australia has managed\Nto receive a refund for
-Dialogue: 0,0:59:35.95,0:59:39.95,Default,,0,0,0,,the unused copy of Windows that\Ncame with his computer.
+Dialogue: 0,0:59:16.95,0:59:21.95,Default,,0,0,0,,While ordinarily we in the Linux community are rather worried about letting Microsoft become the issue,
+Dialogue: 0,0:59:21.95,0:59:27.15,Default,,0,0,0,,but there was a Slashdot article about December of '98
+Dialogue: 0,0:59:27.15,0:59:32.95,Default,,0,0,0,,where a fellow named Matt at the noodle had pointed out that...
+Dialogue: 0,0:59:32.95,0:59:35.95,Default,,0,0,0,,the, a gentleman in Australia has managed to receive a refund for
+Dialogue: 0,0:59:35.95,0:59:39.95,Default,,0,0,0,,the unused copy of Windows that came with his computer.
 Dialogue: 0,0:59:39.95,0:59:44.45,Default,,0,0,0,,So he declared the 19th of January, was it January?
-Dialogue: 0,0:59:44.45,0:59:46.85,Default,,0,0,0,,err, no, It was February. It was February.\NOh, I'm sorry, the 19th of February...
-Dialogue: 0,0:59:46.85,0:59:48.95,Default,,0,0,0,,he declared 19th of February\NWindows Refund Day.
-Dialogue: 0,0:59:48.95,0:59:51.25,Default,,0,0,0,,and he encouraged everyone to go to\Nthe computer manufacturers,
+Dialogue: 0,0:59:44.45,0:59:46.85,Default,,0,0,0,,err, no, It was February. It was February. Oh, I'm sorry, the 19th of February...
+Dialogue: 0,0:59:46.85,0:59:48.95,Default,,0,0,0,,he declared 19th of February Windows Refund Day.
+Dialogue: 0,0:59:48.95,0:59:51.25,Default,,0,0,0,,and he encouraged everyone to go to the computer manufacturers,
 Dialogue: 0,0:59:51.25,0:59:54.25,Default,,0,0,0,,and return their unused copies of Windows...
-Dialogue: 0,0:59:54.25,0:59:57.45,Default,,0,0,0,,as it was specified in the\NWindows End-User License Agreement.
-Dialogue: 0,0:59:57.45,1:00:00.55,Default,,0,0,0,,It's important to remember that\Nin the License itself, it says that
+Dialogue: 0,0:59:54.25,0:59:57.45,Default,,0,0,0,,as it was specified in the Windows End-User License Agreement.
+Dialogue: 0,0:59:57.45,1:00:00.55,Default,,0,0,0,,It's important to remember that in the License itself, it says that
 Dialogue: 0,1:00:00.55,1:00:05.45,Default,,0,0,0,,you can receive a refund if you don't use the software,
 Dialogue: 0,1:00:05.45,1:00:08.45,Default,,0,0,0,,and that the manufacture is bound by law to do this...
 Dialogue: 0,1:00:08.45,1:00:10.45,Default,,0,0,0,,or it was bond by contract.
