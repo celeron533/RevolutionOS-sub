@@ -16,13 +16,14 @@ Video File: ../../../Desktop/Disk1.mkv
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 1.000000
-Scroll Position: 1261
-Active Line: 1273
-Video Position: 109668
+Scroll Position: 1360
+Active Line: 1367
+Video Position: 121247
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Lyric,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1301,108 +1302,101 @@ Dialogue: 0,1:15:39.35,1:15:40.55,Default,,0,0,0,,The you remind them
 Dialogue: 0,1:15:40.55,1:15:42.75,Default,,0,0,0,,"You know, last year was only 6 month ago."
 Dialogue: 0,1:15:42.85,1:15:44.75,Default,,0,0,0,,And then they go "Oh, Linux time".
 Dialogue: 0,1:16:11.45,1:16:13.65,Default,,0,0,0,,So leading up to the IPO, uh...
-Dialogue: 0,1:16:13.65,1:16:19.65,Default,,0,0,0,,we had arrived actually in San Diego\Non Tuesday night
-Dialogue: 0,1:16:19.95,1:16:23.95,Default,,0,0,0,,We spent Wednesday morning meeting investors\Nin San Diego.
+Dialogue: 0,1:16:13.65,1:16:19.65,Default,,0,0,0,,we had arrived actually in San Diego on Tuesday night
+Dialogue: 0,1:16:19.95,1:16:23.95,Default,,0,0,0,,We spent Wednesday morning meeting investors in San Diego.
 Dialogue: 0,1:16:24.35,1:16:25.75,Default,,0,0,0,,We flew up to San Francisco
-Dialogue: 0,1:16:25.75,1:16:29.65,Default,,0,0,0,,spent Wednesday afternoon meeting\Ninvestment firms in San Francisco
-Dialogue: 0,1:16:29.65,1:16:30.55,Default,,0,0,0,,VA Linux Selected\NDecember 9, 1999, as the day\Nfor its stock to begin trading.
-Dialogue: 0,1:16:30.55,1:16:33.95,Default,,0,0,0,,then on the Thursday morning of the IPO is
-Dialogue: 0,1:16:33.95,1:16:36.45,Default,,0,0,0,,when our stock would be traded public ally.
-Dialogue: 0,1:16:36.45,1:16:40.25,Default,,0,0,0,,So it was nice we had ended\Nthe tour in San Francisco
-Dialogue: 0,1:16:40.25,1:16:44.15,Default,,0,0,0,,because we could go to the credit suite's\Ntrading desk the next morning
-Dialogue: 0,1:16:44.15,1:16:46.05,Default,,0,0,0,,to watch the public offering.
-Dialogue: 0,1:16:46.05,1:16:50.05,Default,,0,0,0,,And in San Francisco being close\Nenough to the company, and to our families,
-Dialogue: 0,1:16:50.05,1:16:54.05,Default,,0,0,0,,we could invite people up to\Nactually join us in the first trade.
+Dialogue: 0,1:16:25.75,1:16:29.65,Default,,0,0,0,,spent Wednesday afternoon meeting investment firms in San Francisco
+Dialogue: 0,1:16:29.65,1:16:30.55,Default,,0,0,0,,VA Linux Selected December 9, 1999, as the day for its stock to begin trading.
+Dialogue: 0,1:16:30.55,1:16:36.45,Default,,0,0,0,,then on the Thursday morning of the IPO is when our stock would be traded publicly.
+Dialogue: 0,1:16:36.45,1:16:40.25,Default,,0,0,0,,So it was nice we had ended the tour in San Francisco
+Dialogue: 0,1:16:40.25,1:16:46.05,Default,,0,0,0,,because we could go to the credit suite's trading desk the next morning to watch the public offering.
+Dialogue: 0,1:16:46.05,1:16:50.05,Default,,0,0,0,,And in San Francisco being close enough to the company, and to our families,
+Dialogue: 0,1:16:50.05,1:16:54.05,Default,,0,0,0,,we could invite people up to actually join us in the first trade.
 Dialogue: 0,1:16:54.05,1:16:57.15,Default,,0,0,0,,So I invited my wife and we invited Linus and Tove,
-Dialogue: 0,1:16:57.15,1:17:00.65,Default,,0,0,0,,and a number of other friends and people\Nwho worked in the company in to join us.
+Dialogue: 0,1:16:57.15,1:17:00.65,Default,,0,0,0,,and a number of other friends and people who worked in the company in to join us.
 Dialogue: 0,1:17:00.65,1:17:02.15,Default,,0,0,0,,Whenever we invite Linus and Tove,
-Dialogue: 0,1:17:02.15,1:17:05.25,Default,,0,0,0,,they have uh, two young children,
-Dialogue: 0,1:17:05.25,1:17:07.25,Default,,0,0,0,,and I have a daughter, Andrea.
+Dialogue: 0,1:17:02.15,1:17:07.25,Default,,0,0,0,,they have uh, two young children, and I have a daughter, Andrea.
 Dialogue: 0,1:17:07.25,1:17:08.75,Default,,0,0,0,,And we always bring the kids along
 Dialogue: 0,1:17:08.75,1:17:10.75,Default,,0,0,0,,so we went in to the credit suite's trading floor
 Dialogue: 0,1:17:10.75,1:17:13.15,Default,,0,0,0,,with all these traders and there are these 3 year old kids
-Dialogue: 0,1:17:13.15,1:17:15.45,Default,,0,0,0,,running around and chasing each other\Naround the show floor,
-Dialogue: 0,1:17:15.45,1:17:16.45,Default,,0,0,0,,around the trading floor.
-Dialogue: 0,1:17:16.45,1:17:21.65,Default,,0,0,0,,So Linus and I walked in and\Nwe walked up in to the trading floor
-Dialogue: 0,1:17:21.75,1:17:23.05,Default,,0,0,0,,and everyone was very excited.
-Dialogue: 0,1:17:23.05,1:17:26.25,Default,,0,0,0,,And we kept asking them, well\N"How's it going? Are things going ok?".
+Dialogue: 0,1:17:13.15,1:17:16.45,Default,,0,0,0,,running around and chasing each other around the show floor, around the trading floor.
+Dialogue: 0,1:17:16.45,1:17:23.05,Default,,0,0,0,,So Linus and I walked in and we walked up in to the trading floor and everyone was very excited.
+Dialogue: 0,1:17:23.05,1:17:26.25,Default,,0,0,0,,And we kept asking them, well "How's it going? Are things going ok?".
 Dialogue: 0,1:17:26.25,1:17:29.05,Default,,0,0,0,,And they said, "Oh, it's.. uh, we're really excited,
 Dialogue: 0,1:17:29.05,1:17:30.25,Default,,0,0,0,,I think things are going well.
-Dialogue: 0,1:17:30.25,1:17:33.85,Default,,0,0,0,,We don't wanna, We don't wanna say,\NWe don't wanna jinx anything."
+Dialogue: 0,1:17:30.25,1:17:33.85,Default,,0,0,0,,We don't wanna, We don't wanna say, We don't wanna jinx anything."
 Dialogue: 0,1:17:33.85,1:17:37.85,Default,,0,0,0,,We walked in and it was a big screen TV showing CNBC.
-Dialogue: 0,1:17:38.45,1:17:42.45,Default,,0,0,0,,And it was amazing to us,\Nbut the theme for the day was Linux.
+Dialogue: 0,1:17:38.45,1:17:42.45,Default,,0,0,0,,And it was amazing to us, but the theme for the day was Linux.
 Dialogue: 0,1:17:42.55,1:17:44.95,Default,,0,0,0,,Now we have an IPO that's gonna go today.
 Dialogue: 0,1:17:44.95,1:17:47.15,Default,,0,0,0,,And when I mean go, it is going to go.
 Dialogue: 0,1:17:47.15,1:17:49.15,Default,,0,0,0,,The estimates I'm hearing are staggering.
 Dialogue: 0,1:17:49.15,1:17:52.65,Default,,0,0,0,,But watch VA Linux Systems. It goes at 12:40 today.
 Dialogue: 0,1:17:52.65,1:17:54.35,Default,,0,0,0,,The symbol is L-N-U-X.
-Dialogue: 0,1:17:54.35,1:17:57.95,Default,,0,0,0,,A provider of large scale computer\Nservers and workstations,
+Dialogue: 0,1:17:54.35,1:17:57.95,Default,,0,0,0,,A provider of large scale computer servers and workstations,
 Dialogue: 0,1:17:57.95,1:18:00.15,Default,,0,0,0,,specially designed for the Linux operating system.
-Dialogue: 0,1:18:00.15,1:18:06.25,Default,,0,0,0,,The original range on this IPO was\N11 to 13 dollars, then 21 to 23, then 28 to 30.
-Dialogue: 0,1:18:06.45,1:18:09.75,Default,,0,0,0,,Priced at 30, and the estimates I'm hearing\NI don't wanna repeat
+Dialogue: 0,1:18:00.15,1:18:06.25,Default,,0,0,0,,The original range on this IPO was 11 to 13 dollars, then 21 to 23, then 28 to 30.
+Dialogue: 0,1:18:06.45,1:18:09.75,Default,,0,0,0,,Priced at 30, and the estimates I'm hearing I don't wanna repeat
 Dialogue: 0,1:18:09.75,1:18:11.05,Default,,0,0,0,,because I don't have a confirmation.
-Dialogue: 0,1:18:11.05,1:18:15.95,Default,,0,0,0,,But if they're true, they will blow you're mind\Nwhen this stock takes off at 12:40.
+Dialogue: 0,1:18:11.05,1:18:15.95,Default,,0,0,0,,But if they're true, they will blow you're mind when this stock takes off at 12:40.
 Dialogue: 0,1:18:15.95,1:18:18.35,Default,,0,0,0,,I turned to Linus and I said "Gee, did you ever think,
-Dialogue: 0,1:18:18.35,1:18:23.55,Default,,0,0,0,,you know, you'd walk in here some day and\NLinux would be THE theme on CNBC?".
+Dialogue: 0,1:18:18.35,1:18:23.55,Default,,0,0,0,,you know, you'd walk in here some day and Linux would be THE theme on CNBC?".
 Dialogue: 0,1:18:24.15,1:18:26.85,Default,,0,0,0,,and Linus said in his joking way said "Oh Absolutely!".
-Dialogue: 0,1:18:27.25,1:18:30.75,Default,,0,0,0,,So we walk in and they show us\Nthe buy and sell orders coming in..
-Dialogue: 0,1:18:30.75,1:18:32.75,Default,,0,0,0,,and it's incredible.
-Dialogue: 0,1:18:32.75,1:18:36.35,Default,,0,0,0,,We're seeing numbers like\N320 dollars, 340 dollars a share.
+Dialogue: 0,1:18:27.25,1:18:32.75,Default,,0,0,0,,So we walk in and they show us the buy and sell orders coming in and it's incredible.
+Dialogue: 0,1:18:32.75,1:18:36.35,Default,,0,0,0,,We're seeing numbers like 320 dollars, 340 dollars a share.
 Dialogue: 0,1:18:36.95,1:18:38.85,Default,,0,0,0,,And I'm just in complete shock.
-Dialogue: 0,1:18:38.85,1:18:44.15,Default,,0,0,0,,You know, this is over 10 times\Nwhere we priced the offering. It was incredible.
-Dialogue: 0,1:18:44.45,1:18:48.45,Default,,0,0,0,,And I remember Linus just kind of,\Nsort of patting me on the back and saying,
-Dialogue: 0,1:18:48.45,1:18:52.45,Default,,0,0,0,,you know "Relax..." and it was\Npretty exciting to see that.
+Dialogue: 0,1:18:38.85,1:18:44.15,Default,,0,0,0,,You know, this is over 10 times where we priced the offering. It was incredible.
+Dialogue: 0,1:18:44.45,1:18:48.45,Default,,0,0,0,,And I remember Linus just kind of, sort of patting me on the back and saying,
+Dialogue: 0,1:18:48.45,1:18:52.45,Default,,0,0,0,,you know "Relax..." and it was pretty exciting to see that.
 Dialogue: 0,1:18:52.45,1:18:55.35,Default,,0,0,0,,We were, it was just amazing. We were stunned.
-Dialogue: 0,1:18:55.75,1:18:58.75,Default,,0,0,0,,We were lucky that we were able to\Nget back to the offices,
-Dialogue: 0,1:18:58.75,1:19:02.55,Default,,0,0,0,,we'd been in San Francisco\Nso we could come back to VA's offices
+Dialogue: 0,1:18:55.75,1:18:58.75,Default,,0,0,0,,We were lucky that we were able to get back to the offices,
+Dialogue: 0,1:18:58.75,1:19:02.55,Default,,0,0,0,,we'd been in San Francisco so we could come back to VA's offices
 Dialogue: 0,1:19:02.55,1:19:05.05,Default,,0,0,0,,to, to see everyone in the office for the IPO.
-Dialogue: 0,1:19:05.05,1:19:09.95,Default,,0,0,0,,When we got back, we had uh,\Neveryone was obviously very excited.
+Dialogue: 0,1:19:05.05,1:19:09.95,Default,,0,0,0,,When we got back, we had uh, everyone was obviously very excited.
 Dialogue: 0,1:19:10.55,1:19:13.25,Default,,0,0,0,,The IPO had done just tremendously well.
 Dialogue: 0,1:19:13.25,1:19:16.85,Default,,0,0,0,,We had a little party that we put together.
 Dialogue: 0,1:19:16.85,1:19:18.55,Default,,0,0,0,,It was interesting, while we were celebrating
 Dialogue: 0,1:19:18.55,1:19:21.05,Default,,0,0,0,,there were plenty of people that were still trying to work.
-Dialogue: 0,1:19:21.05,1:19:24.85,Default,,0,0,0,,I recall cries of "Be quiet!",\N"We're on the phone!", "We're Working!",
+Dialogue: 0,1:19:21.05,1:19:24.85,Default,,0,0,0,,I recall cries of "Be quiet!", "We're on the phone!", "We're Working!",
 Dialogue: 0,1:19:24.85,1:19:28.55,Default,,0,0,0,,Uh, as we uh, as we went in to the offices.
-Dialogue: 0,1:19:28.55,1:19:32.35,Default,,0,0,0,,One of the things I did was\NI gave the road show presentation
+Dialogue: 0,1:19:28.55,1:19:32.35,Default,,0,0,0,,One of the things I did was I gave the road show presentation
 Dialogue: 0,1:19:32.35,1:19:34.15,Default,,0,0,0,,for the employees back at the office,
-Dialogue: 0,1:19:34.15,1:19:37.25,Default,,0,0,0,,so they could have an idea of\Nwhat we'd been telling investors,
-Dialogue: 0,1:19:37.25,1:19:40.85,Default,,0,0,0,,and understand exactly what we'd uh,\Nput together for them.
-Dialogue: 0,1:19:40.85,1:19:49.55,Default,,0,0,0,,But again the story of the day is VA Linux,\Nnow up 766% to 235 dollars to 265.
+Dialogue: 0,1:19:34.15,1:19:37.25,Default,,0,0,0,,so they could have an idea of what we'd been telling investors,
+Dialogue: 0,1:19:37.25,1:19:40.85,Default,,0,0,0,,and understand exactly what we'd uh, put together for them.
+Dialogue: 0,1:19:40.85,1:19:49.55,Default,,0,0,0,,But again the story of the day is VA Linux, now up 766%, 235 dollars to 265.
 Dialogue: 0,1:19:49.75,1:19:52.15,Default,,0,0,0,,Sue, the best performing IPO ever.
-Dialogue: 0,1:19:52.15,1:19:57.65,Default,,0,0,0,,Here it goes, Sycamore Networks was uh,\Npriced at 38 dollars, surged to $270.
+Dialogue: 0,1:19:52.15,1:19:57.65,Default,,0,0,0,,Here it goes, Sycamore Networks was uh, priced at 38 dollars, surged to $270.
 Dialogue: 0,1:19:57.95,1:20:00.25,Default,,0,0,0,,This has just beat it. And by the way..
-Dialogue: 0,1:20:00.25,1:20:04.25,Default,,0,0,0,,[ How do you feel about potentially billions\Nof dollars of wealth being created
-Dialogue: 0,1:20:04.45,1:20:08.45,Default,,0,0,0,,from your creation,\Nthat you're not directly cashing out? ]
+Dialogue: 0,1:20:00.25,1:20:04.25,Default,,0,0,0,,[ How do you feel about potentially billions of dollars of wealth being created
+Dialogue: 0,1:20:04.45,1:20:08.45,Default,,0,0,0,,from your creation, that you're not directly cashing out? ]
 Dialogue: 0,1:20:09.05,1:20:12.45,Default,,0,0,0,,So, if I hadn't made Linux available, I mean,
 Dialogue: 0,1:20:12.45,1:20:15.75,Default,,0,0,0,,I wouldn't have gotten any money that way either.
 Dialogue: 0,1:20:15.75,1:20:18.65,Default,,0,0,0,,So I mean, It's a win-win situation.
-Dialogue: 0,1:20:18.65,1:20:25.45,Default,,0,0,0,,Uh, just the fact that there are\Na lot of commercial companies
-Dialogue: 0,1:20:25.55,1:20:31.45,Default,,0,0,0,,means that there are a lot of Linux people\Nwho used to work on Linux kind of on the side.
-Dialogue: 0,1:20:31.95,1:20:34.65,Default,,0,0,0,,And now they get paid for\Ndoing what they wanted to do.
-Dialogue: 0,1:20:34.65,1:20:39.25,Default,,0,0,0,,And that helps me in the sense that\NI wanted them to work on Linux anyway.
+Dialogue: 0,1:20:18.65,1:20:25.45,Default,,0,0,0,,Uh, just the fact that there are a lot of commercial companies
+Dialogue: 0,1:20:25.55,1:20:31.45,Default,,0,0,0,,means that there are a lot of Linux people who used to work on Linux kind of on the side.
+Dialogue: 0,1:20:31.95,1:20:34.65,Default,,0,0,0,,And now they get paid for doing what they wanted to do.
+Dialogue: 0,1:20:34.65,1:20:39.25,Default,,0,0,0,,And that helps me in the sense that I wanted them to work on Linux anyway.
 Dialogue: 0,1:21:00.85,1:21:06.15,Default,,0,0,0,,The whole GNU project is really one big hack.
-Dialogue: 0,1:21:06.65,1:21:10.65,Default,,0,0,0,,It's one big act of subversive playful cleverness,
-Dialogue: 0,1:21:10.65,1:21:16.75,Default,,0,0,0,,to change society for the better, because\NI'm only interested in changing it for the better,
-Dialogue: 0,1:21:16.85,1:21:21.05,Default,,0,0,0,,but in a clever way.
-Dialogue: 0,1:21:21.25,1:21:25.25,Default,,0,0,0,,Hi, we're the GNU/Stallmans, and this is\N"The Free Software Song"
-Dialogue: 0,1:21:26.25,1:21:29.85,Default,,0,0,0,,Join us now and share the software;
-Dialogue: 0,1:21:29.85,1:21:36.65,Default,,0,0,0,,You'll be free, hackers, you'll be free.
-Dialogue: 0,1:21:37.55,1:21:38.35,Default,,0,0,0,,You'll be free, hackers, you'll be free.
-Dialogue: 0,1:21:46.05,1:21:49.15,Default,,0,0,0,,Hoarders may get piles of money,
-Dialogue: 0,1:21:49.15,1:21:56.55,Default,,0,0,0,,That is true, hackers, that is true.
-Dialogue: 0,1:21:58.35,1:22:01.75,Default,,0,0,0,,But they cannot help their neighbors;
-Dialogue: 0,1:22:01.75,1:22:09.75,Default,,0,0,0,,That's ain't good, hackers, that's ain't good.
-Dialogue: 0,1:22:13.95,1:22:16.95,Default,,0,0,0,,When we have enough free software
-Dialogue: 0,1:22:16.95,1:22:24.25,Default,,0,0,0,,At our call, hackers, at our call,
-Dialogue: 0,1:22:26.35,1:22:29.55,Default,,0,0,0,,We'll throw out those dirty licenses
-Dialogue: 0,1:22:29.55,1:22:37.35,Default,,0,0,0,,Ever more, hackers, ever more.
-Dialogue: 0,1:23:12.35,1:23:15.65,Default,,0,0,0,,Join us now and share the software;
-Dialogue: 0,1:23:15.65,1:23:22.85,Default,,0,0,0,,You'll be free, hackers, you'll be free.
-Dialogue: 0,1:23:24.75,1:23:27.75,Default,,0,0,0,,Join us now and share the software;
-Dialogue: 0,1:23:27.75,1:23:34.35,Default,,0,0,0,,You'll be free, hackers, you'll be free.
-Dialogue: 0,1:23:36.55,1:23:39.35,Default,,0,0,0,,Oh, you'll be free
-Dialogue: 0,1:23:39.35,1:23:41.05,Default,,0,0,0,,I let you know.
-Dialogue: 0,1:23:41.05,1:23:43.95,Default,,0,0,0,,That you'll be free. [ repeat ]
-Dialogue: 0,1:23:43.95,1:23:45.85,Default,,0,0,0,,I let you know
-Dialogue: 0,1:23:45.85,1:23:49.85,Default,,0,0,0,,That you'll be free. [ repeat ]
-Dialogue: 0,1:23:52.95,1:23:56.95,Default,,0,0,0,,That you'll be free. [ repeat ]\N(HchC)
+Dialogue: 0,1:21:06.65,1:21:12.86,Default,,0,0,0,,It's one big act of subversive playful cleverness, to change society for the better,
+Dialogue: 0,1:21:12.86,1:21:21.05,Default,,0,0,0,,because I'm only interested in changing it for the better, but in a clever way.
+Dialogue: 0,1:21:21.25,1:21:25.25,Default,,0,0,0,,Hi, we're the GNU/Stallmans, and this is "The Free Software Song"
+Dialogue: 0,1:21:26.25,1:21:29.85,Lyric,,0,0,0,,♪ Join us now and share the software ♪
+Dialogue: 0,1:21:29.85,1:21:36.65,Lyric,,0,0,0,,♪ You'll be free, hackers, you'll be free ♪
+Dialogue: 0,1:21:46.05,1:21:49.15,Lyric,,0,0,0,,♪ Hoarders may get piles of money ♪
+Dialogue: 0,1:21:49.15,1:21:56.55,Lyric,,0,0,0,,♪ That is true, hackers, that is true ♪
+Dialogue: 0,1:21:58.35,1:22:01.75,Lyric,,0,0,0,,♪ But they cannot help their neighbors ♪
+Dialogue: 0,1:22:01.75,1:22:09.75,Lyric,,0,0,0,,♪ That's ain't good, hackers, that's ain't good ♪
+Dialogue: 0,1:22:13.95,1:22:16.95,Lyric,,0,0,0,,♪ When we have enough free software ♪
+Dialogue: 0,1:22:16.95,1:22:24.25,Lyric,,0,0,0,,♪ At our call, hackers, at our call ♪
+Dialogue: 0,1:22:26.35,1:22:29.55,Lyric,,0,0,0,,♪ We'll throw out those dirty licenses ♪
+Dialogue: 0,1:22:29.55,1:22:37.35,Lyric,,0,0,0,,♪ Ever more, hackers, ever more ♪
+Dialogue: 0,1:23:12.35,1:23:15.65,Lyric,,0,0,0,,♪ Join us now and share the software ♪
+Dialogue: 0,1:23:15.65,1:23:22.85,Lyric,,0,0,0,,♪ You'll be free, hackers, you'll be free ♪
+Dialogue: 0,1:23:24.75,1:23:27.75,Lyric,,0,0,0,,♪ Join us now and share the software ♪
+Dialogue: 0,1:23:27.75,1:23:34.35,Lyric,,0,0,0,,♪ You'll be free, hackers, you'll be free ♪
+Dialogue: 0,1:23:36.55,1:23:39.35,Lyric,,0,0,0,,♪ Oh, you'll be free ♪
+Dialogue: 0,1:23:39.35,1:23:41.05,Lyric,,0,0,0,,♪ I let you know ♪
+Dialogue: 0,1:23:41.05,1:23:43.95,Lyric,,0,0,0,,♪ That you'll be free ♪ [ repeat ]
+Dialogue: 0,1:23:43.95,1:23:45.85,Lyric,,0,0,0,,♪ I let you know ♪
+Dialogue: 0,1:23:45.85,1:23:49.85,Lyric,,0,0,0,,♪ That you'll be free ♪ [ repeat ]
+Dialogue: 0,1:23:52.95,1:23:56.95,Lyric,,0,0,0,,♪ That you'll be free ♪ [ repeat ]
+Dialogue: 0,1:24:11.29,1:24:13.29,Default,,0,0,0,,HchC
