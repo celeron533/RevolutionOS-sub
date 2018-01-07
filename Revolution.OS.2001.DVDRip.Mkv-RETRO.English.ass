@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 720
 PlayResY: 306
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../Desktop/Disk1.mkv
-Video File: ../../../Desktop/Disk1.mkv
-Video AR Mode: 4
-Video AR Value: 2.352941
-Video Zoom Percent: 1.000000
-Scroll Position: 584
-Active Line: 585
-Video Position: 48207
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
@@ -71,7 +60,7 @@ Dialogue: 0,0:02:10.05,0:02:11.95,Default,,0,0,0,,programmers collaborating on t
 Dialogue: 0,0:02:11.95,0:02:13.85,Default,,0,0,0,,A challenge to Microsoft Windows NT
 Dialogue: 0,0:02:13.95,0:02:17.75,Default,,0,0,0,,Very popular for its speed and so this is what the craze is about
 Dialogue: 0,0:02:19.45,0:02:23.65,Default,,0,0,0,,To kind of explain what Linux is you have to explain what an Operating System is
-Dialogue: 0,0:02:23.65,0:02:26.15,Default,,0,0,0,,And... the thing about Operating System is\Nyou, I mean...
+Dialogue: 0,0:02:23.65,0:02:26.15,Default,,0,0,0,,And... the thing about Operating System is you, I mean...
 Dialogue: 0,0:02:26.15,0:02:28.85,Default,,0,0,0,,you're never ever supposed to see it.
 Dialogue: 0,0:02:28.85,0:02:30.55,Default,,0,0,0,,Because...
 Dialogue: 0,0:02:30.55,0:02:32.75,Default,,0,0,0,,nobody really uses an Operating System,
@@ -105,7 +94,7 @@ Dialogue: 0,0:04:09.85,0:04:12.35,Default,,0,0,0,,it's unlikely that Linux and O
 Dialogue: 0,0:04:12.35,0:04:14.45,Default,,0,0,0,,would have evolved in to their current forms today
 Dialogue: 0,0:04:15.15,0:04:19.15,Default,,0,0,0,,I joined the MIT Artificial Intelligence Lab in 1971,
 Dialogue: 0,0:04:19.45,0:04:23.45,Default,,0,0,0,,I joined... a thriving community of hackers,
-Dialogue: 0,0:04:24.15,0:04:28.75,Default,,0,0,0,,people who loved programming, loved exploring the what they could do\Nwith computers.
+Dialogue: 0,0:04:24.15,0:04:28.75,Default,,0,0,0,,people who loved programming, loved exploring the what they could do with computers.
 Dialogue: 0,0:04:28.95,0:04:32.15,Default,,0,0,0,,And they had developed a complete Operating System,
 Dialogue: 0,0:04:32.15,0:04:34.65,Default,,0,0,0,,entirely written there.
 Dialogue: 0,0:04:34.75,0:04:37.25,Default,,0,0,0,,And I became one of the team, that
@@ -130,7 +119,7 @@ Dialogue: 0,0:05:33.05,0:05:35.45,Default,,0,0,0,,should be able to do whatever 
 Dialogue: 0,0:05:35.95,0:05:40.95,Default,,0,0,0,,and somebody else who was there yesterday shouldn't be controlling what you do today
 Dialogue: 0,0:05:40.95,0:05:44.75,Default,,0,0,0,,When they put passwords onto one of the machines at MIT
 Dialogue: 0,0:05:45.95,0:05:47.95,Default,,0,0,0,,I and bunch of other hackers didn't like it,
-Dialogue: 0,0:05:47.95,0:05:51.95,Default,,0,0,0,,I decided to try a subversive sort of hack.\N[clears throat]
+Dialogue: 0,0:05:47.95,0:05:51.95,Default,,0,0,0,,I decided to try a subversive sort of hack. [clears throat]
 Dialogue: 0,0:05:52.75,0:05:54.85,Default,,0,0,0,,I figured out how to decode the passwords,
 Dialogue: 0,0:05:54.85,0:05:58.25,Default,,0,0,0,,so by looking at the database of encoded passwords
 Dialogue: 0,0:05:58.25,0:06:01.75,Default,,0,0,0,,I could figure out what each person would actually type to login
@@ -243,7 +232,7 @@ Dialogue: 0,0:11:53.75,0:11:55.85,Default,,0,0,0,,And what the name means is
 Dialogue: 0,0:11:55.85,0:12:00.35,Default,,0,0,0,,I was developing a system that was like the Unix operating system,
 Dialogue: 0,0:12:00.35,0:12:02.75,Default,,0,0,0,,but was not the Unix operating system.
 Dialogue: 0,0:12:02.75,0:12:04.25,Default,,0,0,0,,This was a different system.
-Dialogue: 0,0:12:04.25,0:12:06.65,Default,,0,0,0,,We would have to write it completely\Nfrom scratch
+Dialogue: 0,0:12:04.25,0:12:06.65,Default,,0,0,0,,We would have to write it completely from scratch
 Dialogue: 0,0:12:06.65,0:12:08.55,Default,,0,0,0,,because Unix was proprietary.
 Dialogue: 0,0:12:08.65,0:12:11.63,Default,,0,0,0,,We were forbidden to share Unix, We couldn't use Unix.
 Dialogue: 0,0:12:11.63,0:12:14.15,Default,,0,0,0,,It was useless for a community.
@@ -278,7 +267,7 @@ Dialogue: 0,0:13:43.15,0:13:44.75,Default,,0,0,0,,you need a text editor.
 Dialogue: 0,0:13:44.85,0:13:45.95,Default,,0,0,0,,you need text formatters.
 Dialogue: 0,0:13:46.05,0:13:47.85,Default,,0,0,0,,you need mailers...
 Dialogue: 0,0:13:47.95,0:13:49.25,Default,,0,0,0,,you need lots and lots of things.
-Dialogue: 0,0:13:49.35,0:13:52.95,Default,,0,0,0,,There are hundreds of programs\Nin a Unix-like operating system.
+Dialogue: 0,0:13:49.35,0:13:52.95,Default,,0,0,0,,There are hundreds of programs in a Unix-like operating system.
 Dialogue: 0,0:13:53.35,0:13:54.95,Default,,0,0,0,,I saw Stallman's announcement.
 Dialogue: 0,0:13:55.05,0:13:58.35,Default,,0,0,0,,Actually I met him in February of 1987.
 Dialogue: 0,0:13:58.45,0:14:02.95,Default,,0,0,0,,He came to give a five-day tutorial on Emacs at our company.
