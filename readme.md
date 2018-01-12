@@ -1,6 +1,6 @@
 # 纪录片电影 Revolution OS （《操作系统革命》）中文字幕修订计划
 
-原字幕由 geekbone.org / shlug.org / WiDE 等倾力制作。
+原字幕由 geekbone.org / shlug.org / yinux / WiDE 等倾力制作。
 
 ## 修订缘由
 1. 该纪录片拍摄发行于2001年，字幕发布于2004年（或更早）。当年为了适应低分辨率屏幕，所使用的字体较大，导致大量手工换行；
