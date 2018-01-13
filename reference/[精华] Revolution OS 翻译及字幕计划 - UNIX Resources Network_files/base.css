@@ -1,0 +1,862 @@
+body, html
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11pt;
+  background-color: #dddddd;
+  margin: 0px;
+  padding: 2px;
+}
+
+body, input, textarea, select, option 
+{
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+code, pre, tt
+{
+  font-family: Courier, "Courier New", monospace;
+}
+
+pre
+{
+  background-color: #ddd;
+}
+
+a
+{
+  color: #0000ff;
+  background-color: transparent;
+  text-decoration: none 
+}
+
+a:visited
+{
+  color: #9933cc;
+  background-color: transparent;
+  text-decoration: none 
+}
+
+a:hover
+{
+  color: #ff0000;
+  text-decoration: none 
+}
+
+a:active
+{
+  color: #0000ff;
+  background-color: transparent;
+}
+
+h1, h2, h3, h4
+{
+  font-weight: bold;
+  color: #000066;
+  background-color: transparent;
+}
+
+h1 { font-size: 130%; }
+h2 { font-size: 125%; }
+h3 { font-size: 110%; }
+h4 { font-size: 100%; }
+
+img
+{
+  border: 0px;
+}
+
+table
+{
+  border-collapse: collapse;
+  background-color: #dddddd;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  margin: 0;
+  border-spacing: 0;
+  width: 100%;
+  text-align: center;
+}
+
+table td
+{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+table.index,
+table.contents,
+table.middle,
+table.bottom,
+table.google_search_code
+{
+  background-color: #dddddd;
+  background-image: none;
+  background-repeat: repeat;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  border-spacing: 0;
+}
+
+table.top
+{
+  background-color: #3445dc;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  margin: 0px;
+  padding: 0px;
+  border: 0px solid rgb(153, 0, 0);
+}
+
+table.article_navi
+{
+  background-color: #98b1c4;
+  background-image: none;
+  background-repeat: repeat;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  border-spacing: 0;
+}
+
+table.article_navi td
+{
+  height: 42px;
+  vertical-align: middle;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+table.article_navi td.previous
+{
+  text-align: left;
+  width: 42%;
+}
+
+table.article_navi td.home
+{
+  text-align: center;
+  width: 16%;
+}
+
+table.article_navi td.next
+{
+  text-align: right;
+  width: 42%;
+}
+
+table.contents td,
+table.middle td
+{
+  text-align: left;
+  vertical-align: top;
+}
+
+table.contents td.left
+{
+  width: 180px;
+}
+
+table.contents td.right
+{
+  width: 180px;
+}
+
+table.contents td.google_site_search
+{
+  text-align: left;
+  vertical-align: middle;
+}
+
+table.contents td.middle
+{
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+table.contents td.middle table.about
+{
+  border: 1px dashed rgb(153, 0, 0);
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+table.contents td.middle table.about td
+{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+table.contents td.middle table.about p
+{
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+table.middle td.threaded
+{
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+table.middle td.advertisement,
+table.page_navi td
+{
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+table.location
+{
+  text-align: left;
+}
+
+table.top td
+{
+  margin: 0px;
+  padding: 0px;
+  vertical-align: middle;
+}
+
+table.top td.logo
+{
+  width: 300px;
+}
+
+table.top td.advertisement
+{
+  background-image: url(http://images.unixresources.net/background-468x72.jpg);
+  background-repeat: repeat-x;
+  width: 100%;
+}
+
+table.navi td
+{
+  color: #a0a0a0;
+  text-align: center;
+  background-color: #3445dc;
+  height: 16px;
+  width: 100%;
+}
+
+table.navi td a
+{
+  color: #ffff00;
+}
+
+table.navi td a:hover
+{
+  color: #0000ff;
+  background-color: #ffff93;
+}
+
+table.brief
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  border-spacing: 0;
+  width: 220px;
+  text-align: right;
+}
+
+table.brief td
+{
+  text-align: center;
+}
+
+table.clf_board_list,
+table.about,
+table.friendly_links,
+table.related_links,
+table.resources,
+table.contents td.left table.announcement
+{
+  background-color: #dddddd;
+  background-image: none;
+  background-repeat: repeat;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  text-align: left;
+  width: 180px;
+  border: 0px;
+}
+
+table.resources td,
+table.friendly_links td,
+table.related_links td
+{
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 6px;
+  font-size: 11px;
+}
+
+table.resources td A,
+table.friendly_links td A,
+table.related_links td A
+{
+  text-decoration: underline
+}
+
+table.about td,
+table.contents td.left table.announcement td
+{
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 6px;
+  font-size: 12px;
+}
+
+table.about td.header,
+table.resources td.header,
+table.friendly_links td.header,
+table.related_links td.header,
+table.contents td.left table.announcement td.header
+{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #98b1c4;
+  vertical-align: middle;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 0px;
+  padding-left: 0px;
+  height: 18px;
+}
+
+table.category
+{
+  background-color: #dddddd;
+  background-image: none;
+  background-repeat: repeat;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  text-align: left;
+  width: 100%;
+}
+
+table.category td
+{
+  background-color: #98b1c4;
+  vertical-align: middle;
+  font-size: 10pt;
+  font-weight: bold;
+  height: 24px;
+  padding-left: 4px;
+}
+
+table.clf_board_list tr.header
+{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #98b1c4;
+  vertical-align: middle;
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+table.clf_board_list tr.header a
+{
+  font-weight: bold;
+  font-size: 10pt;
+  color: #000000;
+  text-decoration: underline
+}
+
+table.clf_board_list tr
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  vertical-align: middle;
+}
+
+table.clf_board_list tr a
+{
+  color: #0000ff;
+  text-decoration: underline
+}
+
+table.clf_board_list tr a:hover
+{
+  color: #ff0000;
+  text-decoration: none 
+}
+
+table.clf_board_list tr a:visited
+{
+  color: #9933cc;
+  text-decoration: underline
+}
+
+table.announcement
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  width: 100%;
+  padding: 5px;
+  background-color: #ffd7d7;
+  border: 1px solid rgb(153, 0, 0);
+}
+
+table.announcement td
+{
+  padding: 5px;
+}
+
+table.right td.validation
+{
+  text-align: left;
+}
+
+table.right td.promotion
+{
+  text-align: left;
+  vertical-align: middle;
+  height: 40px;
+}
+
+span.page_creation_mark
+{
+  font-family: Times New Roman;
+  font-size: 9pt;
+  color: #cccccc
+}
+
+div.item
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+}
+
+div.item A
+{
+  font-family: Tahoma, Verdana, sans-serif;
+  font-size: 9pt;
+  color: #000000;
+  text-decoration: none 
+}
+
+div.item A:hover
+{
+  color: #0000ff;
+  background-color : #ffffff;
+  text-decoration: underline
+}
+
+div.item A:visited
+{
+  color: #9933cc;
+}
+
+div.item span.author,
+div.item span.length
+{
+  font-family: Comic Sans MS;
+  color: #ff4d4d;
+}
+
+div.item span.author A
+{
+  font-family: Comic Sans MS;
+  color: #880000;
+}
+
+div.item span.author A:hover
+{
+  font-family: Comic Sans MS;
+  background-color : #f3f3d3;
+}
+
+div.item span.author A:visited
+{
+  color: #008000;
+  background-color: transparent;
+  text-decoration: none 
+}
+
+div.item span.timestamp,
+div.item span.length span.data
+{
+  font-family: verdana,arial,sans-serif;
+  /*font-style: italic;*/
+  font-size: 11px;
+  color: #000080;
+}
+
+div.item span.subject
+{
+  font-family: Tahoma;
+  color: #000000;
+}
+
+div.item span.subject A:visited
+{
+  color: #9933cc;
+}
+
+table.topic
+{
+  /*font-family: Comic Sans MS;*/
+  font-family: Tahoma;
+  font-weight : bold;
+  font-size : 24px;
+  color: #880000;
+  width: 100%;
+}
+
+table.topic td
+{
+  text-align: center;
+  vertical-align: middle;
+  height: 60px;
+}
+
+table.message
+{
+  text-align: left;
+  background-color: #e8e8e8;
+}
+
+table.message td
+{
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  /*width: 100%;*/
+}
+
+table.message td.header
+{
+  background-color: #98b1c4;
+  color: #000000;
+  height: 36px;
+}
+
+table.message td.simple_header
+{
+  background-color: #98b1c4;
+  color: #000000;
+  height: 24px;
+  text-align: center;
+}
+
+table.message td.header span.subject
+{
+}
+
+table.message td.header span.author,
+table.message td.header span.length,
+table.message td.simple_header span.author,
+table.message td.simple_header span.length
+{
+  font-family: Comic Sans MS;
+}
+
+table.message td.header span,
+table.message td.simple_header span
+{
+  color: #000000;
+}
+
+table.message td.header span.prefix,
+table.message td.simple_header span.prefix
+{
+  font-family: Comic Sans MS;
+  font-weight: bold;
+}
+
+table.message td.header span.entity A,
+table.message td.simple_header span.entity A
+{
+  font-family: Comic Sans MS;
+  color: #880000;
+}
+
+table.message td.header span.entity A:hover,
+table.message td.simple_header span.entity A:hover
+{
+  font-family: Comic Sans MS;
+  background-color : #f3f3d3;
+}
+
+table.message td.header span.entity A:visited,
+table.message td.simple_header span.entity A:visited
+{
+  color: #008000;
+  background-color: transparent;
+  text-decoration: none 
+}
+
+table.message td.header span.timestamp
+{
+}
+  
+table.message td.header span.timestamp span.entity,
+table.message td.header span.length span.entity,
+table.message td.simple_header span.timestamp span.entity,
+table.message td.simple_header span.length span.entity
+{
+  font-family: verdana,arial,sans-serif;
+  /*font-style: italic;*/
+  font-size: 11px;
+  color: #000080;
+}
+
+table.message td.top,
+table.message td.bottom
+{
+  font-family: Comic Sans MS;
+  font-size: 11px;
+  text-align: right;
+  padding-right: 16px;
+}
+
+table.message td.body
+{
+  font-size: 12px;
+  height: 64px;
+  vertical-align: top;
+}
+
+table.message td.signature,
+table.message td.attached
+{
+  font-size: 12px;
+  height: 36px;
+  vertical-align: bottom;
+}
+
+table.message td.signature pre
+{
+  font-family: Helvetica, Arial, sans-serif, Verdana;
+  font-size: 12px;
+  background-color: #e8e8e8;
+  text-align: left;
+}
+
+table.message td.signature div
+{
+  color: #808080;
+}
+
+table.message td.ad
+{
+  width: 200px;
+  /*text-align: right;*/
+  /*background-color: #e8e8e8;*/
+}
+
+/*
+table.message td.signature div.entity
+{
+  font-style: italic;
+}
+*/
+
+table.embedded_advertisement
+{
+  padding: 4px;
+  margin: 0px;
+  border: 0px;
+  width: 204px;
+  background-color: #e8e8e8;
+}
+
+table.embedded_advertisement td
+{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  width: 200px;
+  height: 200px;
+}
+
+table.embedded_336x280_advertisement
+{
+  padding: 4px;
+  margin: 0px;
+  border: 0px;
+  width: 340px;
+  background-color: #e8e8e8;
+}
+
+table.embedded_336x280_advertisement td
+{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  width: 336px;
+  height: 280px;
+}
+
+table.embedded_200x90_advertisement
+{
+  padding: 4px;
+  margin: 0px;
+  border: 0px;
+  width: 204px;
+  background-color: #e8e8e8;
+}
+
+table.embedded_200x90_advertisement td
+{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  width: 200px;
+  height: 90px;
+}
+
+h1.category
+{
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+}
+
+h1.latest_updates
+{
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+  color: #ff0000;
+}
+
+hr.hidden
+{
+  height: 0px; 
+  border: solid #dddddd 0px; 
+  border-top-width: 1px;
+}
+
+table.empty td
+{
+  height: 48px;
+  padding-left: 16px;
+  vertical-align: middle;
+}
+
+table.advertisement td
+{
+  text-align: center;
+  vertical-align: middle;
+  height: 72px;
+}
+
+table.boards
+{
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+  color: #000000;
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+table.boards td
+{
+  font-size: 12px;
+  width: 33%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+table.matrix
+{
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+  color: #000000;
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+table.matrix tr td
+{
+  font-size: 12px;
+  width: 16%;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+table.matrix tr.year td
+{
+  height: 16px;
+  vertical-align: middle;
+  padding-top: 12px;
+  padding-bottom: 4px;
+  border-bottom: 1px dotted rgb(152, 177, 196);
+  font-family: Comic Sans MS;
+  font-weight : bold;
+  font-size: 13px;
+}
+
+table.matrix tr.month td
+{
+  height: 16px;
+  vertical-align: middle;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+table.boards td A:hover
+{
+  text-decoration: underline
+}
+
+table.list td.header
+{
+  text-align: left;
+  vertical-align: middle;
+  height: 32px;
+  padding-left: 8px;
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+}
+
+table.list div
+{
+  padding-left: 24px;
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+}
+
+img.book
+{
+  width: 16px;
+  height: 16px;
+}
+
+table.latest_updates
+{
+  font-family: Tahoma, Arial, Verdana, Helvetica, sans-serif;
+  color: #000000;
+}
+
+table.quote
+{
+  background-color: #cccccc;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  margin: 0px;
+  padding: 0px;
+  border: 1px dashed rgb(0, 0, 80);
+}
+
+table.quote td
+{
+  border: 1px dashed rgb(0, 0, 80);
+}
+
+table.google_search_result
+{
+  background-color: #dddddd;
+}
+
+table.google_search_result td
+{
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
